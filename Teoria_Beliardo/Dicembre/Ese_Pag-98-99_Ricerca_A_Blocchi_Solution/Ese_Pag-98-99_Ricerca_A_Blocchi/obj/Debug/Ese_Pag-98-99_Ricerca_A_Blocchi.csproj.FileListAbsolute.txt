@@ -1,0 +1,7 @@
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\Dicembre\Ese_Pag-98-99_Ricerca_A_Blocchi_Solution\Ese_Pag-98-99_Ricerca_A_Blocchi\bin\Debug\Ese_Pag-98-99_Ricerca_A_Blocchi.exe.config
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\Dicembre\Ese_Pag-98-99_Ricerca_A_Blocchi_Solution\Ese_Pag-98-99_Ricerca_A_Blocchi\bin\Debug\Ese_Pag-98-99_Ricerca_A_Blocchi.exe
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\Dicembre\Ese_Pag-98-99_Ricerca_A_Blocchi_Solution\Ese_Pag-98-99_Ricerca_A_Blocchi\bin\Debug\Ese_Pag-98-99_Ricerca_A_Blocchi.pdb
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\Dicembre\Ese_Pag-98-99_Ricerca_A_Blocchi_Solution\Ese_Pag-98-99_Ricerca_A_Blocchi\obj\Debug\Ese_Pag-98-99_Ricerca_A_Blocchi.csproj.AssemblyReference.cache
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\Dicembre\Ese_Pag-98-99_Ricerca_A_Blocchi_Solution\Ese_Pag-98-99_Ricerca_A_Blocchi\obj\Debug\Ese_Pag-98-99_Ricerca_A_Blocchi.csproj.CoreCompileInputs.cache
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\Dicembre\Ese_Pag-98-99_Ricerca_A_Blocchi_Solution\Ese_Pag-98-99_Ricerca_A_Blocchi\obj\Debug\Ese_Pag-98-99_Ricerca_A_Blocchi.exe
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\Dicembre\Ese_Pag-98-99_Ricerca_A_Blocchi_Solution\Ese_Pag-98-99_Ricerca_A_Blocchi\obj\Debug\Ese_Pag-98-99_Ricerca_A_Blocchi.pdb

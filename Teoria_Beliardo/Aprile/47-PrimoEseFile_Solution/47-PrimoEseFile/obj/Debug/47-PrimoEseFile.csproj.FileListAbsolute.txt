@@ -1,0 +1,11 @@
+C:\Users\f.tesio.3619\Downloads\47-PrimoEseFile_Solution\47-PrimoEseFile\bin\Debug\47-PrimoEseFile.exe.config
+C:\Users\f.tesio.3619\Downloads\47-PrimoEseFile_Solution\47-PrimoEseFile\bin\Debug\47-PrimoEseFile.exe
+C:\Users\f.tesio.3619\Downloads\47-PrimoEseFile_Solution\47-PrimoEseFile\bin\Debug\47-PrimoEseFile.pdb
+C:\Users\f.tesio.3619\Downloads\47-PrimoEseFile_Solution\47-PrimoEseFile\obj\Debug\47-PrimoEseFile.csproj.AssemblyReference.cache
+C:\Users\f.tesio.3619\Downloads\47-PrimoEseFile_Solution\47-PrimoEseFile\obj\Debug\47-PrimoEseFile.csproj.SuggestedBindingRedirects.cache
+C:\Users\f.tesio.3619\Downloads\47-PrimoEseFile_Solution\47-PrimoEseFile\obj\Debug\_47_PrimoEseFile.Form1.resources
+C:\Users\f.tesio.3619\Downloads\47-PrimoEseFile_Solution\47-PrimoEseFile\obj\Debug\_47_PrimoEseFile.Properties.Resources.resources
+C:\Users\f.tesio.3619\Downloads\47-PrimoEseFile_Solution\47-PrimoEseFile\obj\Debug\47-PrimoEseFile.csproj.GenerateResource.cache
+C:\Users\f.tesio.3619\Downloads\47-PrimoEseFile_Solution\47-PrimoEseFile\obj\Debug\47-PrimoEseFile.csproj.CoreCompileInputs.cache
+C:\Users\f.tesio.3619\Downloads\47-PrimoEseFile_Solution\47-PrimoEseFile\obj\Debug\47-PrimoEseFile.exe
+C:\Users\f.tesio.3619\Downloads\47-PrimoEseFile_Solution\47-PrimoEseFile\obj\Debug\47-PrimoEseFile.pdb

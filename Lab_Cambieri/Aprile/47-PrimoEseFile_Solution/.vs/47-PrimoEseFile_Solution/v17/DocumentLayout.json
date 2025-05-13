@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tesio\\Downloads\\47-PrimoEseFile_Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0D8783-5F08-4715-B742-AB6C725CFC95}|47-PrimoEseFile\\47-PrimoEseFile.csproj|c:\\users\\tesio\\downloads\\47-primoesefile_solution\\47-primoesefile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0D8783-5F08-4715-B742-AB6C725CFC95}|47-PrimoEseFile\\47-PrimoEseFile.csproj|solutionrelative:47-primoesefile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0D8783-5F08-4715-B742-AB6C725CFC95}|47-PrimoEseFile\\47-PrimoEseFile.csproj|c:\\users\\tesio\\downloads\\47-primoesefile_solution\\47-primoesefile\\clsfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0D8783-5F08-4715-B742-AB6C725CFC95}|47-PrimoEseFile\\47-PrimoEseFile.csproj|solutionrelative:47-primoesefile\\clsfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0D8783-5F08-4715-B742-AB6C725CFC95}|47-PrimoEseFile\\47-PrimoEseFile.csproj|C:\\Users\\tesio\\Downloads\\47-PrimoEseFile_Solution\\47-primoesefile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE0D8783-5F08-4715-B742-AB6C725CFC95}|47-PrimoEseFile\\47-PrimoEseFile.csproj|solutionrelative:47-primoesefile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClsFile.cs",
+              "DocumentMoniker": "C:\\Users\\tesio\\Downloads\\47-PrimoEseFile_Solution\\47-PrimoEseFile\\ClsFile.cs",
+              "RelativeDocumentMoniker": "47-PrimoEseFile\\ClsFile.cs",
+              "ToolTip": "C:\\Users\\tesio\\Downloads\\47-PrimoEseFile_Solution\\47-PrimoEseFile\\ClsFile.cs",
+              "RelativeToolTip": "47-PrimoEseFile\\ClsFile.cs",
+              "ViewState": "AgIAALsAAAAAAAAAAAAmwN8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T08:11:47.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\tesio\\Downloads\\47-PrimoEseFile_Solution\\47-PrimoEseFile\\Form1.cs",
+              "RelativeDocumentMoniker": "47-PrimoEseFile\\Form1.cs",
+              "ToolTip": "C:\\Users\\tesio\\Downloads\\47-PrimoEseFile_Solution\\47-PrimoEseFile\\Form1.cs",
+              "RelativeToolTip": "47-PrimoEseFile\\Form1.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAMwIsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T06:49:11.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\tesio\\Downloads\\47-PrimoEseFile_Solution\\47-PrimoEseFile\\Form1.cs",
+              "RelativeDocumentMoniker": "47-PrimoEseFile\\Form1.cs",
+              "ToolTip": "C:\\Users\\tesio\\Downloads\\47-PrimoEseFile_Solution\\47-PrimoEseFile\\Form1.cs [Progettazione]",
+              "RelativeToolTip": "47-PrimoEseFile\\Form1.cs [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T06:36:36.165Z",
+              "EditorCaption": " [Progettazione]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

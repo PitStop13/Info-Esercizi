@@ -1,0 +1,8 @@
+C:\Users\f.tesio.3619\Documents\Ese_39_Salto_In_Alto_Solution\Ese_39_Salto_In_Alto\bin\Debug\Ese_39_Salto_In_Alto.exe.config
+C:\Users\f.tesio.3619\Documents\Ese_39_Salto_In_Alto_Solution\Ese_39_Salto_In_Alto\bin\Debug\Ese_39_Salto_In_Alto.exe
+C:\Users\f.tesio.3619\Documents\Ese_39_Salto_In_Alto_Solution\Ese_39_Salto_In_Alto\bin\Debug\Ese_39_Salto_In_Alto.pdb
+C:\Users\f.tesio.3619\Documents\Ese_39_Salto_In_Alto_Solution\Ese_39_Salto_In_Alto\obj\Debug\Ese_39_Salto_In_Alto.csproj.AssemblyReference.cache
+C:\Users\f.tesio.3619\Documents\Ese_39_Salto_In_Alto_Solution\Ese_39_Salto_In_Alto\obj\Debug\Ese_39_Salto_In_Alto.csproj.SuggestedBindingRedirects.cache
+C:\Users\f.tesio.3619\Documents\Ese_39_Salto_In_Alto_Solution\Ese_39_Salto_In_Alto\obj\Debug\Ese_39_Salto_In_Alto.csproj.CoreCompileInputs.cache
+C:\Users\f.tesio.3619\Documents\Ese_39_Salto_In_Alto_Solution\Ese_39_Salto_In_Alto\obj\Debug\Ese_39_Salto_In_Alto.exe
+C:\Users\f.tesio.3619\Documents\Ese_39_Salto_In_Alto_Solution\Ese_39_Salto_In_Alto\obj\Debug\Ese_39_Salto_In_Alto.pdb

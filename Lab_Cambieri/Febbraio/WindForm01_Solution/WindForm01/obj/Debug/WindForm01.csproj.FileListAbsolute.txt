@@ -1,0 +1,11 @@
+C:\Users\f.tesio.3619\Desktop\WindForm01_Solution\WindForm01\bin\Debug\WindForm01.exe.config
+C:\Users\f.tesio.3619\Desktop\WindForm01_Solution\WindForm01\bin\Debug\WindForm01.exe
+C:\Users\f.tesio.3619\Desktop\WindForm01_Solution\WindForm01\bin\Debug\WindForm01.pdb
+C:\Users\f.tesio.3619\Desktop\WindForm01_Solution\WindForm01\obj\Debug\WindForm01.csproj.AssemblyReference.cache
+C:\Users\f.tesio.3619\Desktop\WindForm01_Solution\WindForm01\obj\Debug\WindForm01.csproj.SuggestedBindingRedirects.cache
+C:\Users\f.tesio.3619\Desktop\WindForm01_Solution\WindForm01\obj\Debug\WindForm01.Properties.Resources.resources
+C:\Users\f.tesio.3619\Desktop\WindForm01_Solution\WindForm01\obj\Debug\WindForm01.csproj.GenerateResource.cache
+C:\Users\f.tesio.3619\Desktop\WindForm01_Solution\WindForm01\obj\Debug\WindForm01.csproj.CoreCompileInputs.cache
+C:\Users\f.tesio.3619\Desktop\WindForm01_Solution\WindForm01\obj\Debug\WindForm01.exe
+C:\Users\f.tesio.3619\Desktop\WindForm01_Solution\WindForm01\obj\Debug\WindForm01.pdb
+C:\Users\f.tesio.3619\Desktop\WindForm01_Solution\WindForm01\obj\Debug\WindForm01.FormMain.resources

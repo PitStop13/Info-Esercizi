@@ -1,0 +1,7 @@
+C:\Users\f.tesio.3619\Documents\Ese27_Pag85_Solution\Ese27_Pag85\bin\Debug\Ese27_Pag85.exe.config
+C:\Users\f.tesio.3619\Documents\Ese27_Pag85_Solution\Ese27_Pag85\bin\Debug\Ese27_Pag85.exe
+C:\Users\f.tesio.3619\Documents\Ese27_Pag85_Solution\Ese27_Pag85\bin\Debug\Ese27_Pag85.pdb
+C:\Users\f.tesio.3619\Documents\Ese27_Pag85_Solution\Ese27_Pag85\obj\Debug\Ese27_Pag85.csproj.AssemblyReference.cache
+C:\Users\f.tesio.3619\Documents\Ese27_Pag85_Solution\Ese27_Pag85\obj\Debug\Ese27_Pag85.csproj.CoreCompileInputs.cache
+C:\Users\f.tesio.3619\Documents\Ese27_Pag85_Solution\Ese27_Pag85\obj\Debug\Ese27_Pag85.exe
+C:\Users\f.tesio.3619\Documents\Ese27_Pag85_Solution\Ese27_Pag85\obj\Debug\Ese27_Pag85.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "47-PrimoEseFile", "47-PrimoEseFile\47-PrimoEseFile.csproj", "{EE0D8783-5F08-4715-B742-AB6C725CFC95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE0D8783-5F08-4715-B742-AB6C725CFC95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE0D8783-5F08-4715-B742-AB6C725CFC95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE0D8783-5F08-4715-B742-AB6C725CFC95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE0D8783-5F08-4715-B742-AB6C725CFC95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C53A9BB4-4D05-419A-A12C-72E904BFFB40}
+	EndGlobalSection
+EndGlobal

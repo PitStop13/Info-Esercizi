@@ -1,0 +1,7 @@
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\Ese24_CicloWhile_Solution\Ese24_CicloWhile\bin\Debug\Ese24_CicloWhile.exe.config
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\Ese24_CicloWhile_Solution\Ese24_CicloWhile\bin\Debug\Ese24_CicloWhile.exe
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\Ese24_CicloWhile_Solution\Ese24_CicloWhile\bin\Debug\Ese24_CicloWhile.pdb
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\Ese24_CicloWhile_Solution\Ese24_CicloWhile\obj\Debug\Ese24_CicloWhile.csproj.AssemblyReference.cache
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\Ese24_CicloWhile_Solution\Ese24_CicloWhile\obj\Debug\Ese24_CicloWhile.csproj.CoreCompileInputs.cache
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\Ese24_CicloWhile_Solution\Ese24_CicloWhile\obj\Debug\Ese24_CicloWhile.exe
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\Ese24_CicloWhile_Solution\Ese24_CicloWhile\obj\Debug\Ese24_CicloWhile.pdb

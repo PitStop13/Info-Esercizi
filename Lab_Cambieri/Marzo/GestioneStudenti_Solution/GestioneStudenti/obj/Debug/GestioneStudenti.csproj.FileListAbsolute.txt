@@ -1,0 +1,32 @@
+C:\Users\f.tesio.3619\Desktop\GestioneStudenti_Solution\GestioneStudenti\bin\Debug\GestioneStudenti.exe.config
+C:\Users\f.tesio.3619\Desktop\GestioneStudenti_Solution\GestioneStudenti\bin\Debug\GestioneStudenti.exe
+C:\Users\f.tesio.3619\Desktop\GestioneStudenti_Solution\GestioneStudenti\bin\Debug\GestioneStudenti.pdb
+C:\Users\f.tesio.3619\Desktop\GestioneStudenti_Solution\GestioneStudenti\obj\Debug\GestioneStudenti.csproj.AssemblyReference.cache
+C:\Users\f.tesio.3619\Desktop\GestioneStudenti_Solution\GestioneStudenti\obj\Debug\GestioneStudenti.csproj.SuggestedBindingRedirects.cache
+C:\Users\f.tesio.3619\Desktop\GestioneStudenti_Solution\GestioneStudenti\obj\Debug\GestioneStudenti.FormMain.resources
+C:\Users\f.tesio.3619\Desktop\GestioneStudenti_Solution\GestioneStudenti\obj\Debug\GestioneStudenti.Properties.Resources.resources
+C:\Users\f.tesio.3619\Desktop\GestioneStudenti_Solution\GestioneStudenti\obj\Debug\GestioneStudenti.csproj.GenerateResource.cache
+C:\Users\f.tesio.3619\Desktop\GestioneStudenti_Solution\GestioneStudenti\obj\Debug\GestioneStudenti.csproj.CoreCompileInputs.cache
+C:\Users\f.tesio.3619\Desktop\GestioneStudenti_Solution\GestioneStudenti\obj\Debug\GestioneStudenti.exe
+C:\Users\f.tesio.3619\Desktop\GestioneStudenti_Solution\GestioneStudenti\obj\Debug\GestioneStudenti.pdb
+C:\Users\f.tesio.3619\Downloads\GestioneStudenti_Solution\GestioneStudenti\bin\Debug\GestioneStudenti.exe.config
+C:\Users\f.tesio.3619\Downloads\GestioneStudenti_Solution\GestioneStudenti\bin\Debug\GestioneStudenti.exe
+C:\Users\f.tesio.3619\Downloads\GestioneStudenti_Solution\GestioneStudenti\bin\Debug\GestioneStudenti.pdb
+C:\Users\f.tesio.3619\Downloads\GestioneStudenti_Solution\GestioneStudenti\obj\Debug\GestioneStudenti.csproj.AssemblyReference.cache
+C:\Users\f.tesio.3619\Downloads\GestioneStudenti_Solution\GestioneStudenti\obj\Debug\GestioneStudenti.csproj.SuggestedBindingRedirects.cache
+C:\Users\f.tesio.3619\Downloads\GestioneStudenti_Solution\GestioneStudenti\obj\Debug\GestioneStudenti.FormMain.resources
+C:\Users\f.tesio.3619\Downloads\GestioneStudenti_Solution\GestioneStudenti\obj\Debug\GestioneStudenti.Properties.Resources.resources
+C:\Users\f.tesio.3619\Downloads\GestioneStudenti_Solution\GestioneStudenti\obj\Debug\GestioneStudenti.csproj.GenerateResource.cache
+C:\Users\f.tesio.3619\Downloads\GestioneStudenti_Solution\GestioneStudenti\obj\Debug\GestioneStudenti.csproj.CoreCompileInputs.cache
+C:\Users\f.tesio.3619\Downloads\GestioneStudenti_Solution\GestioneStudenti\obj\Debug\GestioneStudenti.exe
+C:\Users\f.tesio.3619\Downloads\GestioneStudenti_Solution\GestioneStudenti\obj\Debug\GestioneStudenti.pdb
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Lab_Cambieri\Marzo\GestioneStudenti_Solution\GestioneStudenti\bin\Debug\GestioneStudenti.exe.config
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Lab_Cambieri\Marzo\GestioneStudenti_Solution\GestioneStudenti\bin\Debug\GestioneStudenti.exe
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Lab_Cambieri\Marzo\GestioneStudenti_Solution\GestioneStudenti\bin\Debug\GestioneStudenti.pdb
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Lab_Cambieri\Marzo\GestioneStudenti_Solution\GestioneStudenti\obj\Debug\GestioneStudenti.csproj.AssemblyReference.cache
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Lab_Cambieri\Marzo\GestioneStudenti_Solution\GestioneStudenti\obj\Debug\GestioneStudenti.FormMain.resources
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Lab_Cambieri\Marzo\GestioneStudenti_Solution\GestioneStudenti\obj\Debug\GestioneStudenti.Properties.Resources.resources
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Lab_Cambieri\Marzo\GestioneStudenti_Solution\GestioneStudenti\obj\Debug\GestioneStudenti.csproj.GenerateResource.cache
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Lab_Cambieri\Marzo\GestioneStudenti_Solution\GestioneStudenti\obj\Debug\GestioneStudenti.csproj.CoreCompileInputs.cache
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Lab_Cambieri\Marzo\GestioneStudenti_Solution\GestioneStudenti\obj\Debug\GestioneStudenti.exe
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Lab_Cambieri\Marzo\GestioneStudenti_Solution\GestioneStudenti\obj\Debug\GestioneStudenti.pdb

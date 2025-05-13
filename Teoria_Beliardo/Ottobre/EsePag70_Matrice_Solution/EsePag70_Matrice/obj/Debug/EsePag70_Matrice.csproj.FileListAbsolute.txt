@@ -1,0 +1,7 @@
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\EsePag70_Matrice_Solution\EsePag70_Matrice\bin\Debug\EsePag70_Matrice.exe.config
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\EsePag70_Matrice_Solution\EsePag70_Matrice\bin\Debug\EsePag70_Matrice.exe
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\EsePag70_Matrice_Solution\EsePag70_Matrice\bin\Debug\EsePag70_Matrice.pdb
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\EsePag70_Matrice_Solution\EsePag70_Matrice\obj\Debug\EsePag70_Matrice.csproj.AssemblyReference.cache
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\EsePag70_Matrice_Solution\EsePag70_Matrice\obj\Debug\EsePag70_Matrice.csproj.CoreCompileInputs.cache
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\EsePag70_Matrice_Solution\EsePag70_Matrice\obj\Debug\EsePag70_Matrice.exe
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\EsePag70_Matrice_Solution\EsePag70_Matrice\obj\Debug\EsePag70_Matrice.pdb

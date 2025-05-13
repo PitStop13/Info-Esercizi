@@ -1,0 +1,7 @@
+F:\Visual studio\Teoria_Beliardo\Ese03_Pag84_Solution\Ese03_Pag84\bin\Debug\Ese03_Pag84.exe.config
+F:\Visual studio\Teoria_Beliardo\Ese03_Pag84_Solution\Ese03_Pag84\bin\Debug\Ese03_Pag84.exe
+F:\Visual studio\Teoria_Beliardo\Ese03_Pag84_Solution\Ese03_Pag84\bin\Debug\Ese03_Pag84.pdb
+F:\Visual studio\Teoria_Beliardo\Ese03_Pag84_Solution\Ese03_Pag84\obj\Debug\Ese03_Pag84.csproj.AssemblyReference.cache
+F:\Visual studio\Teoria_Beliardo\Ese03_Pag84_Solution\Ese03_Pag84\obj\Debug\Ese03_Pag84.csproj.CoreCompileInputs.cache
+F:\Visual studio\Teoria_Beliardo\Ese03_Pag84_Solution\Ese03_Pag84\obj\Debug\Ese03_Pag84.exe
+F:\Visual studio\Teoria_Beliardo\Ese03_Pag84_Solution\Ese03_Pag84\obj\Debug\Ese03_Pag84.pdb

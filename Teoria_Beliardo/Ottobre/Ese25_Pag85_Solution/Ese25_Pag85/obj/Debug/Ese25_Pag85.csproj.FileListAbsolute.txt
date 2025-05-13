@@ -1,0 +1,14 @@
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\Ese25_Pag85_Solution\Ese25_Pag85\bin\Debug\Ese25_Pag85.exe.config
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\Ese25_Pag85_Solution\Ese25_Pag85\bin\Debug\Ese25_Pag85.exe
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\Ese25_Pag85_Solution\Ese25_Pag85\bin\Debug\Ese25_Pag85.pdb
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\Ese25_Pag85_Solution\Ese25_Pag85\obj\Debug\Ese25_Pag85.csproj.AssemblyReference.cache
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\Ese25_Pag85_Solution\Ese25_Pag85\obj\Debug\Ese25_Pag85.csproj.CoreCompileInputs.cache
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\Ese25_Pag85_Solution\Ese25_Pag85\obj\Debug\Ese25_Pag85.exe
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\Ese25_Pag85_Solution\Ese25_Pag85\obj\Debug\Ese25_Pag85.pdb
+C:\Users\f.tesio.3619\Desktop\Ese25_Pag85_Solution\Ese25_Pag85\bin\Debug\Ese25_Pag85.exe.config
+C:\Users\f.tesio.3619\Desktop\Ese25_Pag85_Solution\Ese25_Pag85\bin\Debug\Ese25_Pag85.exe
+C:\Users\f.tesio.3619\Desktop\Ese25_Pag85_Solution\Ese25_Pag85\bin\Debug\Ese25_Pag85.pdb
+C:\Users\f.tesio.3619\Desktop\Ese25_Pag85_Solution\Ese25_Pag85\obj\Debug\Ese25_Pag85.csproj.AssemblyReference.cache
+C:\Users\f.tesio.3619\Desktop\Ese25_Pag85_Solution\Ese25_Pag85\obj\Debug\Ese25_Pag85.csproj.CoreCompileInputs.cache
+C:\Users\f.tesio.3619\Desktop\Ese25_Pag85_Solution\Ese25_Pag85\obj\Debug\Ese25_Pag85.exe
+C:\Users\f.tesio.3619\Desktop\Ese25_Pag85_Solution\Ese25_Pag85\obj\Debug\Ese25_Pag85.pdb

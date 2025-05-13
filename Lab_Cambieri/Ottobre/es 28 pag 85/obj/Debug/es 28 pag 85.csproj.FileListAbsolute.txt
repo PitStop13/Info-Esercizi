@@ -1,0 +1,14 @@
+C:\Users\m.marino.3566\Desktop\es 28 pag 85\obj\Debug\es 28 pag 85.csproj.AssemblyReference.cache
+C:\Users\m.marino.3566\Desktop\es 28 pag 85\obj\Debug\es 28 pag 85.csproj.CoreCompileInputs.cache
+C:\Users\m.marino.3566\Desktop\es 28 pag 85\bin\Debug\es 28 pag 85.exe.config
+C:\Users\m.marino.3566\Desktop\es 28 pag 85\bin\Debug\es 28 pag 85.exe
+C:\Users\m.marino.3566\Desktop\es 28 pag 85\bin\Debug\es 28 pag 85.pdb
+C:\Users\m.marino.3566\Desktop\es 28 pag 85\obj\Debug\es 28 pag 85.exe
+C:\Users\m.marino.3566\Desktop\es 28 pag 85\obj\Debug\es 28 pag 85.pdb
+C:\Users\f.tesio.3619\Desktop\es 28 pag 85 - Copia\bin\Debug\es 28 pag 85.exe.config
+C:\Users\f.tesio.3619\Desktop\es 28 pag 85 - Copia\bin\Debug\es 28 pag 85.exe
+C:\Users\f.tesio.3619\Desktop\es 28 pag 85 - Copia\bin\Debug\es 28 pag 85.pdb
+C:\Users\f.tesio.3619\Desktop\es 28 pag 85 - Copia\obj\Debug\es 28 pag 85.csproj.AssemblyReference.cache
+C:\Users\f.tesio.3619\Desktop\es 28 pag 85 - Copia\obj\Debug\es 28 pag 85.csproj.CoreCompileInputs.cache
+C:\Users\f.tesio.3619\Desktop\es 28 pag 85 - Copia\obj\Debug\es 28 pag 85.exe
+C:\Users\f.tesio.3619\Desktop\es 28 pag 85 - Copia\obj\Debug\es 28 pag 85.pdb

@@ -1,0 +1,27 @@
+C:\Users\m.marino.3566\Desktop\AltoBasso\AltoBasso\obj\Debug\AltoBasso.csproj.AssemblyReference.cache
+C:\Users\m.marino.3566\Desktop\AltoBasso\AltoBasso\obj\Debug\AltoBasso.csproj.SuggestedBindingRedirects.cache
+C:\Users\m.marino.3566\Desktop\AltoBasso\AltoBasso\obj\Debug\AltoBasso.AltoBasso.resources
+C:\Users\m.marino.3566\Desktop\AltoBasso\AltoBasso\obj\Debug\AltoBasso.Properties.Resources.resources
+C:\Users\m.marino.3566\Desktop\AltoBasso\AltoBasso\obj\Debug\AltoBasso.csproj.GenerateResource.cache
+C:\Users\m.marino.3566\Desktop\AltoBasso\AltoBasso\obj\Debug\AltoBasso.csproj.CoreCompileInputs.cache
+C:\Users\f.tesio.3619\Documents\AltoBasso\AltoBasso\bin\Debug\AltoBasso.exe.config
+C:\Users\f.tesio.3619\Documents\AltoBasso\AltoBasso\bin\Debug\AltoBasso.exe
+C:\Users\f.tesio.3619\Documents\AltoBasso\AltoBasso\bin\Debug\AltoBasso.pdb
+C:\Users\f.tesio.3619\Documents\AltoBasso\AltoBasso\obj\Debug\AltoBasso.csproj.AssemblyReference.cache
+C:\Users\f.tesio.3619\Documents\AltoBasso\AltoBasso\obj\Debug\AltoBasso.csproj.SuggestedBindingRedirects.cache
+C:\Users\f.tesio.3619\Documents\AltoBasso\AltoBasso\obj\Debug\AltoBasso.AltoBasso.resources
+C:\Users\f.tesio.3619\Documents\AltoBasso\AltoBasso\obj\Debug\AltoBasso.Properties.Resources.resources
+C:\Users\f.tesio.3619\Documents\AltoBasso\AltoBasso\obj\Debug\AltoBasso.csproj.GenerateResource.cache
+C:\Users\f.tesio.3619\Documents\AltoBasso\AltoBasso\obj\Debug\AltoBasso.csproj.CoreCompileInputs.cache
+C:\Users\f.tesio.3619\Documents\AltoBasso\AltoBasso\obj\Debug\AltoBasso.exe
+C:\Users\f.tesio.3619\Documents\AltoBasso\AltoBasso\obj\Debug\AltoBasso.pdb
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Lab_Cambieri\Febbraio\AltoBasso\AltoBasso\bin\Debug\AltoBasso.exe.config
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Lab_Cambieri\Febbraio\AltoBasso\AltoBasso\bin\Debug\AltoBasso.exe
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Lab_Cambieri\Febbraio\AltoBasso\AltoBasso\bin\Debug\AltoBasso.pdb
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Lab_Cambieri\Febbraio\AltoBasso\AltoBasso\obj\Debug\AltoBasso.csproj.AssemblyReference.cache
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Lab_Cambieri\Febbraio\AltoBasso\AltoBasso\obj\Debug\AltoBasso.AltoBasso.resources
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Lab_Cambieri\Febbraio\AltoBasso\AltoBasso\obj\Debug\AltoBasso.Properties.Resources.resources
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Lab_Cambieri\Febbraio\AltoBasso\AltoBasso\obj\Debug\AltoBasso.csproj.GenerateResource.cache
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Lab_Cambieri\Febbraio\AltoBasso\AltoBasso\obj\Debug\AltoBasso.csproj.CoreCompileInputs.cache
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Lab_Cambieri\Febbraio\AltoBasso\AltoBasso\obj\Debug\AltoBasso.exe
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Lab_Cambieri\Febbraio\AltoBasso\AltoBasso\obj\Debug\AltoBasso.pdb

@@ -1,0 +1,21 @@
+C:\Users\f.tesio.3619\Documents\42-ForzaQuattro_Solution\42-ForzaQuattro\bin\Debug\42-ForzaQuattro.exe.config
+C:\Users\f.tesio.3619\Documents\42-ForzaQuattro_Solution\42-ForzaQuattro\bin\Debug\42-ForzaQuattro.exe
+C:\Users\f.tesio.3619\Documents\42-ForzaQuattro_Solution\42-ForzaQuattro\bin\Debug\42-ForzaQuattro.pdb
+C:\Users\f.tesio.3619\Documents\42-ForzaQuattro_Solution\42-ForzaQuattro\obj\Debug\42-ForzaQuattro.csproj.AssemblyReference.cache
+C:\Users\f.tesio.3619\Documents\42-ForzaQuattro_Solution\42-ForzaQuattro\obj\Debug\42-ForzaQuattro.csproj.SuggestedBindingRedirects.cache
+C:\Users\f.tesio.3619\Documents\42-ForzaQuattro_Solution\42-ForzaQuattro\obj\Debug\_42_ForzaQuattro.ForzaQuattro.resources
+C:\Users\f.tesio.3619\Documents\42-ForzaQuattro_Solution\42-ForzaQuattro\obj\Debug\_42_ForzaQuattro.Properties.Resources.resources
+C:\Users\f.tesio.3619\Documents\42-ForzaQuattro_Solution\42-ForzaQuattro\obj\Debug\42-ForzaQuattro.csproj.GenerateResource.cache
+C:\Users\f.tesio.3619\Documents\42-ForzaQuattro_Solution\42-ForzaQuattro\obj\Debug\42-ForzaQuattro.csproj.CoreCompileInputs.cache
+C:\Users\f.tesio.3619\Documents\42-ForzaQuattro_Solution\42-ForzaQuattro\obj\Debug\42-ForzaQuattro.exe
+C:\Users\f.tesio.3619\Documents\42-ForzaQuattro_Solution\42-ForzaQuattro\obj\Debug\42-ForzaQuattro.pdb
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Teoria_Beliardo\Febbraio\42-ForzaQuattro_Solution\42-ForzaQuattro\bin\Debug\42-ForzaQuattro.exe.config
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Teoria_Beliardo\Febbraio\42-ForzaQuattro_Solution\42-ForzaQuattro\bin\Debug\42-ForzaQuattro.exe
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Teoria_Beliardo\Febbraio\42-ForzaQuattro_Solution\42-ForzaQuattro\bin\Debug\42-ForzaQuattro.pdb
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Teoria_Beliardo\Febbraio\42-ForzaQuattro_Solution\42-ForzaQuattro\obj\Debug\42-ForzaQuattro.csproj.AssemblyReference.cache
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Teoria_Beliardo\Febbraio\42-ForzaQuattro_Solution\42-ForzaQuattro\obj\Debug\_42_ForzaQuattro.ForzaQuattro.resources
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Teoria_Beliardo\Febbraio\42-ForzaQuattro_Solution\42-ForzaQuattro\obj\Debug\_42_ForzaQuattro.Properties.Resources.resources
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Teoria_Beliardo\Febbraio\42-ForzaQuattro_Solution\42-ForzaQuattro\obj\Debug\42-ForzaQuattro.csproj.GenerateResource.cache
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Teoria_Beliardo\Febbraio\42-ForzaQuattro_Solution\42-ForzaQuattro\obj\Debug\42-ForzaQuattro.csproj.CoreCompileInputs.cache
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Teoria_Beliardo\Febbraio\42-ForzaQuattro_Solution\42-ForzaQuattro\obj\Debug\42-ForzaQuattro.exe
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Teoria_Beliardo\Febbraio\42-ForzaQuattro_Solution\42-ForzaQuattro\obj\Debug\42-ForzaQuattro.pdb

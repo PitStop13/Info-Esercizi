@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pietr\\Documents\\Scuola\\INFO\\Lab_Cambieri\\Maggio\\Es_Libri\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9225FBFC-C42A-40FE-A1F9-A2E59CC1B736}|Es_Libri\\Es_Libri.csproj|c:\\users\\pietr\\documents\\scuola\\info\\lab_cambieri\\maggio\\es_libri\\es_libri\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9225FBFC-C42A-40FE-A1F9-A2E59CC1B736}|Es_Libri\\Es_Libri.csproj|solutionrelative:es_libri\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9225FBFC-C42A-40FE-A1F9-A2E59CC1B736}|Es_Libri\\Es_Libri.csproj|c:\\users\\pietr\\documents\\scuola\\info\\lab_cambieri\\maggio\\es_libri\\es_libri\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9225FBFC-C42A-40FE-A1F9-A2E59CC1B736}|Es_Libri\\Es_Libri.csproj|solutionrelative:es_libri\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9225FBFC-C42A-40FE-A1F9-A2E59CC1B736}|Es_Libri\\Es_Libri.csproj|c:\\users\\pietr\\documents\\scuola\\info\\lab_cambieri\\maggio\\es_libri\\es_libri\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9225FBFC-C42A-40FE-A1F9-A2E59CC1B736}|Es_Libri\\Es_Libri.csproj|solutionrelative:es_libri\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormMain.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\pietr\\Documents\\Scuola\\INFO\\Lab_Cambieri\\Maggio\\Es_Libri\\Es_Libri\\FormMain.Designer.cs",
+              "RelativeDocumentMoniker": "Es_Libri\\FormMain.Designer.cs",
+              "ToolTip": "C:\\Users\\pietr\\Documents\\Scuola\\INFO\\Lab_Cambieri\\Maggio\\Es_Libri\\Es_Libri\\FormMain.Designer.cs",
+              "RelativeToolTip": "Es_Libri\\FormMain.Designer.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAYwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T08:58:56.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "C:\\Users\\pietr\\Documents\\Scuola\\INFO\\Lab_Cambieri\\Maggio\\Es_Libri\\Es_Libri\\FormMain.cs",
+              "RelativeDocumentMoniker": "Es_Libri\\FormMain.cs",
+              "ToolTip": "C:\\Users\\pietr\\Documents\\Scuola\\INFO\\Lab_Cambieri\\Maggio\\Es_Libri\\Es_Libri\\FormMain.cs",
+              "RelativeToolTip": "Es_Libri\\FormMain.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAkwEgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T08:53:05.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormMain.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\pietr\\Documents\\Scuola\\INFO\\Lab_Cambieri\\Maggio\\Es_Libri\\Es_Libri\\FormMain.cs",
+              "RelativeDocumentMoniker": "Es_Libri\\FormMain.cs",
+              "ToolTip": "C:\\Users\\pietr\\Documents\\Scuola\\INFO\\Lab_Cambieri\\Maggio\\Es_Libri\\Es_Libri\\FormMain.cs [Progettazione]",
+              "RelativeToolTip": "Es_Libri\\FormMain.cs [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T08:28:09.731Z",
+              "EditorCaption": " [Progettazione]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

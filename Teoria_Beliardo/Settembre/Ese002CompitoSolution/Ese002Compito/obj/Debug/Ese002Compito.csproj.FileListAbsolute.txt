@@ -1,0 +1,7 @@
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\Ese002CompitoSolution\Ese002Compito\obj\Debug\Ese002Compito.csproj.AssemblyReference.cache
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\Ese002CompitoSolution\Ese002Compito\obj\Debug\Ese002Compito.csproj.CoreCompileInputs.cache
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\Ese002CompitoSolution\Ese002Compito\bin\Debug\Ese002Compito.exe.config
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\Ese002CompitoSolution\Ese002Compito\bin\Debug\Ese002Compito.exe
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\Ese002CompitoSolution\Ese002Compito\bin\Debug\Ese002Compito.pdb
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\Ese002CompitoSolution\Ese002Compito\obj\Debug\Ese002Compito.exe
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\Ese002CompitoSolution\Ese002Compito\obj\Debug\Ese002Compito.pdb

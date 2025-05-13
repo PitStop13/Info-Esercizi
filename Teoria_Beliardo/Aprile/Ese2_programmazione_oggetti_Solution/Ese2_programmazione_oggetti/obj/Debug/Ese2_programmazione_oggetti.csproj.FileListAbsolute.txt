@@ -1,0 +1,23 @@
+C:\Users\e.burdisso.3497\Desktop\Ese2_programmazione_oggetti_Solution\Ese2_programmazione_oggetti\bin\Debug\Ese2_programmazione_oggetti.exe.config
+C:\Users\e.burdisso.3497\Desktop\Ese2_programmazione_oggetti_Solution\Ese2_programmazione_oggetti\bin\Debug\Ese2_programmazione_oggetti.exe
+C:\Users\e.burdisso.3497\Desktop\Ese2_programmazione_oggetti_Solution\Ese2_programmazione_oggetti\bin\Debug\Ese2_programmazione_oggetti.pdb
+C:\Users\e.burdisso.3497\Desktop\Ese2_programmazione_oggetti_Solution\Ese2_programmazione_oggetti\obj\Debug\Ese2_programmazione_oggetti.csproj.AssemblyReference.cache
+C:\Users\e.burdisso.3497\Desktop\Ese2_programmazione_oggetti_Solution\Ese2_programmazione_oggetti\obj\Debug\Ese2_programmazione_oggetti.csproj.SuggestedBindingRedirects.cache
+C:\Users\e.burdisso.3497\Desktop\Ese2_programmazione_oggetti_Solution\Ese2_programmazione_oggetti\obj\Debug\Ese2_programmazione_oggetti.csproj.CoreCompileInputs.cache
+C:\Users\e.burdisso.3497\Desktop\Ese2_programmazione_oggetti_Solution\Ese2_programmazione_oggetti\obj\Debug\Ese2_programmazione_oggetti.exe
+C:\Users\e.burdisso.3497\Desktop\Ese2_programmazione_oggetti_Solution\Ese2_programmazione_oggetti\obj\Debug\Ese2_programmazione_oggetti.pdb
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Teoria_Beliardo\Aprile\Ese2_programmazione_oggetti_Solution\Ese2_programmazione_oggetti\bin\Debug\Ese2_programmazione_oggetti.exe.config
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Teoria_Beliardo\Aprile\Ese2_programmazione_oggetti_Solution\Ese2_programmazione_oggetti\bin\Debug\Ese2_programmazione_oggetti.exe
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Teoria_Beliardo\Aprile\Ese2_programmazione_oggetti_Solution\Ese2_programmazione_oggetti\bin\Debug\Ese2_programmazione_oggetti.pdb
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Teoria_Beliardo\Aprile\Ese2_programmazione_oggetti_Solution\Ese2_programmazione_oggetti\obj\Debug\Ese2_programmazione_oggetti.csproj.AssemblyReference.cache
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Teoria_Beliardo\Aprile\Ese2_programmazione_oggetti_Solution\Ese2_programmazione_oggetti\obj\Debug\Ese2_programmazione_oggetti.csproj.CoreCompileInputs.cache
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Teoria_Beliardo\Aprile\Ese2_programmazione_oggetti_Solution\Ese2_programmazione_oggetti\obj\Debug\Ese2_programmazione_oggetti.exe
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Teoria_Beliardo\Aprile\Ese2_programmazione_oggetti_Solution\Ese2_programmazione_oggetti\obj\Debug\Ese2_programmazione_oggetti.pdb
+C:\Users\g.borbone.3494\Desktop\Ese2_programmazione_oggetti_Solution\Ese2_programmazione_oggetti\bin\Debug\Ese2_programmazione_oggetti.exe.config
+C:\Users\g.borbone.3494\Desktop\Ese2_programmazione_oggetti_Solution\Ese2_programmazione_oggetti\bin\Debug\Ese2_programmazione_oggetti.exe
+C:\Users\g.borbone.3494\Desktop\Ese2_programmazione_oggetti_Solution\Ese2_programmazione_oggetti\bin\Debug\Ese2_programmazione_oggetti.pdb
+C:\Users\g.borbone.3494\Desktop\Ese2_programmazione_oggetti_Solution\Ese2_programmazione_oggetti\obj\Debug\Ese2_programmazione_oggetti.csproj.AssemblyReference.cache
+C:\Users\g.borbone.3494\Desktop\Ese2_programmazione_oggetti_Solution\Ese2_programmazione_oggetti\obj\Debug\Ese2_programmazione_oggetti.csproj.SuggestedBindingRedirects.cache
+C:\Users\g.borbone.3494\Desktop\Ese2_programmazione_oggetti_Solution\Ese2_programmazione_oggetti\obj\Debug\Ese2_programmazione_oggetti.csproj.CoreCompileInputs.cache
+C:\Users\g.borbone.3494\Desktop\Ese2_programmazione_oggetti_Solution\Ese2_programmazione_oggetti\obj\Debug\Ese2_programmazione_oggetti.exe
+C:\Users\g.borbone.3494\Desktop\Ese2_programmazione_oggetti_Solution\Ese2_programmazione_oggetti\obj\Debug\Ese2_programmazione_oggetti.pdb

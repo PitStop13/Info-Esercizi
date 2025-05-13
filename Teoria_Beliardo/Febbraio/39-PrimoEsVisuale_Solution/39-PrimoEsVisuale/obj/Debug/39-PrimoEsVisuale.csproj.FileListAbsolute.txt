@@ -1,0 +1,11 @@
+C:\Users\f.tesio.3619\Downloads\39-PrimoEsVisuale_Solution\39-PrimoEsVisuale\bin\Debug\39-PrimoEsVisuale.exe.config
+C:\Users\f.tesio.3619\Downloads\39-PrimoEsVisuale_Solution\39-PrimoEsVisuale\bin\Debug\39-PrimoEsVisuale.exe
+C:\Users\f.tesio.3619\Downloads\39-PrimoEsVisuale_Solution\39-PrimoEsVisuale\bin\Debug\39-PrimoEsVisuale.pdb
+C:\Users\f.tesio.3619\Downloads\39-PrimoEsVisuale_Solution\39-PrimoEsVisuale\obj\Debug\39-PrimoEsVisuale.csproj.AssemblyReference.cache
+C:\Users\f.tesio.3619\Downloads\39-PrimoEsVisuale_Solution\39-PrimoEsVisuale\obj\Debug\39-PrimoEsVisuale.csproj.SuggestedBindingRedirects.cache
+C:\Users\f.tesio.3619\Downloads\39-PrimoEsVisuale_Solution\39-PrimoEsVisuale\obj\Debug\_39_PrimoEsVisuale.PrimaCalc.resources
+C:\Users\f.tesio.3619\Downloads\39-PrimoEsVisuale_Solution\39-PrimoEsVisuale\obj\Debug\_39_PrimoEsVisuale.Properties.Resources.resources
+C:\Users\f.tesio.3619\Downloads\39-PrimoEsVisuale_Solution\39-PrimoEsVisuale\obj\Debug\39-PrimoEsVisuale.csproj.GenerateResource.cache
+C:\Users\f.tesio.3619\Downloads\39-PrimoEsVisuale_Solution\39-PrimoEsVisuale\obj\Debug\39-PrimoEsVisuale.csproj.CoreCompileInputs.cache
+C:\Users\f.tesio.3619\Downloads\39-PrimoEsVisuale_Solution\39-PrimoEsVisuale\obj\Debug\39-PrimoEsVisuale.exe
+C:\Users\f.tesio.3619\Downloads\39-PrimoEsVisuale_Solution\39-PrimoEsVisuale\obj\Debug\39-PrimoEsVisuale.pdb

@@ -1,0 +1,14 @@
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Ese001solution\Ese001\obj\Debug\Ese001.csproj.AssemblyReference.cache
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Ese001solution\Ese001\obj\Debug\Ese001.csproj.CoreCompileInputs.cache
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Ese001solution\Ese001\bin\Debug\Ese001.exe.config
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Ese001solution\Ese001\bin\Debug\Ese001.exe
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Ese001solution\Ese001\bin\Debug\Ese001.pdb
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Ese001solution\Ese001\obj\Debug\Ese001.exe
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Ese001solution\Ese001\obj\Debug\Ese001.pdb
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Lab_Cambieri\Ese001solution\Ese001\bin\Debug\Ese001.exe.config
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Lab_Cambieri\Ese001solution\Ese001\bin\Debug\Ese001.exe
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Lab_Cambieri\Ese001solution\Ese001\bin\Debug\Ese001.pdb
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Lab_Cambieri\Ese001solution\Ese001\obj\Debug\Ese001.csproj.AssemblyReference.cache
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Lab_Cambieri\Ese001solution\Ese001\obj\Debug\Ese001.csproj.CoreCompileInputs.cache
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Lab_Cambieri\Ese001solution\Ese001\obj\Debug\Ese001.exe
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Lab_Cambieri\Ese001solution\Ese001\obj\Debug\Ese001.pdb

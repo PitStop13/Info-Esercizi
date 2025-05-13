@@ -1,0 +1,11 @@
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Maggio\Es_Libri\Es_Libri\bin\Debug\Es_Libri.exe.config
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Maggio\Es_Libri\Es_Libri\bin\Debug\Es_Libri.exe
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Maggio\Es_Libri\Es_Libri\bin\Debug\Es_Libri.pdb
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Maggio\Es_Libri\Es_Libri\obj\Debug\Es_Libri.csproj.AssemblyReference.cache
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Maggio\Es_Libri\Es_Libri\obj\Debug\Es_Libri.FormMain.resources
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Maggio\Es_Libri\Es_Libri\obj\Debug\Es_Libri.Properties.Resources.resources
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Maggio\Es_Libri\Es_Libri\obj\Debug\Es_Libri.csproj.GenerateResource.cache
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Maggio\Es_Libri\Es_Libri\obj\Debug\Es_Libri.csproj.CoreCompileInputs.cache
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Maggio\Es_Libri\Es_Libri\obj\Debug\Es_Libri.exe
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Maggio\Es_Libri\Es_Libri\obj\Debug\Es_Libri.pdb
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Maggio\Es_Libri\Es_Libri\bin\Debug\libri.csv

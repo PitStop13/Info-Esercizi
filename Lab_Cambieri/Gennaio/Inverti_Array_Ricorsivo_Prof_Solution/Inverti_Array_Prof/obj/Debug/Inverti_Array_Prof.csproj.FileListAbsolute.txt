@@ -1,0 +1,7 @@
+C:\Users\f.tesio.3619\Documents\Inverti_Array_Ricorsivo_Prof_Solution\Inverti_Array_Prof\bin\Debug\Inverti_Array_Prof.exe.config
+C:\Users\f.tesio.3619\Documents\Inverti_Array_Ricorsivo_Prof_Solution\Inverti_Array_Prof\bin\Debug\Inverti_Array_Prof.exe
+C:\Users\f.tesio.3619\Documents\Inverti_Array_Ricorsivo_Prof_Solution\Inverti_Array_Prof\bin\Debug\Inverti_Array_Prof.pdb
+C:\Users\f.tesio.3619\Documents\Inverti_Array_Ricorsivo_Prof_Solution\Inverti_Array_Prof\obj\Debug\Inverti_Array_Prof.csproj.AssemblyReference.cache
+C:\Users\f.tesio.3619\Documents\Inverti_Array_Ricorsivo_Prof_Solution\Inverti_Array_Prof\obj\Debug\Inverti_Array_Prof.csproj.CoreCompileInputs.cache
+C:\Users\f.tesio.3619\Documents\Inverti_Array_Ricorsivo_Prof_Solution\Inverti_Array_Prof\obj\Debug\Inverti_Array_Prof.exe
+C:\Users\f.tesio.3619\Documents\Inverti_Array_Ricorsivo_Prof_Solution\Inverti_Array_Prof\obj\Debug\Inverti_Array_Prof.pdb

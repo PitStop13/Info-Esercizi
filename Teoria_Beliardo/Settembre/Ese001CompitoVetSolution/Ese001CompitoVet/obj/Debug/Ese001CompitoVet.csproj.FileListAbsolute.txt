@@ -1,0 +1,8 @@
+E:\Visual studio\Ese001CompitoVetSolution\Ese001CompitoVet\obj\Debug\Ese001CompitoVet.csproj.AssemblyReference.cache
+E:\Visual studio\Ese001CompitoVetSolution\Ese001CompitoVet\obj\Debug\Ese001CompitoVet.csproj.SuggestedBindingRedirects.cache
+E:\Visual studio\Ese001CompitoVetSolution\Ese001CompitoVet\obj\Debug\Ese001CompitoVet.csproj.CoreCompileInputs.cache
+E:\Visual studio\Ese001CompitoVetSolution\Ese001CompitoVet\bin\Debug\Ese001CompitoVet.exe.config
+E:\Visual studio\Ese001CompitoVetSolution\Ese001CompitoVet\bin\Debug\Ese001CompitoVet.exe
+E:\Visual studio\Ese001CompitoVetSolution\Ese001CompitoVet\bin\Debug\Ese001CompitoVet.pdb
+E:\Visual studio\Ese001CompitoVetSolution\Ese001CompitoVet\obj\Debug\Ese001CompitoVet.exe
+E:\Visual studio\Ese001CompitoVetSolution\Ese001CompitoVet\obj\Debug\Ese001CompitoVet.pdb

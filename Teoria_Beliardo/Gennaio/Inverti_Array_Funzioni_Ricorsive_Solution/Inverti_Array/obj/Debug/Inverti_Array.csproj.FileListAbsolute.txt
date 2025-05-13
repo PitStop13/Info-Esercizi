@@ -1,0 +1,7 @@
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Teoria_Beliardo\Gennaio\Inverti_Array_Funzioni_Ricorsive_Solution\Inverti_Array\bin\Debug\Inverti_Array.exe.config
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Teoria_Beliardo\Gennaio\Inverti_Array_Funzioni_Ricorsive_Solution\Inverti_Array\bin\Debug\Inverti_Array.exe
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Teoria_Beliardo\Gennaio\Inverti_Array_Funzioni_Ricorsive_Solution\Inverti_Array\bin\Debug\Inverti_Array.pdb
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Teoria_Beliardo\Gennaio\Inverti_Array_Funzioni_Ricorsive_Solution\Inverti_Array\obj\Debug\Inverti_Array.csproj.AssemblyReference.cache
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Teoria_Beliardo\Gennaio\Inverti_Array_Funzioni_Ricorsive_Solution\Inverti_Array\obj\Debug\Inverti_Array.csproj.CoreCompileInputs.cache
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Teoria_Beliardo\Gennaio\Inverti_Array_Funzioni_Ricorsive_Solution\Inverti_Array\obj\Debug\Inverti_Array.exe
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Teoria_Beliardo\Gennaio\Inverti_Array_Funzioni_Ricorsive_Solution\Inverti_Array\obj\Debug\Inverti_Array.pdb

@@ -1,0 +1,16 @@
+C:\Users\f.tesio.3619\Desktop\Tesio_Federico\Tesio_Federico\bin\Debug\Tesio_Federico.exe.config
+C:\Users\f.tesio.3619\Desktop\Tesio_Federico\Tesio_Federico\bin\Debug\Tesio_Federico.exe
+C:\Users\f.tesio.3619\Desktop\Tesio_Federico\Tesio_Federico\bin\Debug\Tesio_Federico.pdb
+C:\Users\f.tesio.3619\Desktop\Tesio_Federico\Tesio_Federico\obj\Debug\Tesio_Federico.csproj.AssemblyReference.cache
+C:\Users\f.tesio.3619\Desktop\Tesio_Federico\Tesio_Federico\obj\Debug\Tesio_Federico.csproj.SuggestedBindingRedirects.cache
+C:\Users\f.tesio.3619\Desktop\Tesio_Federico\Tesio_Federico\obj\Debug\Tesio_Federico.csproj.CoreCompileInputs.cache
+C:\Users\f.tesio.3619\Desktop\Tesio_Federico\Tesio_Federico\obj\Debug\Tesio_Federico.exe
+C:\Users\f.tesio.3619\Desktop\Tesio_Federico\Tesio_Federico\obj\Debug\Tesio_Federico.pdb
+C:\Users\f.tesio.3619\Documents\Tesio_Federico\Tesio_Federico\bin\Debug\Tesio_Federico.exe.config
+C:\Users\f.tesio.3619\Documents\Tesio_Federico\Tesio_Federico\bin\Debug\Tesio_Federico.exe
+C:\Users\f.tesio.3619\Documents\Tesio_Federico\Tesio_Federico\bin\Debug\Tesio_Federico.pdb
+C:\Users\f.tesio.3619\Documents\Tesio_Federico\Tesio_Federico\obj\Debug\Tesio_Federico.csproj.AssemblyReference.cache
+C:\Users\f.tesio.3619\Documents\Tesio_Federico\Tesio_Federico\obj\Debug\Tesio_Federico.csproj.SuggestedBindingRedirects.cache
+C:\Users\f.tesio.3619\Documents\Tesio_Federico\Tesio_Federico\obj\Debug\Tesio_Federico.csproj.CoreCompileInputs.cache
+C:\Users\f.tesio.3619\Documents\Tesio_Federico\Tesio_Federico\obj\Debug\Tesio_Federico.exe
+C:\Users\f.tesio.3619\Documents\Tesio_Federico\Tesio_Federico\obj\Debug\Tesio_Federico.pdb

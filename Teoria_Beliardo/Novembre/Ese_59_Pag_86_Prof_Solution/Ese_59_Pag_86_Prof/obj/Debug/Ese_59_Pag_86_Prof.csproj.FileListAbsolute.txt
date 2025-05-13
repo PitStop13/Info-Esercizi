@@ -1,0 +1,22 @@
+C:\Users\f.tesio.3619\Documents\Ese_59_Pag_86_Prof_Solution\Ese_59_Pag_86_Prof\bin\Debug\Ese_59_Pag_86_Prof.exe.config
+C:\Users\f.tesio.3619\Documents\Ese_59_Pag_86_Prof_Solution\Ese_59_Pag_86_Prof\bin\Debug\Ese_59_Pag_86_Prof.exe
+C:\Users\f.tesio.3619\Documents\Ese_59_Pag_86_Prof_Solution\Ese_59_Pag_86_Prof\bin\Debug\Ese_59_Pag_86_Prof.pdb
+C:\Users\f.tesio.3619\Documents\Ese_59_Pag_86_Prof_Solution\Ese_59_Pag_86_Prof\obj\Debug\Ese_59_Pag_86_Prof.csproj.AssemblyReference.cache
+C:\Users\f.tesio.3619\Documents\Ese_59_Pag_86_Prof_Solution\Ese_59_Pag_86_Prof\obj\Debug\Ese_59_Pag_86_Prof.csproj.CoreCompileInputs.cache
+C:\Users\f.tesio.3619\Documents\Ese_59_Pag_86_Prof_Solution\Ese_59_Pag_86_Prof\obj\Debug\Ese_59_Pag_86_Prof.exe
+C:\Users\f.tesio.3619\Documents\Ese_59_Pag_86_Prof_Solution\Ese_59_Pag_86_Prof\obj\Debug\Ese_59_Pag_86_Prof.pdb
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\Ese_59_Pag_86_Prof_Solution\Ese_59_Pag_86_Prof\bin\Debug\Ese_59_Pag_86_Prof.exe.config
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\Ese_59_Pag_86_Prof_Solution\Ese_59_Pag_86_Prof\bin\Debug\Ese_59_Pag_86_Prof.exe
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\Ese_59_Pag_86_Prof_Solution\Ese_59_Pag_86_Prof\bin\Debug\Ese_59_Pag_86_Prof.pdb
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\Ese_59_Pag_86_Prof_Solution\Ese_59_Pag_86_Prof\obj\Debug\Ese_59_Pag_86_Prof.csproj.AssemblyReference.cache
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\Ese_59_Pag_86_Prof_Solution\Ese_59_Pag_86_Prof\obj\Debug\Ese_59_Pag_86_Prof.csproj.CoreCompileInputs.cache
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\Ese_59_Pag_86_Prof_Solution\Ese_59_Pag_86_Prof\obj\Debug\Ese_59_Pag_86_Prof.exe
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\Ese_59_Pag_86_Prof_Solution\Ese_59_Pag_86_Prof\obj\Debug\Ese_59_Pag_86_Prof.pdb
+C:\Users\f.tesio.3619\Downloads\Ese_59_Pag_86_Prof_Solution\Ese_59_Pag_86_Prof\bin\Debug\Ese_59_Pag_86_Prof.exe.config
+C:\Users\f.tesio.3619\Downloads\Ese_59_Pag_86_Prof_Solution\Ese_59_Pag_86_Prof\bin\Debug\Ese_59_Pag_86_Prof.exe
+C:\Users\f.tesio.3619\Downloads\Ese_59_Pag_86_Prof_Solution\Ese_59_Pag_86_Prof\bin\Debug\Ese_59_Pag_86_Prof.pdb
+C:\Users\f.tesio.3619\Downloads\Ese_59_Pag_86_Prof_Solution\Ese_59_Pag_86_Prof\obj\Debug\Ese_59_Pag_86_Prof.csproj.AssemblyReference.cache
+C:\Users\f.tesio.3619\Downloads\Ese_59_Pag_86_Prof_Solution\Ese_59_Pag_86_Prof\obj\Debug\Ese_59_Pag_86_Prof.csproj.SuggestedBindingRedirects.cache
+C:\Users\f.tesio.3619\Downloads\Ese_59_Pag_86_Prof_Solution\Ese_59_Pag_86_Prof\obj\Debug\Ese_59_Pag_86_Prof.csproj.CoreCompileInputs.cache
+C:\Users\f.tesio.3619\Downloads\Ese_59_Pag_86_Prof_Solution\Ese_59_Pag_86_Prof\obj\Debug\Ese_59_Pag_86_Prof.exe
+C:\Users\f.tesio.3619\Downloads\Ese_59_Pag_86_Prof_Solution\Ese_59_Pag_86_Prof\obj\Debug\Ese_59_Pag_86_Prof.pdb

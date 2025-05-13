@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tesio\\Desktop\\ITIS Vallauri\\FEDERICO INFORMATICA\\Info 2024-2025\\Visual studio\\Lab_Cambieri\\Marzo\\GestioneStudenti_Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{129600C9-8208-4A8E-8872-4E4E1B41C3C7}|GestioneStudenti\\GestioneStudenti.csproj|c:\\users\\tesio\\desktop\\itis vallauri\\federico informatica\\info 2024-2025\\visual studio\\lab_cambieri\\marzo\\gestionestudenti_solution\\gestionestudenti\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129600C9-8208-4A8E-8872-4E4E1B41C3C7}|GestioneStudenti\\GestioneStudenti.csproj|solutionrelative:gestionestudenti\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129600C9-8208-4A8E-8872-4E4E1B41C3C7}|GestioneStudenti\\GestioneStudenti.csproj|C:\\Users\\tesio\\Desktop\\ITIS Vallauri\\FEDERICO INFORMATICA\\Info 2024-2025\\Visual studio\\Lab_Cambieri\\Marzo\\GestioneStudenti_Solution\\gestionestudenti\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{129600C9-8208-4A8E-8872-4E4E1B41C3C7}|GestioneStudenti\\GestioneStudenti.csproj|solutionrelative:gestionestudenti\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "C:\\Users\\tesio\\Desktop\\ITIS Vallauri\\FEDERICO INFORMATICA\\Info 2024-2025\\Visual studio\\Lab_Cambieri\\Marzo\\GestioneStudenti_Solution\\GestioneStudenti\\FormMain.cs",
+              "RelativeDocumentMoniker": "GestioneStudenti\\FormMain.cs",
+              "ToolTip": "C:\\Users\\tesio\\Desktop\\ITIS Vallauri\\FEDERICO INFORMATICA\\Info 2024-2025\\Visual studio\\Lab_Cambieri\\Marzo\\GestioneStudenti_Solution\\GestioneStudenti\\FormMain.cs",
+              "RelativeToolTip": "GestioneStudenti\\FormMain.cs",
+              "ViewState": "AgIAAPkAAAAAAAAAAAAQwA4BAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T14:20:58.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormMain.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\tesio\\Desktop\\ITIS Vallauri\\FEDERICO INFORMATICA\\Info 2024-2025\\Visual studio\\Lab_Cambieri\\Marzo\\GestioneStudenti_Solution\\GestioneStudenti\\FormMain.cs",
+              "RelativeDocumentMoniker": "GestioneStudenti\\FormMain.cs",
+              "ToolTip": "C:\\Users\\tesio\\Desktop\\ITIS Vallauri\\FEDERICO INFORMATICA\\Info 2024-2025\\Visual studio\\Lab_Cambieri\\Marzo\\GestioneStudenti_Solution\\GestioneStudenti\\FormMain.cs [Progettazione]",
+              "RelativeToolTip": "GestioneStudenti\\FormMain.cs [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T14:20:59.126Z",
+              "EditorCaption": " [Progettazione]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

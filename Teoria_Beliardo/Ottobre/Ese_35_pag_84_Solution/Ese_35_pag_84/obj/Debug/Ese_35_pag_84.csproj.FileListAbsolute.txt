@@ -1,0 +1,15 @@
+C:\Users\f.tesio.3619\Documents\Ese_35_pag_84_Solution\Ese_35_pag_84\obj\Debug\Ese_35_pag_84.csproj.AssemblyReference.cache
+C:\Users\f.tesio.3619\Documents\Ese_35_pag_84_Solution\Ese_35_pag_84\obj\Debug\Ese_35_pag_84.csproj.SuggestedBindingRedirects.cache
+C:\Users\f.tesio.3619\Documents\Ese_35_pag_84_Solution\Ese_35_pag_84\obj\Debug\Ese_35_pag_84.csproj.CoreCompileInputs.cache
+C:\Users\f.tesio.3619\Documents\Ese_35_pag_84_Solution\Ese_35_pag_84\bin\Debug\Ese_35_pag_84.exe.config
+C:\Users\f.tesio.3619\Documents\Ese_35_pag_84_Solution\Ese_35_pag_84\bin\Debug\Ese_35_pag_84.exe
+C:\Users\f.tesio.3619\Documents\Ese_35_pag_84_Solution\Ese_35_pag_84\bin\Debug\Ese_35_pag_84.pdb
+C:\Users\f.tesio.3619\Documents\Ese_35_pag_84_Solution\Ese_35_pag_84\obj\Debug\Ese_35_pag_84.exe
+C:\Users\f.tesio.3619\Documents\Ese_35_pag_84_Solution\Ese_35_pag_84\obj\Debug\Ese_35_pag_84.pdb
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\Ese_35_pag_84_Solution\Ese_35_pag_84\bin\Debug\Ese_35_pag_84.exe.config
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\Ese_35_pag_84_Solution\Ese_35_pag_84\bin\Debug\Ese_35_pag_84.exe
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\Ese_35_pag_84_Solution\Ese_35_pag_84\bin\Debug\Ese_35_pag_84.pdb
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\Ese_35_pag_84_Solution\Ese_35_pag_84\obj\Debug\Ese_35_pag_84.csproj.AssemblyReference.cache
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\Ese_35_pag_84_Solution\Ese_35_pag_84\obj\Debug\Ese_35_pag_84.csproj.CoreCompileInputs.cache
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\Ese_35_pag_84_Solution\Ese_35_pag_84\obj\Debug\Ese_35_pag_84.exe
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\Ese_35_pag_84_Solution\Ese_35_pag_84\obj\Debug\Ese_35_pag_84.pdb

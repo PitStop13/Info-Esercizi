@@ -1,0 +1,8 @@
+C:\Users\f.tesio.3619\Documents\Ese_Pag_98-99_Ricerca_Blocchi_Prof_Solution\Ese_Pag_98-99_Ricerca_Blocchi_Prof\bin\Debug\Ese_Pag_98-99_Ricerca_Blocchi_Prof.exe.config
+C:\Users\f.tesio.3619\Documents\Ese_Pag_98-99_Ricerca_Blocchi_Prof_Solution\Ese_Pag_98-99_Ricerca_Blocchi_Prof\bin\Debug\Ese_Pag_98-99_Ricerca_Blocchi_Prof.exe
+C:\Users\f.tesio.3619\Documents\Ese_Pag_98-99_Ricerca_Blocchi_Prof_Solution\Ese_Pag_98-99_Ricerca_Blocchi_Prof\bin\Debug\Ese_Pag_98-99_Ricerca_Blocchi_Prof.pdb
+C:\Users\f.tesio.3619\Documents\Ese_Pag_98-99_Ricerca_Blocchi_Prof_Solution\Ese_Pag_98-99_Ricerca_Blocchi_Prof\obj\Debug\Ese_Pag_98-99_Ricerca_Blocchi_Prof.csproj.AssemblyReference.cache
+C:\Users\f.tesio.3619\Documents\Ese_Pag_98-99_Ricerca_Blocchi_Prof_Solution\Ese_Pag_98-99_Ricerca_Blocchi_Prof\obj\Debug\Ese_Pag_98-99_Ricerca_Blocchi_Prof.csproj.SuggestedBindingRedirects.cache
+C:\Users\f.tesio.3619\Documents\Ese_Pag_98-99_Ricerca_Blocchi_Prof_Solution\Ese_Pag_98-99_Ricerca_Blocchi_Prof\obj\Debug\Ese_Pag_98-99_Ricerca_Blocchi_Prof.csproj.CoreCompileInputs.cache
+C:\Users\f.tesio.3619\Documents\Ese_Pag_98-99_Ricerca_Blocchi_Prof_Solution\Ese_Pag_98-99_Ricerca_Blocchi_Prof\obj\Debug\Ese_Pag_98-99_Ricerca_Blocchi_Prof.exe
+C:\Users\f.tesio.3619\Documents\Ese_Pag_98-99_Ricerca_Blocchi_Prof_Solution\Ese_Pag_98-99_Ricerca_Blocchi_Prof\obj\Debug\Ese_Pag_98-99_Ricerca_Blocchi_Prof.pdb

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\f.tesio.3619\\Documents\\Algoritmo_di_Fusione_Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA21062-E95E-433C-8B50-B084F7CB156B}|Algoritmo_di_Fusione\\Algoritmo_di_Fusione.csproj|c:\\users\\f.tesio.3619\\documents\\algoritmo_di_fusione_solution\\algoritmo_di_fusione\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DA21062-E95E-433C-8B50-B084F7CB156B}|Algoritmo_di_Fusione\\Algoritmo_di_Fusione.csproj|solutionrelative:algoritmo_di_fusione\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\f.tesio.3619\\Documents\\Algoritmo_di_Fusione_Solution\\Algoritmo_di_Fusione\\Program.cs",
+              "RelativeDocumentMoniker": "Algoritmo_di_Fusione\\Program.cs",
+              "ToolTip": "C:\\Users\\f.tesio.3619\\Documents\\Algoritmo_di_Fusione_Solution\\Algoritmo_di_Fusione\\Program.cs*",
+              "RelativeToolTip": "Algoritmo_di_Fusione\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T07:41:28.567Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

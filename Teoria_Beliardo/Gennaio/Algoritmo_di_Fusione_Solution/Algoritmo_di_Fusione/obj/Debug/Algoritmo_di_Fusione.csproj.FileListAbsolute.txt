@@ -1,0 +1,8 @@
+C:\Users\f.tesio.3619\Documents\Algoritmo_di_Fusione_Solution\Algoritmo_di_Fusione\bin\Debug\Algoritmo_di_Fusione.exe.config
+C:\Users\f.tesio.3619\Documents\Algoritmo_di_Fusione_Solution\Algoritmo_di_Fusione\bin\Debug\Algoritmo_di_Fusione.exe
+C:\Users\f.tesio.3619\Documents\Algoritmo_di_Fusione_Solution\Algoritmo_di_Fusione\bin\Debug\Algoritmo_di_Fusione.pdb
+C:\Users\f.tesio.3619\Documents\Algoritmo_di_Fusione_Solution\Algoritmo_di_Fusione\obj\Debug\Algoritmo_di_Fusione.csproj.AssemblyReference.cache
+C:\Users\f.tesio.3619\Documents\Algoritmo_di_Fusione_Solution\Algoritmo_di_Fusione\obj\Debug\Algoritmo_di_Fusione.csproj.CoreCompileInputs.cache
+C:\Users\f.tesio.3619\Documents\Algoritmo_di_Fusione_Solution\Algoritmo_di_Fusione\obj\Debug\Algoritmo_di_Fusione.exe
+C:\Users\f.tesio.3619\Documents\Algoritmo_di_Fusione_Solution\Algoritmo_di_Fusione\obj\Debug\Algoritmo_di_Fusione.pdb
+C:\Users\f.tesio.3619\Documents\Algoritmo_di_Fusione_Solution\Algoritmo_di_Fusione\obj\Debug\Algoritmo_di_Fusione.csproj.SuggestedBindingRedirects.cache

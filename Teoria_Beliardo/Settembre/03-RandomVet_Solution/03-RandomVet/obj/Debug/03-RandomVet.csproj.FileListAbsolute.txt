@@ -1,0 +1,8 @@
+C:\Users\f.tesio.3619\Downloads\03-RandomVet_Solution\03-RandomVet\obj\Debug\03-RandomVet.csproj.AssemblyReference.cache
+C:\Users\f.tesio.3619\Downloads\03-RandomVet_Solution\03-RandomVet\obj\Debug\03-RandomVet.csproj.SuggestedBindingRedirects.cache
+C:\Users\f.tesio.3619\Downloads\03-RandomVet_Solution\03-RandomVet\obj\Debug\03-RandomVet.csproj.CoreCompileInputs.cache
+C:\Users\f.tesio.3619\Downloads\03-RandomVet_Solution\03-RandomVet\bin\Debug\03-RandomVet.exe.config
+C:\Users\f.tesio.3619\Downloads\03-RandomVet_Solution\03-RandomVet\bin\Debug\03-RandomVet.exe
+C:\Users\f.tesio.3619\Downloads\03-RandomVet_Solution\03-RandomVet\bin\Debug\03-RandomVet.pdb
+C:\Users\f.tesio.3619\Downloads\03-RandomVet_Solution\03-RandomVet\obj\Debug\03-RandomVet.exe
+C:\Users\f.tesio.3619\Downloads\03-RandomVet_Solution\03-RandomVet\obj\Debug\03-RandomVet.pdb

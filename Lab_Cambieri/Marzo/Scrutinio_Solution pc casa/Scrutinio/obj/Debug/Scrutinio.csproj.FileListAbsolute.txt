@@ -1,0 +1,40 @@
+C:\Users\f.tesio.3619\Desktop\Scrutinio_Solution\Scrutinio\bin\Debug\Scrutinio.exe.config
+C:\Users\f.tesio.3619\Desktop\Scrutinio_Solution\Scrutinio\bin\Debug\Scrutinio.exe
+C:\Users\f.tesio.3619\Desktop\Scrutinio_Solution\Scrutinio\bin\Debug\Scrutinio.pdb
+C:\Users\f.tesio.3619\Desktop\Scrutinio_Solution\Scrutinio\obj\Debug\Scrutinio.csproj.AssemblyReference.cache
+C:\Users\f.tesio.3619\Desktop\Scrutinio_Solution\Scrutinio\obj\Debug\Scrutinio.FormScrutinio.resources
+C:\Users\f.tesio.3619\Desktop\Scrutinio_Solution\Scrutinio\obj\Debug\Scrutinio.Properties.Resources.resources
+C:\Users\f.tesio.3619\Desktop\Scrutinio_Solution\Scrutinio\obj\Debug\Scrutinio.csproj.GenerateResource.cache
+C:\Users\f.tesio.3619\Desktop\Scrutinio_Solution\Scrutinio\obj\Debug\Scrutinio.csproj.CoreCompileInputs.cache
+C:\Users\f.tesio.3619\Desktop\Scrutinio_Solution\Scrutinio\obj\Debug\Scrutinio.exe
+C:\Users\f.tesio.3619\Desktop\Scrutinio_Solution\Scrutinio\obj\Debug\Scrutinio.pdb
+C:\Users\f.tesio.3619\Downloads\Scrutinio_Solution\Scrutinio\bin\Debug\Scrutinio.exe.config
+C:\Users\f.tesio.3619\Downloads\Scrutinio_Solution\Scrutinio\bin\Debug\Scrutinio.exe
+C:\Users\f.tesio.3619\Downloads\Scrutinio_Solution\Scrutinio\bin\Debug\Scrutinio.pdb
+C:\Users\f.tesio.3619\Downloads\Scrutinio_Solution\Scrutinio\obj\Debug\Scrutinio.csproj.AssemblyReference.cache
+C:\Users\f.tesio.3619\Downloads\Scrutinio_Solution\Scrutinio\obj\Debug\Scrutinio.FormScrutinio.resources
+C:\Users\f.tesio.3619\Downloads\Scrutinio_Solution\Scrutinio\obj\Debug\Scrutinio.Properties.Resources.resources
+C:\Users\f.tesio.3619\Downloads\Scrutinio_Solution\Scrutinio\obj\Debug\Scrutinio.csproj.GenerateResource.cache
+C:\Users\f.tesio.3619\Downloads\Scrutinio_Solution\Scrutinio\obj\Debug\Scrutinio.csproj.CoreCompileInputs.cache
+C:\Users\f.tesio.3619\Downloads\Scrutinio_Solution\Scrutinio\obj\Debug\Scrutinio.exe
+C:\Users\f.tesio.3619\Downloads\Scrutinio_Solution\Scrutinio\obj\Debug\Scrutinio.pdb
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Lab_Cambieri\Febbraio\Scrutinio_Solution\Scrutinio\bin\Debug\Scrutinio.exe.config
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Lab_Cambieri\Febbraio\Scrutinio_Solution\Scrutinio\bin\Debug\Scrutinio.exe
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Lab_Cambieri\Febbraio\Scrutinio_Solution\Scrutinio\bin\Debug\Scrutinio.pdb
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Lab_Cambieri\Febbraio\Scrutinio_Solution\Scrutinio\obj\Debug\Scrutinio.csproj.AssemblyReference.cache
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Lab_Cambieri\Febbraio\Scrutinio_Solution\Scrutinio\obj\Debug\Scrutinio.FormScrutinio.resources
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Lab_Cambieri\Febbraio\Scrutinio_Solution\Scrutinio\obj\Debug\Scrutinio.Properties.Resources.resources
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Lab_Cambieri\Febbraio\Scrutinio_Solution\Scrutinio\obj\Debug\Scrutinio.csproj.GenerateResource.cache
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Lab_Cambieri\Febbraio\Scrutinio_Solution\Scrutinio\obj\Debug\Scrutinio.csproj.CoreCompileInputs.cache
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Lab_Cambieri\Febbraio\Scrutinio_Solution\Scrutinio\obj\Debug\Scrutinio.exe
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Lab_Cambieri\Febbraio\Scrutinio_Solution\Scrutinio\obj\Debug\Scrutinio.pdb
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Lab_Cambieri\Febbraio\Scrutinio_Solution pc casa\Scrutinio\bin\Debug\Scrutinio.exe.config
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Lab_Cambieri\Febbraio\Scrutinio_Solution pc casa\Scrutinio\bin\Debug\Scrutinio.exe
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Lab_Cambieri\Febbraio\Scrutinio_Solution pc casa\Scrutinio\bin\Debug\Scrutinio.pdb
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Lab_Cambieri\Febbraio\Scrutinio_Solution pc casa\Scrutinio\obj\Debug\Scrutinio.csproj.AssemblyReference.cache
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Lab_Cambieri\Febbraio\Scrutinio_Solution pc casa\Scrutinio\obj\Debug\Scrutinio.FormScrutinio.resources
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Lab_Cambieri\Febbraio\Scrutinio_Solution pc casa\Scrutinio\obj\Debug\Scrutinio.Properties.Resources.resources
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Lab_Cambieri\Febbraio\Scrutinio_Solution pc casa\Scrutinio\obj\Debug\Scrutinio.csproj.GenerateResource.cache
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Lab_Cambieri\Febbraio\Scrutinio_Solution pc casa\Scrutinio\obj\Debug\Scrutinio.csproj.CoreCompileInputs.cache
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Lab_Cambieri\Febbraio\Scrutinio_Solution pc casa\Scrutinio\obj\Debug\Scrutinio.exe
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Lab_Cambieri\Febbraio\Scrutinio_Solution pc casa\Scrutinio\obj\Debug\Scrutinio.pdb

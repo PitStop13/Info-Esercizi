@@ -1,0 +1,6 @@
+1) Ho aggiunto un'eccezione personalizzata per nome e cognome (InvalidStringException) che permette l'inserimento di sole lettere.
+2) Ho aggiunto un'eccezione personalizzata per l'indirizzo che permette (InvalidStringException) l'inserimento di sole lettere e numeri.
+3) Ho aggiunto un'eccezione generica, che viene lanciata in caso di un'eccezione generica non gestita.
+4) Ho aggiunto l'eccezione sul formato (FormatException) per età.
+5) Ho aggiornato il diagramma UML aggiungendo le classi private per le eccezioni.
+6) Ho aggiunto alla classe ClsCalcolatore i commenti per ogni funzione.

@@ -1,0 +1,7 @@
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Teoria_Beliardo\Gennaio\Valore_Max_Ricorsione_Solution\Valore_Max_Ricorsione\bin\Debug\Valore_Max_Ricorsione.exe.config
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Teoria_Beliardo\Gennaio\Valore_Max_Ricorsione_Solution\Valore_Max_Ricorsione\bin\Debug\Valore_Max_Ricorsione.exe
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Teoria_Beliardo\Gennaio\Valore_Max_Ricorsione_Solution\Valore_Max_Ricorsione\bin\Debug\Valore_Max_Ricorsione.pdb
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Teoria_Beliardo\Gennaio\Valore_Max_Ricorsione_Solution\Valore_Max_Ricorsione\obj\Debug\Valore_Max_Ricorsione.csproj.AssemblyReference.cache
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Teoria_Beliardo\Gennaio\Valore_Max_Ricorsione_Solution\Valore_Max_Ricorsione\obj\Debug\Valore_Max_Ricorsione.csproj.CoreCompileInputs.cache
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Teoria_Beliardo\Gennaio\Valore_Max_Ricorsione_Solution\Valore_Max_Ricorsione\obj\Debug\Valore_Max_Ricorsione.exe
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Teoria_Beliardo\Gennaio\Valore_Max_Ricorsione_Solution\Valore_Max_Ricorsione\obj\Debug\Valore_Max_Ricorsione.pdb

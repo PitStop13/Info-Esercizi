@@ -1,0 +1,8 @@
+C:\Users\f.tesio.3619\Documents\Confronto_Ordinamenti_Solution\Confronto_Ordinamenti\bin\Debug\Confronto_Ordinamenti.exe.config
+C:\Users\f.tesio.3619\Documents\Confronto_Ordinamenti_Solution\Confronto_Ordinamenti\bin\Debug\Confronto_Ordinamenti.exe
+C:\Users\f.tesio.3619\Documents\Confronto_Ordinamenti_Solution\Confronto_Ordinamenti\bin\Debug\Confronto_Ordinamenti.pdb
+C:\Users\f.tesio.3619\Documents\Confronto_Ordinamenti_Solution\Confronto_Ordinamenti\obj\Debug\Confronto_Ordinamenti.csproj.AssemblyReference.cache
+C:\Users\f.tesio.3619\Documents\Confronto_Ordinamenti_Solution\Confronto_Ordinamenti\obj\Debug\Confronto_Ordinamenti.csproj.SuggestedBindingRedirects.cache
+C:\Users\f.tesio.3619\Documents\Confronto_Ordinamenti_Solution\Confronto_Ordinamenti\obj\Debug\Confronto_Ordinamenti.csproj.CoreCompileInputs.cache
+C:\Users\f.tesio.3619\Documents\Confronto_Ordinamenti_Solution\Confronto_Ordinamenti\obj\Debug\Confronto_Ordinamenti.exe
+C:\Users\f.tesio.3619\Documents\Confronto_Ordinamenti_Solution\Confronto_Ordinamenti\obj\Debug\Confronto_Ordinamenti.pdb

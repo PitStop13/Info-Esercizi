@@ -1,0 +1,14 @@
+C:\Users\f.tesio.3619\Documents\Ese_62_Pag_86_Solution\Ese_62_Pag_86\bin\Debug\Ese_62_Pag_86.exe.config
+C:\Users\f.tesio.3619\Documents\Ese_62_Pag_86_Solution\Ese_62_Pag_86\bin\Debug\Ese_62_Pag_86.exe
+C:\Users\f.tesio.3619\Documents\Ese_62_Pag_86_Solution\Ese_62_Pag_86\bin\Debug\Ese_62_Pag_86.pdb
+C:\Users\f.tesio.3619\Documents\Ese_62_Pag_86_Solution\Ese_62_Pag_86\obj\Debug\Ese_62_Pag_86.csproj.AssemblyReference.cache
+C:\Users\f.tesio.3619\Documents\Ese_62_Pag_86_Solution\Ese_62_Pag_86\obj\Debug\Ese_62_Pag_86.csproj.CoreCompileInputs.cache
+C:\Users\f.tesio.3619\Documents\Ese_62_Pag_86_Solution\Ese_62_Pag_86\obj\Debug\Ese_62_Pag_86.exe
+C:\Users\f.tesio.3619\Documents\Ese_62_Pag_86_Solution\Ese_62_Pag_86\obj\Debug\Ese_62_Pag_86.pdb
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Lab_Cambieri\Ese_62_Pag_86_Solution\Ese_62_Pag_86\bin\Debug\Ese_62_Pag_86.exe.config
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Lab_Cambieri\Ese_62_Pag_86_Solution\Ese_62_Pag_86\bin\Debug\Ese_62_Pag_86.exe
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Lab_Cambieri\Ese_62_Pag_86_Solution\Ese_62_Pag_86\bin\Debug\Ese_62_Pag_86.pdb
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Lab_Cambieri\Ese_62_Pag_86_Solution\Ese_62_Pag_86\obj\Debug\Ese_62_Pag_86.csproj.AssemblyReference.cache
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Lab_Cambieri\Ese_62_Pag_86_Solution\Ese_62_Pag_86\obj\Debug\Ese_62_Pag_86.csproj.CoreCompileInputs.cache
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Lab_Cambieri\Ese_62_Pag_86_Solution\Ese_62_Pag_86\obj\Debug\Ese_62_Pag_86.exe
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Lab_Cambieri\Ese_62_Pag_86_Solution\Ese_62_Pag_86\obj\Debug\Ese_62_Pag_86.pdb

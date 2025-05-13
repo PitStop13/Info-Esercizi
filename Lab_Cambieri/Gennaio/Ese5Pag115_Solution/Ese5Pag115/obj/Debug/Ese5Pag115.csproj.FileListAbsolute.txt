@@ -1,0 +1,7 @@
+C:\Users\oscar.cambieri\Desktop\Ese5Pag115_Solution\Ese5Pag115\bin\Debug\Ese5Pag115.exe.config
+C:\Users\oscar.cambieri\Desktop\Ese5Pag115_Solution\Ese5Pag115\bin\Debug\Ese5Pag115.exe
+C:\Users\oscar.cambieri\Desktop\Ese5Pag115_Solution\Ese5Pag115\bin\Debug\Ese5Pag115.pdb
+C:\Users\oscar.cambieri\Desktop\Ese5Pag115_Solution\Ese5Pag115\obj\Debug\Ese5Pag115.csproj.AssemblyReference.cache
+C:\Users\oscar.cambieri\Desktop\Ese5Pag115_Solution\Ese5Pag115\obj\Debug\Ese5Pag115.csproj.CoreCompileInputs.cache
+C:\Users\oscar.cambieri\Desktop\Ese5Pag115_Solution\Ese5Pag115\obj\Debug\Ese5Pag115.exe
+C:\Users\oscar.cambieri\Desktop\Ese5Pag115_Solution\Ese5Pag115\obj\Debug\Ese5Pag115.pdb

@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tesio\\Desktop\\ITIS Vallauri\\FEDERICO INFORMATICA\\Info 2024-2025\\Visual studio\\Lab_Cambieri\\Febbraio\\Scrutinio_Solution pc casa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B5A1E0-9525-4C5C-A346-8546DD830633}|Scrutinio\\Scrutinio.csproj|c:\\users\\tesio\\desktop\\itis vallauri\\federico informatica\\info 2024-2025\\visual studio\\lab_cambieri\\febbraio\\scrutinio_solution pc casa\\scrutinio\\formscrutinio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0B5A1E0-9525-4C5C-A346-8546DD830633}|Scrutinio\\Scrutinio.csproj|solutionrelative:scrutinio\\formscrutinio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B5A1E0-9525-4C5C-A346-8546DD830633}|Scrutinio\\Scrutinio.csproj|C:\\Users\\tesio\\Desktop\\ITIS Vallauri\\FEDERICO INFORMATICA\\Info 2024-2025\\Visual studio\\Lab_Cambieri\\Febbraio\\Scrutinio_Solution pc casa\\scrutinio\\formscrutinio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0B5A1E0-9525-4C5C-A346-8546DD830633}|Scrutinio\\Scrutinio.csproj|solutionrelative:scrutinio\\formscrutinio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B5A1E0-9525-4C5C-A346-8546DD830633}|Scrutinio\\Scrutinio.csproj|C:\\Users\\tesio\\Desktop\\ITIS Vallauri\\FEDERICO INFORMATICA\\Info 2024-2025\\Visual studio\\Lab_Cambieri\\Febbraio\\Scrutinio_Solution pc casa\\scrutinio\\clsscrutinio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0B5A1E0-9525-4C5C-A346-8546DD830633}|Scrutinio\\Scrutinio.csproj|solutionrelative:scrutinio\\clsscrutinio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClsScrutinio.cs",
+              "DocumentMoniker": "C:\\Users\\tesio\\Desktop\\ITIS Vallauri\\FEDERICO INFORMATICA\\Info 2024-2025\\Visual studio\\Lab_Cambieri\\Febbraio\\Scrutinio_Solution pc casa\\Scrutinio\\ClsScrutinio.cs",
+              "RelativeDocumentMoniker": "Scrutinio\\ClsScrutinio.cs",
+              "ToolTip": "C:\\Users\\tesio\\Desktop\\ITIS Vallauri\\FEDERICO INFORMATICA\\Info 2024-2025\\Visual studio\\Lab_Cambieri\\Febbraio\\Scrutinio_Solution pc casa\\Scrutinio\\ClsScrutinio.cs",
+              "RelativeToolTip": "Scrutinio\\ClsScrutinio.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T09:30:40.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormScrutinio.cs",
+              "DocumentMoniker": "C:\\Users\\tesio\\Desktop\\ITIS Vallauri\\FEDERICO INFORMATICA\\Info 2024-2025\\Visual studio\\Lab_Cambieri\\Febbraio\\Scrutinio_Solution pc casa\\Scrutinio\\FormScrutinio.cs",
+              "RelativeDocumentMoniker": "Scrutinio\\FormScrutinio.cs",
+              "ToolTip": "C:\\Users\\tesio\\Desktop\\ITIS Vallauri\\FEDERICO INFORMATICA\\Info 2024-2025\\Visual studio\\Lab_Cambieri\\Febbraio\\Scrutinio_Solution pc casa\\Scrutinio\\FormScrutinio.cs*",
+              "RelativeToolTip": "Scrutinio\\FormScrutinio.cs*",
+              "ViewState": "AgIAAOoAAAAAAAAAAAAYwPUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T09:16:31.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormScrutinio.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\tesio\\Desktop\\ITIS Vallauri\\FEDERICO INFORMATICA\\Info 2024-2025\\Visual studio\\Lab_Cambieri\\Febbraio\\Scrutinio_Solution pc casa\\Scrutinio\\FormScrutinio.cs",
+              "RelativeDocumentMoniker": "Scrutinio\\FormScrutinio.cs",
+              "ToolTip": "C:\\Users\\tesio\\Desktop\\ITIS Vallauri\\FEDERICO INFORMATICA\\Info 2024-2025\\Visual studio\\Lab_Cambieri\\Febbraio\\Scrutinio_Solution pc casa\\Scrutinio\\FormScrutinio.cs [Progettazione]*",
+              "RelativeToolTip": "Scrutinio\\FormScrutinio.cs [Progettazione]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T09:04:19.579Z",
+              "EditorCaption": " [Progettazione]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

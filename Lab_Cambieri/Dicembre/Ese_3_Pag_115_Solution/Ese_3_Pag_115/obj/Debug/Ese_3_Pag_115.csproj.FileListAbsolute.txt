@@ -1,0 +1,7 @@
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Lab_Cambieri\Dicembre\Ese_3_Pag_115_Solution\Ese_3_Pag_115\bin\Debug\Ese_3_Pag_115.exe.config
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Lab_Cambieri\Dicembre\Ese_3_Pag_115_Solution\Ese_3_Pag_115\bin\Debug\Ese_3_Pag_115.exe
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Lab_Cambieri\Dicembre\Ese_3_Pag_115_Solution\Ese_3_Pag_115\bin\Debug\Ese_3_Pag_115.pdb
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Lab_Cambieri\Dicembre\Ese_3_Pag_115_Solution\Ese_3_Pag_115\obj\Debug\Ese_3_Pag_115.csproj.AssemblyReference.cache
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Lab_Cambieri\Dicembre\Ese_3_Pag_115_Solution\Ese_3_Pag_115\obj\Debug\Ese_3_Pag_115.csproj.CoreCompileInputs.cache
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Lab_Cambieri\Dicembre\Ese_3_Pag_115_Solution\Ese_3_Pag_115\obj\Debug\Ese_3_Pag_115.exe
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Lab_Cambieri\Dicembre\Ese_3_Pag_115_Solution\Ese_3_Pag_115\obj\Debug\Ese_3_Pag_115.pdb

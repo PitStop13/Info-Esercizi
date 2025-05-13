@@ -1,0 +1,7 @@
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\Ese_65_Pag_86_Solution\Ese_65_Pag_86\obj\Debug\Ese_65_Pag_86.csproj.AssemblyReference.cache
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\Ese_65_Pag_86_Solution\Ese_65_Pag_86\obj\Debug\Ese_65_Pag_86.csproj.CoreCompileInputs.cache
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\Ese_65_Pag_86_Solution\Ese_65_Pag_86\bin\Debug\Ese_65_Pag_86.exe.config
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\Ese_65_Pag_86_Solution\Ese_65_Pag_86\bin\Debug\Ese_65_Pag_86.exe
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\Ese_65_Pag_86_Solution\Ese_65_Pag_86\bin\Debug\Ese_65_Pag_86.pdb
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\Ese_65_Pag_86_Solution\Ese_65_Pag_86\obj\Debug\Ese_65_Pag_86.exe
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\Ese_65_Pag_86_Solution\Ese_65_Pag_86\obj\Debug\Ese_65_Pag_86.pdb

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tesio\\Desktop\\ITIS Vallauri\\FEDERICO INFORMATICA\\Info 2024-2025\\Visual studio\\Teoria_Beliardo\\Febbraio\\Ese_39_Salto_In_Alto_Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09E111CE-955A-4D68-AAEA-256E5C86EFD6}|Ese_39_Salto_In_Alto\\Ese_39_Salto_In_Alto.csproj|c:\\users\\tesio\\desktop\\itis vallauri\\federico informatica\\info 2024-2025\\visual studio\\teoria_beliardo\\febbraio\\ese_39_salto_in_alto_solution\\ese_39_salto_in_alto\\clssalti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E111CE-955A-4D68-AAEA-256E5C86EFD6}|Ese_39_Salto_In_Alto\\Ese_39_Salto_In_Alto.csproj|solutionrelative:ese_39_salto_in_alto\\clssalti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E111CE-955A-4D68-AAEA-256E5C86EFD6}|Ese_39_Salto_In_Alto\\Ese_39_Salto_In_Alto.csproj|C:\\Users\\tesio\\Desktop\\ITIS Vallauri\\FEDERICO INFORMATICA\\Info 2024-2025\\Visual studio\\Teoria_Beliardo\\Febbraio\\Ese_39_Salto_In_Alto_Solution\\ese_39_salto_in_alto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E111CE-955A-4D68-AAEA-256E5C86EFD6}|Ese_39_Salto_In_Alto\\Ese_39_Salto_In_Alto.csproj|solutionrelative:ese_39_salto_in_alto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClsSalti.cs",
+              "DocumentMoniker": "C:\\Users\\tesio\\Desktop\\ITIS Vallauri\\FEDERICO INFORMATICA\\Info 2024-2025\\Visual studio\\Teoria_Beliardo\\Febbraio\\Ese_39_Salto_In_Alto_Solution\\Ese_39_Salto_In_Alto\\ClsSalti.cs",
+              "RelativeDocumentMoniker": "Ese_39_Salto_In_Alto\\ClsSalti.cs",
+              "ToolTip": "C:\\Users\\tesio\\Desktop\\ITIS Vallauri\\FEDERICO INFORMATICA\\Info 2024-2025\\Visual studio\\Teoria_Beliardo\\Febbraio\\Ese_39_Salto_In_Alto_Solution\\Ese_39_Salto_In_Alto\\ClsSalti.cs",
+              "RelativeToolTip": "Ese_39_Salto_In_Alto\\ClsSalti.cs",
+              "ViewState": "AgIAAAwBAAAAAAAAAAAQwL4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:30:58.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tesio\\Desktop\\ITIS Vallauri\\FEDERICO INFORMATICA\\Info 2024-2025\\Visual studio\\Teoria_Beliardo\\Febbraio\\Ese_39_Salto_In_Alto_Solution\\Ese_39_Salto_In_Alto\\Program.cs",
+              "RelativeDocumentMoniker": "Ese_39_Salto_In_Alto\\Program.cs",
+              "ToolTip": "C:\\Users\\tesio\\Desktop\\ITIS Vallauri\\FEDERICO INFORMATICA\\Info 2024-2025\\Visual studio\\Teoria_Beliardo\\Febbraio\\Ese_39_Salto_In_Alto_Solution\\Ese_39_Salto_In_Alto\\Program.cs",
+              "RelativeToolTip": "Ese_39_Salto_In_Alto\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwDsAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:30:58.681Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

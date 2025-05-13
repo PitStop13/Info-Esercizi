@@ -1,0 +1,8 @@
+C:\Users\f.tesio.3619\Documents\Ese05_Pag84_Solution\Ese05_Pag84\bin\Debug\Ese05_Pag84.exe.config
+C:\Users\f.tesio.3619\Documents\Ese05_Pag84_Solution\Ese05_Pag84\bin\Debug\Ese05_Pag84.exe
+C:\Users\f.tesio.3619\Documents\Ese05_Pag84_Solution\Ese05_Pag84\bin\Debug\Ese05_Pag84.pdb
+C:\Users\f.tesio.3619\Documents\Ese05_Pag84_Solution\Ese05_Pag84\obj\Debug\Ese05_Pag84.csproj.AssemblyReference.cache
+C:\Users\f.tesio.3619\Documents\Ese05_Pag84_Solution\Ese05_Pag84\obj\Debug\Ese05_Pag84.csproj.SuggestedBindingRedirects.cache
+C:\Users\f.tesio.3619\Documents\Ese05_Pag84_Solution\Ese05_Pag84\obj\Debug\Ese05_Pag84.csproj.CoreCompileInputs.cache
+C:\Users\f.tesio.3619\Documents\Ese05_Pag84_Solution\Ese05_Pag84\obj\Debug\Ese05_Pag84.exe
+C:\Users\f.tesio.3619\Documents\Ese05_Pag84_Solution\Ese05_Pag84\obj\Debug\Ese05_Pag84.pdb

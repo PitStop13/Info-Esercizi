@@ -1,0 +1,8 @@
+C:\Users\m.marino.3566\Desktop\es 58 pag 86\bin\Debug\es 58 pag 86.exe.config
+C:\Users\m.marino.3566\Desktop\es 58 pag 86\bin\Debug\es 58 pag 86.exe
+C:\Users\m.marino.3566\Desktop\es 58 pag 86\bin\Debug\es 58 pag 86.pdb
+C:\Users\m.marino.3566\Desktop\es 58 pag 86\obj\Debug\es 58 pag 86.csproj.AssemblyReference.cache
+C:\Users\m.marino.3566\Desktop\es 58 pag 86\obj\Debug\es 58 pag 86.csproj.SuggestedBindingRedirects.cache
+C:\Users\m.marino.3566\Desktop\es 58 pag 86\obj\Debug\es 58 pag 86.csproj.CoreCompileInputs.cache
+C:\Users\m.marino.3566\Desktop\es 58 pag 86\obj\Debug\es 58 pag 86.exe
+C:\Users\m.marino.3566\Desktop\es 58 pag 86\obj\Debug\es 58 pag 86.pdb

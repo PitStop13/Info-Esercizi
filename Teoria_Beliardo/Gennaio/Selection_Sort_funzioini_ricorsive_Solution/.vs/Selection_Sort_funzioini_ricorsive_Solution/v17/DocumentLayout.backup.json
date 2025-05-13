@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tesio\\Desktop\\ITIS Vallauri\\FEDERICO INFORMATICA\\Info 2024-2025\\Visual studio\\Teoria_Beliardo\\Gennaio\\Selection_Sort_funzioini_ricorsive_Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{956EEE23-D498-47E8-8B88-551E6956969B}|Selection_Sort\\Selection_Sort.csproj|c:\\users\\tesio\\desktop\\itis vallauri\\federico informatica\\info 2024-2025\\visual studio\\teoria_beliardo\\gennaio\\selection_sort_funzioini_ricorsive_solution\\selection_sort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{956EEE23-D498-47E8-8B88-551E6956969B}|Selection_Sort\\Selection_Sort.csproj|solutionrelative:selection_sort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tesio\\Desktop\\ITIS Vallauri\\FEDERICO INFORMATICA\\Info 2024-2025\\Visual studio\\Teoria_Beliardo\\Gennaio\\Selection_Sort_funzioini_ricorsive_Solution\\Selection_Sort\\Program.cs",
+              "RelativeDocumentMoniker": "Selection_Sort\\Program.cs",
+              "ToolTip": "C:\\Users\\tesio\\Desktop\\ITIS Vallauri\\FEDERICO INFORMATICA\\Info 2024-2025\\Visual studio\\Teoria_Beliardo\\Gennaio\\Selection_Sort_funzioini_ricorsive_Solution\\Selection_Sort\\Program.cs*",
+              "RelativeToolTip": "Selection_Sort\\Program.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAIA6wBsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T18:41:39.581Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

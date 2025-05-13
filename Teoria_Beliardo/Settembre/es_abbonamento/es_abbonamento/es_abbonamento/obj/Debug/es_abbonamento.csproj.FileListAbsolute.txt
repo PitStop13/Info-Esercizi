@@ -1,0 +1,5 @@
+C:\Users\f.tesio.3619\Documents\es_abbonamento\es_abbonamento\bin\Debug\es_abbonamento.exe.config
+C:\Users\f.tesio.3619\Documents\es_abbonamento\es_abbonamento\bin\Debug\es_abbonamento.exe
+C:\Users\f.tesio.3619\Documents\es_abbonamento\es_abbonamento\bin\Debug\es_abbonamento.pdb
+C:\Users\f.tesio.3619\Documents\es_abbonamento\es_abbonamento\obj\Debug\es_abbonamento.exe
+C:\Users\f.tesio.3619\Documents\es_abbonamento\es_abbonamento\obj\Debug\es_abbonamento.pdb

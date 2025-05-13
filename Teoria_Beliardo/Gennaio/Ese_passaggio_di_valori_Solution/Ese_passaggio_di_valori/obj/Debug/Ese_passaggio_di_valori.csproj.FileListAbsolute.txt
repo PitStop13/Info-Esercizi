@@ -1,0 +1,7 @@
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Teoria_Beliardo\Gennaio\Ese_passaggio_di_valori_Solution\Ese_passaggio_di_valori\bin\Debug\Ese_passaggio_di_valori.exe.config
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Teoria_Beliardo\Gennaio\Ese_passaggio_di_valori_Solution\Ese_passaggio_di_valori\bin\Debug\Ese_passaggio_di_valori.exe
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Teoria_Beliardo\Gennaio\Ese_passaggio_di_valori_Solution\Ese_passaggio_di_valori\bin\Debug\Ese_passaggio_di_valori.pdb
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Teoria_Beliardo\Gennaio\Ese_passaggio_di_valori_Solution\Ese_passaggio_di_valori\obj\Debug\Ese_passaggio_di_valori.csproj.AssemblyReference.cache
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Teoria_Beliardo\Gennaio\Ese_passaggio_di_valori_Solution\Ese_passaggio_di_valori\obj\Debug\Ese_passaggio_di_valori.csproj.CoreCompileInputs.cache
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Teoria_Beliardo\Gennaio\Ese_passaggio_di_valori_Solution\Ese_passaggio_di_valori\obj\Debug\Ese_passaggio_di_valori.exe
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Teoria_Beliardo\Gennaio\Ese_passaggio_di_valori_Solution\Ese_passaggio_di_valori\obj\Debug\Ese_passaggio_di_valori.pdb

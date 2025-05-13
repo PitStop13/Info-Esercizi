@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tesio\\Desktop\\ITIS Vallauri\\FEDERICO INFORMATICA\\Info 2024-2025\\Visual studio\\Teoria_Beliardo\\Gennaio\\Ese_passaggio_di_valori_Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D99A8AD-A458-4362-A73A-2B4E0C0D527E}|Ese_passaggio_di_valori\\Ese_passaggio_di_valori.csproj|c:\\users\\tesio\\desktop\\itis vallauri\\federico informatica\\info 2024-2025\\visual studio\\teoria_beliardo\\gennaio\\ese_passaggio_di_valori_solution\\ese_passaggio_di_valori\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D99A8AD-A458-4362-A73A-2B4E0C0D527E}|Ese_passaggio_di_valori\\Ese_passaggio_di_valori.csproj|solutionrelative:ese_passaggio_di_valori\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tesio\\Desktop\\ITIS Vallauri\\FEDERICO INFORMATICA\\Info 2024-2025\\Visual studio\\Teoria_Beliardo\\Gennaio\\Ese_passaggio_di_valori_Solution\\Ese_passaggio_di_valori\\Program.cs",
+              "RelativeDocumentMoniker": "Ese_passaggio_di_valori\\Program.cs",
+              "ToolTip": "C:\\Users\\tesio\\Desktop\\ITIS Vallauri\\FEDERICO INFORMATICA\\Info 2024-2025\\Visual studio\\Teoria_Beliardo\\Gennaio\\Ese_passaggio_di_valori_Solution\\Ese_passaggio_di_valori\\Program.cs*",
+              "RelativeToolTip": "Ese_passaggio_di_valori\\Program.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA4AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T15:33:46.325Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\badri\\Documents\\FEDERICO INFORMATICA\\Visual studio\\Teoria_Beliardo\\Ese24_DoWhile_con_sottoprogramma_Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2147FDD0-9D7F-451E-B3AF-2BE699FE940A}|Ese24_DoWhile_con_sottoprogramma\\Ese24_DoWhile_con_sottoprogramma.csproj|c:\\users\\badri\\documents\\federico informatica\\visual studio\\teoria_beliardo\\ese24_dowhile_con_sottoprogramma_solution\\ese24_dowhile_con_sottoprogramma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2147FDD0-9D7F-451E-B3AF-2BE699FE940A}|Ese24_DoWhile_con_sottoprogramma\\Ese24_DoWhile_con_sottoprogramma.csproj|solutionrelative:ese24_dowhile_con_sottoprogramma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\badri\\Documents\\FEDERICO INFORMATICA\\Visual studio\\Teoria_Beliardo\\Ese24_DoWhile_con_sottoprogramma_Solution\\Ese24_DoWhile_con_sottoprogramma\\Program.cs",
+              "RelativeDocumentMoniker": "Ese24_DoWhile_con_sottoprogramma\\Program.cs",
+              "ToolTip": "C:\\Users\\badri\\Documents\\FEDERICO INFORMATICA\\Visual studio\\Teoria_Beliardo\\Ese24_DoWhile_con_sottoprogramma_Solution\\Ese24_DoWhile_con_sottoprogramma\\Program.cs*",
+              "RelativeToolTip": "Ese24_DoWhile_con_sottoprogramma\\Program.cs*",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwCoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T15:32:00.241Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

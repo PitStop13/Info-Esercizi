@@ -1,0 +1,22 @@
+C:\Users\f.tesio.3619\Documents\Ese_44_Pag_85_Solution\Ese_44_Pag_85\bin\Debug\Ese_44_Pag_85.exe.config
+C:\Users\f.tesio.3619\Documents\Ese_44_Pag_85_Solution\Ese_44_Pag_85\bin\Debug\Ese_44_Pag_85.exe
+C:\Users\f.tesio.3619\Documents\Ese_44_Pag_85_Solution\Ese_44_Pag_85\bin\Debug\Ese_44_Pag_85.pdb
+C:\Users\f.tesio.3619\Documents\Ese_44_Pag_85_Solution\Ese_44_Pag_85\obj\Debug\Ese_44_Pag_85.csproj.AssemblyReference.cache
+C:\Users\f.tesio.3619\Documents\Ese_44_Pag_85_Solution\Ese_44_Pag_85\obj\Debug\Ese_44_Pag_85.csproj.SuggestedBindingRedirects.cache
+C:\Users\f.tesio.3619\Documents\Ese_44_Pag_85_Solution\Ese_44_Pag_85\obj\Debug\Ese_44_Pag_85.csproj.CoreCompileInputs.cache
+C:\Users\f.tesio.3619\Documents\Ese_44_Pag_85_Solution\Ese_44_Pag_85\obj\Debug\Ese_44_Pag_85.exe
+C:\Users\f.tesio.3619\Documents\Ese_44_Pag_85_Solution\Ese_44_Pag_85\obj\Debug\Ese_44_Pag_85.pdb
+F:\Visual studio\Teoria_Beliardo\Ese_44_Pag_85_Solution\Ese_44_Pag_85\bin\Debug\Ese_44_Pag_85.exe.config
+F:\Visual studio\Teoria_Beliardo\Ese_44_Pag_85_Solution\Ese_44_Pag_85\bin\Debug\Ese_44_Pag_85.exe
+F:\Visual studio\Teoria_Beliardo\Ese_44_Pag_85_Solution\Ese_44_Pag_85\bin\Debug\Ese_44_Pag_85.pdb
+F:\Visual studio\Teoria_Beliardo\Ese_44_Pag_85_Solution\Ese_44_Pag_85\obj\Debug\Ese_44_Pag_85.csproj.AssemblyReference.cache
+F:\Visual studio\Teoria_Beliardo\Ese_44_Pag_85_Solution\Ese_44_Pag_85\obj\Debug\Ese_44_Pag_85.csproj.CoreCompileInputs.cache
+F:\Visual studio\Teoria_Beliardo\Ese_44_Pag_85_Solution\Ese_44_Pag_85\obj\Debug\Ese_44_Pag_85.exe
+F:\Visual studio\Teoria_Beliardo\Ese_44_Pag_85_Solution\Ese_44_Pag_85\obj\Debug\Ese_44_Pag_85.pdb
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\Ese_44_Pag_85_Solution\Ese_44_Pag_85\bin\Debug\Ese_44_Pag_85.exe.config
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\Ese_44_Pag_85_Solution\Ese_44_Pag_85\bin\Debug\Ese_44_Pag_85.exe
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\Ese_44_Pag_85_Solution\Ese_44_Pag_85\bin\Debug\Ese_44_Pag_85.pdb
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\Ese_44_Pag_85_Solution\Ese_44_Pag_85\obj\Debug\Ese_44_Pag_85.csproj.AssemblyReference.cache
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\Ese_44_Pag_85_Solution\Ese_44_Pag_85\obj\Debug\Ese_44_Pag_85.csproj.CoreCompileInputs.cache
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\Ese_44_Pag_85_Solution\Ese_44_Pag_85\obj\Debug\Ese_44_Pag_85.exe
+C:\Users\badri\Documents\FEDERICO INFORMATICA\Visual studio\Teoria_Beliardo\Ese_44_Pag_85_Solution\Ese_44_Pag_85\obj\Debug\Ese_44_Pag_85.pdb

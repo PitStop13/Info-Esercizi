@@ -1,0 +1,15 @@
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Teoria_Beliardo\Gennaio\Selection_Sort_funzioini_ricorsive_Solution\Selection_Sort\bin\Debug\Selection_Sort.exe.config
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Teoria_Beliardo\Gennaio\Selection_Sort_funzioini_ricorsive_Solution\Selection_Sort\bin\Debug\Selection_Sort.exe
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Teoria_Beliardo\Gennaio\Selection_Sort_funzioini_ricorsive_Solution\Selection_Sort\bin\Debug\Selection_Sort.pdb
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Teoria_Beliardo\Gennaio\Selection_Sort_funzioini_ricorsive_Solution\Selection_Sort\obj\Debug\Selection_Sort.csproj.AssemblyReference.cache
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Teoria_Beliardo\Gennaio\Selection_Sort_funzioini_ricorsive_Solution\Selection_Sort\obj\Debug\Selection_Sort.csproj.CoreCompileInputs.cache
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Teoria_Beliardo\Gennaio\Selection_Sort_funzioini_ricorsive_Solution\Selection_Sort\obj\Debug\Selection_Sort.exe
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Teoria_Beliardo\Gennaio\Selection_Sort_funzioini_ricorsive_Solution\Selection_Sort\obj\Debug\Selection_Sort.pdb
+C:\Users\f.tesio.3619\Documents\Selection_Sort_funzioini_ricorsive_Solution\Selection_Sort\bin\Debug\Selection_Sort.exe.config
+C:\Users\f.tesio.3619\Documents\Selection_Sort_funzioini_ricorsive_Solution\Selection_Sort\bin\Debug\Selection_Sort.exe
+C:\Users\f.tesio.3619\Documents\Selection_Sort_funzioini_ricorsive_Solution\Selection_Sort\bin\Debug\Selection_Sort.pdb
+C:\Users\f.tesio.3619\Documents\Selection_Sort_funzioini_ricorsive_Solution\Selection_Sort\obj\Debug\Selection_Sort.csproj.AssemblyReference.cache
+C:\Users\f.tesio.3619\Documents\Selection_Sort_funzioini_ricorsive_Solution\Selection_Sort\obj\Debug\Selection_Sort.csproj.SuggestedBindingRedirects.cache
+C:\Users\f.tesio.3619\Documents\Selection_Sort_funzioini_ricorsive_Solution\Selection_Sort\obj\Debug\Selection_Sort.csproj.CoreCompileInputs.cache
+C:\Users\f.tesio.3619\Documents\Selection_Sort_funzioini_ricorsive_Solution\Selection_Sort\obj\Debug\Selection_Sort.exe
+C:\Users\f.tesio.3619\Documents\Selection_Sort_funzioini_ricorsive_Solution\Selection_Sort\obj\Debug\Selection_Sort.pdb

@@ -1,0 +1,21 @@
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Teoria_Beliardo\Febbraio\41 Tris_Solution\41 Tris\bin\Debug\41 Tris.exe.config
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Teoria_Beliardo\Febbraio\41 Tris_Solution\41 Tris\bin\Debug\41 Tris.exe
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Teoria_Beliardo\Febbraio\41 Tris_Solution\41 Tris\bin\Debug\41 Tris.pdb
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Teoria_Beliardo\Febbraio\41 Tris_Solution\41 Tris\obj\Debug\41 Tris.csproj.AssemblyReference.cache
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Teoria_Beliardo\Febbraio\41 Tris_Solution\41 Tris\obj\Debug\_41_Tris.FormTris.resources
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Teoria_Beliardo\Febbraio\41 Tris_Solution\41 Tris\obj\Debug\_41_Tris.Properties.Resources.resources
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Teoria_Beliardo\Febbraio\41 Tris_Solution\41 Tris\obj\Debug\41 Tris.csproj.GenerateResource.cache
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Teoria_Beliardo\Febbraio\41 Tris_Solution\41 Tris\obj\Debug\41 Tris.csproj.CoreCompileInputs.cache
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Teoria_Beliardo\Febbraio\41 Tris_Solution\41 Tris\obj\Debug\41 Tris.exe
+C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Teoria_Beliardo\Febbraio\41 Tris_Solution\41 Tris\obj\Debug\41 Tris.pdb
+C:\Users\f.tesio.3619\Downloads\41 Tris_Solution\41 Tris\bin\Debug\41 Tris.exe.config
+C:\Users\f.tesio.3619\Downloads\41 Tris_Solution\41 Tris\bin\Debug\41 Tris.exe
+C:\Users\f.tesio.3619\Downloads\41 Tris_Solution\41 Tris\bin\Debug\41 Tris.pdb
+C:\Users\f.tesio.3619\Downloads\41 Tris_Solution\41 Tris\obj\Debug\41 Tris.csproj.AssemblyReference.cache
+C:\Users\f.tesio.3619\Downloads\41 Tris_Solution\41 Tris\obj\Debug\41 Tris.csproj.SuggestedBindingRedirects.cache
+C:\Users\f.tesio.3619\Downloads\41 Tris_Solution\41 Tris\obj\Debug\_41_Tris.FormTris.resources
+C:\Users\f.tesio.3619\Downloads\41 Tris_Solution\41 Tris\obj\Debug\_41_Tris.Properties.Resources.resources
+C:\Users\f.tesio.3619\Downloads\41 Tris_Solution\41 Tris\obj\Debug\41 Tris.csproj.GenerateResource.cache
+C:\Users\f.tesio.3619\Downloads\41 Tris_Solution\41 Tris\obj\Debug\41 Tris.csproj.CoreCompileInputs.cache
+C:\Users\f.tesio.3619\Downloads\41 Tris_Solution\41 Tris\obj\Debug\41 Tris.exe
+C:\Users\f.tesio.3619\Downloads\41 Tris_Solution\41 Tris\obj\Debug\41 Tris.pdb
