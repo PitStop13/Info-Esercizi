@@ -1,8 +1,0 @@
-Ho aggiunto i controlli anche su nome e cognome, inoltre al posto che usare un semplice if e 
-poi dare un errore ho utilizzato un ciclo while che chiede di inserire un parametro valido
-finché esso non è valido.
-Ho aggiungo la struttura UML con i commenti nel codice, in modo che si ben chiaro cosa fa ogni
-campo e quali sono le sue proprietà.
-Ho aggiungo commenti nel codice che spiegano cos'è stato fatto in modo più chiaro.
-Ho migliorato l'interfaccia con l'utente spiegando meglio come mai il programma chiede di inserire un parametro valido.
-Tutto questo serve a rendere il codice più facilmente leggibile e comprensibile anche a chi non l'ha scritto, questo inoltre ne facilità la manutenzione. Un migliore gestione degli errori e utile per evitare che si cerino errori non voluti.

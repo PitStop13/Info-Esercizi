@@ -1,3 +1,0 @@
-I membri statici sono molti utili, soprattutto quando vogliamo utilizzare variabili che siano visibili in tutte le istanze della classe, come contatori globali o per gestire risorse condivise, questo permette di mantenere uno stato che è condiviso tra tutte le istanze della classe.
-I costruttori statici sono altrettanto utili per inizializzare le variabili statiche o operazioni che vengano eseguite prima che la classe venga utilizzata oppure che vogliamo vengano fatte una sola volta prima della prima istanziazione o dell'accesso a membri statici.
-I metodi statici ci danno un modo per raggruppare funzionalità che sono associate ad una classe ma non richiedono la creazione di un'istanza, rendendo il codice più organizzato e riutilizzabile.
