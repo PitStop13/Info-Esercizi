@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6B2A73C9-A0F1-4A92-B2DD-59F73B679451}</ProjectGuid>
+    <ProjectGuid>{4C408E85-2DCB-4175-AADE-4644CEAB15AE}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Es_Modulo_2</RootNamespace>
-    <AssemblyName>Es_Modulo_2</AssemblyName>
+    <RootNamespace>es_modulo_2</RootNamespace>
+    <AssemblyName>es modulo 2</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ClsProdotto.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

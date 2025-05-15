@@ -2,98 +2,94 @@
 
 namespace Es_Modulo_1
 {
-    public class ContoBancario
-    {
-        // Campi privati
-        private string numeroConto;
-        private double saldo;
-
-        // Costruttore
-        public ContoBancario(string numeroConto, double saldoIniziale)
-        {
-            this.NumeroConto = numeroConto;
-            this.Saldo = saldoIniziale;
-        }
-
-        // Proprietà per NumeroConto
-        public string NumeroConto
-        {
-            get { return numeroConto; }
-            set
-            {
-                if (!string.IsNullOrWhiteSpace(value))
-                    numeroConto = value;
-                else
-                    Console.WriteLine("Errore: il numero di conto non può essere vuoto.");
-            }
-        }
-
-        // Proprietà per Saldo
-        public double Saldo
-        {
-            get { return saldo; }
-            set
-            {
-                if (value >= 0)
-                    saldo = value;
-                else
-                    Console.WriteLine("Errore: il saldo non può essere negativo.");
-            }
-        }
-
-        // Metodo per depositare denaro
-        public void Deposita(double importo)
-        {
-            if (importo > 0)
-                saldo += importo;
-            else
-                Console.WriteLine("Errore: l'importo da depositare deve essere positivo.");
-        }
-
-        // Metodo per prelevare denaro
-        public void Preleva(double importo)
-        {
-            if (importo > 0)
-            {
-                if (saldo - importo >= 0)
-                    saldo -= importo;
-                else
-                    Console.WriteLine("Errore: saldo insufficiente per effettuare il prelievo.");
-            }
-            else
-            {
-                Console.WriteLine("Errore: l'importo da prelevare deve essere positivo.");
-            }
-        }
-    }
-
     class Program
     {
         static void Main(string[] args)
         {
-            // Crea un nuovo conto bancario con saldo iniziale
-            ContoBancario conto1 = new ContoBancario("IT1234567890", 500);
-            Console.WriteLine($"Conto creato! Numero conto: {conto1.NumeroConto}, Saldo iniziale: {conto1.Saldo} $");
+            // Chiediamo i dati per creare un nuovo conto bancario
+            Console.Write("Inserisci il numero del conto: ");
+            string numeroConto = Console.ReadLine();
 
-            // Deposito di denaro
-            Console.WriteLine("\nEffettuando un deposito di 250 $...");
-            conto1.Deposita(250);
-            Console.WriteLine($"Saldo dopo il deposito: {conto1.Saldo} $");
+            double saldoIniziale = 0;
+            bool saldoValido = false;
 
-            // Prelievo di denaro
-            Console.WriteLine("\nEffettuando un prelievo di 100 $...");
-            conto1.Preleva(100);
-            Console.WriteLine($"Saldo dopo il prelievo: {conto1.Saldo} $");
+            while (!saldoValido)
+            {
+                Console.Write("Inserisci il saldo iniziale: ");
+                if (double.TryParse(Console.ReadLine(), out saldoIniziale) && saldoIniziale >= 0)
+                {
+                    saldoValido = true;
+                }
+                else
+                {
+                    Console.WriteLine("Errore: inserisci un valore numerico valido e non negativo.");
+                }
+            }
 
-            // Test con importi errati
-            Console.WriteLine("\nProviamo a depositare un importo negativo...");
-            conto1.Deposita(-50);   // Errore
+            // Creiamo un nuovo conto bancario con i dati inseriti
+            ClsEs1.ContoBancario conto1 = new ClsEs1.ContoBancario(numeroConto, saldoIniziale);
+            Console.WriteLine($"Conto creato! Numero conto: {conto1.NumeroConto}, Saldo iniziale: {conto1.Saldo} €");
 
-            Console.WriteLine("\nProviamo a prelevare più di quanto disponibile...");
-            conto1.Preleva(1000);   // Errore
+            bool continua = true;
+            while (continua)
+            {
+                Console.WriteLine("\nOperazioni disponibili:");
+                Console.WriteLine("1 - Effettua un deposito");
+                Console.WriteLine("2 - Effettua un prelievo");
+                Console.WriteLine("3 - Visualizza saldo");
+                Console.WriteLine("0 - Esci");
+                Console.Write("Seleziona un'operazione: ");
 
-            Console.WriteLine("\nProviamo a impostare un saldo negativo...");
-            conto1.Saldo = -20;     // Errore
+                string scelta = Console.ReadLine();
+
+                switch (scelta)
+                {
+                    case "1": // Deposito
+                        Console.Write("Inserisci l'importo da depositare: ");
+                        if (double.TryParse(Console.ReadLine(), out double importoDeposito))
+                        {
+                            conto1.Deposita(importoDeposito);
+                            if (importoDeposito > 0)
+                            {
+                                Console.WriteLine($"Deposito effettuato. Nuovo saldo: {conto1.Saldo} €");
+                            }
+                        }
+                        else
+                        {
+                            Console.WriteLine("Importo non valido.");
+                        }
+                        break;
+
+                    case "2": // Prelievo
+                        Console.Write("Inserisci l'importo da prelevare: ");
+                        if (double.TryParse(Console.ReadLine(), out double importoPrelievo))
+                        {
+                            double saldoPrecedente = conto1.Saldo;
+                            conto1.Preleva(importoPrelievo);
+                            if (importoPrelievo > 0 && saldoPrecedente >= importoPrelievo)
+                            {
+                                Console.WriteLine($"Prelievo effettuato. Nuovo saldo: {conto1.Saldo} €");
+                            }
+                        }
+                        else
+                        {
+                            Console.WriteLine("Importo non valido.");
+                        }
+                        break;
+
+                    case "3": // Visualizza saldo
+                        Console.WriteLine($"Saldo attuale: {conto1.Saldo} €");
+                        break;
+
+                    case "0": // Esci
+                        continua = false;
+                        break;
+
+                    default:
+                        Console.WriteLine("Scelta non valida.");
+                        break;
+                }
+            }
 
             // Fine del programma
             Console.WriteLine("\nProgramma terminato. Premi un tasto per uscire...");
