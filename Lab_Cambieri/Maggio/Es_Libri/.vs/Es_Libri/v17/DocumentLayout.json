@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\pietr\\Documents\\Scuola\\INFO\\Lab_Cambieri\\Maggio\\Es_Libri\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9225FBFC-C42A-40FE-A1F9-A2E59CC1B736}|Es_Libri\\Es_Libri.csproj|c:\\users\\pietr\\documents\\scuola\\info\\lab_cambieri\\maggio\\es_libri\\es_libri\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9225FBFC-C42A-40FE-A1F9-A2E59CC1B736}|Es_Libri\\Es_Libri.csproj|solutionrelative:es_libri\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9225FBFC-C42A-40FE-A1F9-A2E59CC1B736}|Es_Libri\\Es_Libri.csproj|c:\\users\\pietr\\documents\\scuola\\info\\lab_cambieri\\maggio\\es_libri\\es_libri\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9225FBFC-C42A-40FE-A1F9-A2E59CC1B736}|Es_Libri\\Es_Libri.csproj|solutionrelative:es_libri\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9225FBFC-C42A-40FE-A1F9-A2E59CC1B736}|Es_Libri\\Es_Libri.csproj|c:\\users\\pietr\\documents\\scuola\\info\\lab_cambieri\\maggio\\es_libri\\es_libri\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9225FBFC-C42A-40FE-A1F9-A2E59CC1B736}|Es_Libri\\Es_Libri.csproj|solutionrelative:es_libri\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9225FBFC-C42A-40FE-A1F9-A2E59CC1B736}|Es_Libri\\Es_Libri.csproj|C:\\Users\\pietr\\Documents\\Scuola\\INFO\\Lab_Cambieri\\Maggio\\Es_Libri\\Es_Libri\\FormMain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9225FBFC-C42A-40FE-A1F9-A2E59CC1B736}|Es_Libri\\Es_Libri.csproj|solutionrelative:Es_Libri\\FormMain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9225FBFC-C42A-40FE-A1F9-A2E59CC1B736}|Es_Libri\\Es_Libri.csproj|C:\\Users\\pietr\\Documents\\Scuola\\INFO\\Lab_Cambieri\\Maggio\\Es_Libri\\Es_Libri\\FormMain.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9225FBFC-C42A-40FE-A1F9-A2E59CC1B736}|Es_Libri\\Es_Libri.csproj|solutionrelative:Es_Libri\\FormMain.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,13 +38,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "C:\\Users\\pietr\\Documents\\Scuola\\INFO\\Lab_Cambieri\\Maggio\\Es_Libri\\Es_Libri\\FormMain.cs",
+              "RelativeDocumentMoniker": "Es_Libri\\FormMain.cs",
+              "ToolTip": "C:\\Users\\pietr\\Documents\\Scuola\\INFO\\Lab_Cambieri\\Maggio\\Es_Libri\\Es_Libri\\FormMain.cs",
+              "RelativeToolTip": "Es_Libri\\FormMain.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAQwFwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T08:53:05.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "FormMain.Designer.cs",
               "DocumentMoniker": "C:\\Users\\pietr\\Documents\\Scuola\\INFO\\Lab_Cambieri\\Maggio\\Es_Libri\\Es_Libri\\FormMain.Designer.cs",
               "RelativeDocumentMoniker": "Es_Libri\\FormMain.Designer.cs",
               "ToolTip": "C:\\Users\\pietr\\Documents\\Scuola\\INFO\\Lab_Cambieri\\Maggio\\Es_Libri\\Es_Libri\\FormMain.Designer.cs",
               "RelativeToolTip": "Es_Libri\\FormMain.Designer.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAYwFMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABwAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-13T08:58:56.518Z",
               "EditorCaption": ""
@@ -52,19 +65,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FormMain.cs",
-              "DocumentMoniker": "C:\\Users\\pietr\\Documents\\Scuola\\INFO\\Lab_Cambieri\\Maggio\\Es_Libri\\Es_Libri\\FormMain.cs",
-              "RelativeDocumentMoniker": "Es_Libri\\FormMain.cs",
-              "ToolTip": "C:\\Users\\pietr\\Documents\\Scuola\\INFO\\Lab_Cambieri\\Maggio\\Es_Libri\\Es_Libri\\FormMain.cs",
-              "RelativeToolTip": "Es_Libri\\FormMain.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAkwEgAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T08:53:05.084Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "FormMain.cs [Progettazione]",
               "DocumentMoniker": "C:\\Users\\pietr\\Documents\\Scuola\\INFO\\Lab_Cambieri\\Maggio\\Es_Libri\\Es_Libri\\FormMain.cs",
               "RelativeDocumentMoniker": "Es_Libri\\FormMain.cs",

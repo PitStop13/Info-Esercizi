@@ -21,3 +21,14 @@ C:\Users\tesio\Downloads\47-PrimoEseFile_Solution\47-PrimoEseFile\obj\Debug\47-P
 C:\Users\tesio\Downloads\47-PrimoEseFile_Solution\47-PrimoEseFile\obj\Debug\47-PrimoEseFile.csproj.CoreCompileInputs.cache
 C:\Users\tesio\Downloads\47-PrimoEseFile_Solution\47-PrimoEseFile\obj\Debug\47-PrimoEseFile.exe
 C:\Users\tesio\Downloads\47-PrimoEseFile_Solution\47-PrimoEseFile\obj\Debug\47-PrimoEseFile.pdb
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Aprile\47-PrimoEseFile_Solution\47-PrimoEseFile\bin\Debug\Input.txt
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Aprile\47-PrimoEseFile_Solution\47-PrimoEseFile\bin\Debug\47-PrimoEseFile.exe.config
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Aprile\47-PrimoEseFile_Solution\47-PrimoEseFile\bin\Debug\47-PrimoEseFile.exe
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Aprile\47-PrimoEseFile_Solution\47-PrimoEseFile\bin\Debug\47-PrimoEseFile.pdb
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Aprile\47-PrimoEseFile_Solution\47-PrimoEseFile\obj\Debug\47-PrimoEseFile.csproj.AssemblyReference.cache
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Aprile\47-PrimoEseFile_Solution\47-PrimoEseFile\obj\Debug\_47_PrimoEseFile.FormMain.resources
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Aprile\47-PrimoEseFile_Solution\47-PrimoEseFile\obj\Debug\_47_PrimoEseFile.Properties.Resources.resources
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Aprile\47-PrimoEseFile_Solution\47-PrimoEseFile\obj\Debug\47-PrimoEseFile.csproj.GenerateResource.cache
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Aprile\47-PrimoEseFile_Solution\47-PrimoEseFile\obj\Debug\47-PrimoEseFile.csproj.CoreCompileInputs.cache
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Aprile\47-PrimoEseFile_Solution\47-PrimoEseFile\obj\Debug\47-PrimoEseFile.exe
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Aprile\47-PrimoEseFile_Solution\47-PrimoEseFile\obj\Debug\47-PrimoEseFile.pdb
