@@ -51,9 +51,9 @@ namespace _47_PrimoEseFile
         private void btnCopia_Click(object sender, EventArgs e)
         {
             string contenutoPrimoFile = ClsFile.LeggiTutto("input.txt");
-            ClsFile.ModificaFile("output.txt", contenutoPrimoFile);
+            ClsFile.ModificaFile("temp.txt", contenutoPrimoFile);
             rtb2.Text = contenutoPrimoFile;
-            MessageBox.Show("Il file input.txt è stato copiato nel file output.txt");
+            MessageBox.Show("Il file input.txt è stato copiato nel file temp.txt");
         }
 
         private void btnContaLineeParole_Click(object sender, EventArgs e)
@@ -89,9 +89,9 @@ namespace _47_PrimoEseFile
                 else
                 {
                     robertoParolaNuova = Interaction.InputBox("Introduci la parola nuova:", "Gestione File di testo");
-                    ClsFile.SostituisciRobertoParolaInNuovoFile("input.txt", "output.txt", robertoParolaDaSostituire, robertoParolaNuova);
-                    rtb2.Text = ClsFile.LeggiTutto("output.txt");
-                    MessageBox.Show($"La parola {robertoParolaDaSostituire} è stata sostituita da {robertoParolaNuova}, nel file output.txt");
+                    ClsFile.SostituisciRobertoParolaInNuovoFile("input.txt", "temp.txt", robertoParolaDaSostituire, robertoParolaNuova);
+                    rtb2.Text = ClsFile.LeggiTutto("temp.txt");
+                    MessageBox.Show($"La parola {robertoParolaDaSostituire} è stata sostituita da {robertoParolaNuova}, nel file temp.txt");
                     continuaCiclo = false;
                 }
             } while (continuaCiclo);

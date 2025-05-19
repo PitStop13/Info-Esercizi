@@ -424,6 +424,7 @@
             this.btnDgvValutazioniOrdinateMateria.Text = "CARICARE IN UNA NUOVA DGV LE VALUTAZIONI DI UNA MATERIA ORDINATI IN BASE AL VOTO " +
     "(via combo) ";
             this.btnDgvValutazioniOrdinateMateria.UseVisualStyleBackColor = true;
+            this.btnDgvValutazioniOrdinateMateria.Click += new System.EventHandler(this.btnDgvValutazioniOrdinateMateria_Click);
             // 
             // btnDgvStudentiClasseMedie
             // 
@@ -434,6 +435,7 @@
             this.btnDgvStudentiClasseMedie.Text = "CARICARE IN UNA NUOVA DGV GLI STUDENTI DI UNA CLASSE (via combo) CON LE LORO MEDI" +
     "E VOTI";
             this.btnDgvStudentiClasseMedie.UseVisualStyleBackColor = true;
+            this.btnDgvStudentiClasseMedie.Click += new System.EventHandler(this.btnDgvStudentiClasseMedie_Click);
             // 
             // FormMain
             // 

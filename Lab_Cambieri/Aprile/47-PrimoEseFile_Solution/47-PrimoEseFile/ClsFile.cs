@@ -100,7 +100,7 @@ namespace _47_PrimoEseFile
 
         public static void SostituisciRobertoParolaInStessoFile(string inputFile, string robertoParolaDaSostituire, string robertoParolaNuova)
         {
-            StreamWriter sw = new StreamWriter("temp.txt");
+            StreamWriter sw = new StreamWriter("out.txt");
             StreamReader sr = new StreamReader(inputFile);
 
             while (!sr.EndOfStream)
@@ -111,8 +111,8 @@ namespace _47_PrimoEseFile
             }
             sr.Close();
             sw.Close();
-            File.Copy("temp.txt", inputFile, true);
-            File.Delete("temp.txt");
+            File.Copy("out.txt", inputFile, true);
+            File.Delete("out.txt");
         }
 
         public static string ContaOccorrenzeParoleNelFile(string inputFile)

@@ -9,3 +9,13 @@ C:\Users\f.tesio.3619\Desktop\CampoMinatoBottoni_Solution\CampoMinatoBottoni\obj
 C:\Users\f.tesio.3619\Desktop\CampoMinatoBottoni_Solution\CampoMinatoBottoni\obj\Debug\CampoMinatoBottoni.csproj.CoreCompileInputs.cache
 C:\Users\f.tesio.3619\Desktop\CampoMinatoBottoni_Solution\CampoMinatoBottoni\obj\Debug\CampoMinatoBottoni.exe
 C:\Users\f.tesio.3619\Desktop\CampoMinatoBottoni_Solution\CampoMinatoBottoni\obj\Debug\CampoMinatoBottoni.pdb
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Marzo\CampoMinatoBottoni_Solution\CampoMinatoBottoni\bin\Debug\CampoMinatoBottoni.exe.config
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Marzo\CampoMinatoBottoni_Solution\CampoMinatoBottoni\bin\Debug\CampoMinatoBottoni.exe
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Marzo\CampoMinatoBottoni_Solution\CampoMinatoBottoni\bin\Debug\CampoMinatoBottoni.pdb
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Marzo\CampoMinatoBottoni_Solution\CampoMinatoBottoni\obj\Debug\CampoMinatoBottoni.csproj.AssemblyReference.cache
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Marzo\CampoMinatoBottoni_Solution\CampoMinatoBottoni\obj\Debug\CampoMinatoBottoni.FromMain.resources
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Marzo\CampoMinatoBottoni_Solution\CampoMinatoBottoni\obj\Debug\CampoMinatoBottoni.Properties.Resources.resources
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Marzo\CampoMinatoBottoni_Solution\CampoMinatoBottoni\obj\Debug\CampoMinatoBottoni.csproj.GenerateResource.cache
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Marzo\CampoMinatoBottoni_Solution\CampoMinatoBottoni\obj\Debug\CampoMinatoBottoni.csproj.CoreCompileInputs.cache
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Marzo\CampoMinatoBottoni_Solution\CampoMinatoBottoni\obj\Debug\CampoMinatoBottoni.exe
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Marzo\CampoMinatoBottoni_Solution\CampoMinatoBottoni\obj\Debug\CampoMinatoBottoni.pdb

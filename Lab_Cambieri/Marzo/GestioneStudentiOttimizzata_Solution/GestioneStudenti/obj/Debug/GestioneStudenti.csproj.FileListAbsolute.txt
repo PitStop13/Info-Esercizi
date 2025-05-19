@@ -50,3 +50,13 @@ C:\Users\f.tesio.3619\Downloads\GestioneStudentiOttimizzata_Solution\GestioneStu
 C:\Users\f.tesio.3619\Downloads\GestioneStudentiOttimizzata_Solution\GestioneStudenti\obj\Debug\GestioneStudenti.csproj.CoreCompileInputs.cache
 C:\Users\f.tesio.3619\Downloads\GestioneStudentiOttimizzata_Solution\GestioneStudenti\obj\Debug\GestioneStudenti.exe
 C:\Users\f.tesio.3619\Downloads\GestioneStudentiOttimizzata_Solution\GestioneStudenti\obj\Debug\GestioneStudenti.pdb
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Marzo\GestioneStudentiOttimizzata_Solution\GestioneStudenti\bin\Debug\GestioneStudenti.exe.config
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Marzo\GestioneStudentiOttimizzata_Solution\GestioneStudenti\bin\Debug\GestioneStudenti.exe
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Marzo\GestioneStudentiOttimizzata_Solution\GestioneStudenti\bin\Debug\GestioneStudenti.pdb
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Marzo\GestioneStudentiOttimizzata_Solution\GestioneStudenti\obj\Debug\GestioneStudenti.csproj.AssemblyReference.cache
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Marzo\GestioneStudentiOttimizzata_Solution\GestioneStudenti\obj\Debug\GestioneStudenti.FormMain.resources
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Marzo\GestioneStudentiOttimizzata_Solution\GestioneStudenti\obj\Debug\GestioneStudenti.Properties.Resources.resources
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Marzo\GestioneStudentiOttimizzata_Solution\GestioneStudenti\obj\Debug\GestioneStudenti.csproj.GenerateResource.cache
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Marzo\GestioneStudentiOttimizzata_Solution\GestioneStudenti\obj\Debug\GestioneStudenti.csproj.CoreCompileInputs.cache
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Marzo\GestioneStudentiOttimizzata_Solution\GestioneStudenti\obj\Debug\GestioneStudenti.exe
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Marzo\GestioneStudentiOttimizzata_Solution\GestioneStudenti\obj\Debug\GestioneStudenti.pdb

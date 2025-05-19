@@ -44,10 +44,9 @@
             // btnLeggi
             // 
             this.btnLeggi.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnLeggi.Location = new System.Drawing.Point(16, 15);
-            this.btnLeggi.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnLeggi.Location = new System.Drawing.Point(12, 12);
             this.btnLeggi.Name = "btnLeggi";
-            this.btnLeggi.Size = new System.Drawing.Size(272, 55);
+            this.btnLeggi.Size = new System.Drawing.Size(204, 45);
             this.btnLeggi.TabIndex = 0;
             this.btnLeggi.Text = "LEGGI DAL FILE";
             this.btnLeggi.UseVisualStyleBackColor = true;
@@ -56,10 +55,9 @@
             // btnModifica
             // 
             this.btnModifica.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnModifica.Location = new System.Drawing.Point(16, 78);
-            this.btnModifica.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnModifica.Location = new System.Drawing.Point(12, 63);
             this.btnModifica.Name = "btnModifica";
-            this.btnModifica.Size = new System.Drawing.Size(272, 55);
+            this.btnModifica.Size = new System.Drawing.Size(204, 45);
             this.btnModifica.TabIndex = 1;
             this.btnModifica.Text = "MODIFICA FILE";
             this.btnModifica.UseVisualStyleBackColor = true;
@@ -68,10 +66,9 @@
             // btnCopia
             // 
             this.btnCopia.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnCopia.Location = new System.Drawing.Point(16, 140);
-            this.btnCopia.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnCopia.Location = new System.Drawing.Point(12, 114);
             this.btnCopia.Name = "btnCopia";
-            this.btnCopia.Size = new System.Drawing.Size(272, 55);
+            this.btnCopia.Size = new System.Drawing.Size(204, 45);
             this.btnCopia.TabIndex = 2;
             this.btnCopia.Text = "COPIA FILE";
             this.btnCopia.UseVisualStyleBackColor = true;
@@ -80,10 +77,9 @@
             // btnContaLineeParole
             // 
             this.btnContaLineeParole.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnContaLineeParole.Location = new System.Drawing.Point(16, 203);
-            this.btnContaLineeParole.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnContaLineeParole.Location = new System.Drawing.Point(12, 165);
             this.btnContaLineeParole.Name = "btnContaLineeParole";
-            this.btnContaLineeParole.Size = new System.Drawing.Size(272, 55);
+            this.btnContaLineeParole.Size = new System.Drawing.Size(204, 45);
             this.btnContaLineeParole.TabIndex = 3;
             this.btnContaLineeParole.Text = "CONTA N° LINEE E PAROLE FILE";
             this.btnContaLineeParole.UseVisualStyleBackColor = true;
@@ -92,10 +88,9 @@
             // btnSostitureNuovoFile
             // 
             this.btnSostitureNuovoFile.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnSostitureNuovoFile.Location = new System.Drawing.Point(16, 266);
-            this.btnSostitureNuovoFile.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnSostitureNuovoFile.Location = new System.Drawing.Point(12, 216);
             this.btnSostitureNuovoFile.Name = "btnSostitureNuovoFile";
-            this.btnSostitureNuovoFile.Size = new System.Drawing.Size(272, 55);
+            this.btnSostitureNuovoFile.Size = new System.Drawing.Size(204, 45);
             this.btnSostitureNuovoFile.TabIndex = 4;
             this.btnSostitureNuovoFile.Text = "SOSTITUIRE UNA PAROLA IN NUOVO FILE";
             this.btnSostitureNuovoFile.UseVisualStyleBackColor = true;
@@ -103,29 +98,26 @@
             // 
             // rtb1
             // 
-            this.rtb1.Location = new System.Drawing.Point(296, 15);
-            this.rtb1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.rtb1.Location = new System.Drawing.Point(222, 12);
             this.rtb1.Name = "rtb1";
-            this.rtb1.Size = new System.Drawing.Size(357, 180);
+            this.rtb1.Size = new System.Drawing.Size(269, 147);
             this.rtb1.TabIndex = 5;
             this.rtb1.Text = "";
             // 
             // rtb2
             // 
-            this.rtb2.Location = new System.Drawing.Point(663, 15);
-            this.rtb2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.rtb2.Location = new System.Drawing.Point(497, 12);
             this.rtb2.Name = "rtb2";
-            this.rtb2.Size = new System.Drawing.Size(357, 180);
+            this.rtb2.Size = new System.Drawing.Size(269, 147);
             this.rtb2.TabIndex = 6;
             this.rtb2.Text = "";
             // 
             // btnSostituireStessoFile
             // 
             this.btnSostituireStessoFile.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnSostituireStessoFile.Location = new System.Drawing.Point(296, 203);
-            this.btnSostituireStessoFile.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnSostituireStessoFile.Location = new System.Drawing.Point(222, 165);
             this.btnSostituireStessoFile.Name = "btnSostituireStessoFile";
-            this.btnSostituireStessoFile.Size = new System.Drawing.Size(359, 55);
+            this.btnSostituireStessoFile.Size = new System.Drawing.Size(269, 45);
             this.btnSostituireStessoFile.TabIndex = 7;
             this.btnSostituireStessoFile.Text = "SOSTITUIRE NELLO STESSO FILE UNA PAROLA";
             this.btnSostituireStessoFile.UseVisualStyleBackColor = true;
@@ -134,10 +126,9 @@
             // btnContaOccorrenze
             // 
             this.btnContaOccorrenze.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnContaOccorrenze.Location = new System.Drawing.Point(296, 266);
-            this.btnContaOccorrenze.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnContaOccorrenze.Location = new System.Drawing.Point(222, 216);
             this.btnContaOccorrenze.Name = "btnContaOccorrenze";
-            this.btnContaOccorrenze.Size = new System.Drawing.Size(359, 55);
+            this.btnContaOccorrenze.Size = new System.Drawing.Size(269, 45);
             this.btnContaOccorrenze.TabIndex = 8;
             this.btnContaOccorrenze.Text = "CONTARE LE OCCORRENZE DELLE PAROLE NEL TESTO";
             this.btnContaOccorrenze.UseVisualStyleBackColor = true;
@@ -146,10 +137,9 @@
             // btnLunghezzaMediaParole
             // 
             this.btnLunghezzaMediaParole.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnLunghezzaMediaParole.Location = new System.Drawing.Point(663, 203);
-            this.btnLunghezzaMediaParole.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnLunghezzaMediaParole.Location = new System.Drawing.Point(497, 165);
             this.btnLunghezzaMediaParole.Name = "btnLunghezzaMediaParole";
-            this.btnLunghezzaMediaParole.Size = new System.Drawing.Size(359, 55);
+            this.btnLunghezzaMediaParole.Size = new System.Drawing.Size(269, 45);
             this.btnLunghezzaMediaParole.TabIndex = 9;
             this.btnLunghezzaMediaParole.Text = "CALCOLARE LA LUNGHEZZA MEDIA DELLE PAROLE";
             this.btnLunghezzaMediaParole.UseVisualStyleBackColor = true;
@@ -158,18 +148,17 @@
             // cmbParole
             // 
             this.cmbParole.FormattingEnabled = true;
-            this.cmbParole.Location = new System.Drawing.Point(663, 282);
-            this.cmbParole.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.cmbParole.Location = new System.Drawing.Point(497, 229);
             this.cmbParole.Name = "cmbParole";
-            this.cmbParole.Size = new System.Drawing.Size(357, 24);
+            this.cmbParole.Size = new System.Drawing.Size(269, 21);
             this.cmbParole.TabIndex = 10;
             this.cmbParole.SelectedIndexChanged += new System.EventHandler(this.cmbParole_SelectedIndexChanged);
             // 
             // FormMain
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1037, 334);
+            this.ClientSize = new System.Drawing.Size(778, 271);
             this.Controls.Add(this.cmbParole);
             this.Controls.Add(this.btnLunghezzaMediaParole);
             this.Controls.Add(this.btnContaOccorrenze);
@@ -181,7 +170,6 @@
             this.Controls.Add(this.btnCopia);
             this.Controls.Add(this.btnModifica);
             this.Controls.Add(this.btnLeggi);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "FormMain";
             this.Text = "Gestine files di testo";
             this.Load += new System.EventHandler(this.Formmain_Load);

@@ -50,7 +50,7 @@ namespace GestioneStudenti
             List<string> listClassi = ClsStudenti.CaricaDatiStudenti();
             cmbClasse.DataSource = listClassi;
 
-            // Crico dati dgv e combo matricole
+            // Carico dati dgv e combo matricole
             for(int i = 0; i < ClsStudenti.Studenti.Length; i++)
             {
                 ClsStudenti.Studente s = ClsStudenti.Studenti[i];
@@ -287,6 +287,16 @@ namespace GestioneStudenti
             
 
             MessageBox.Show(classiMediaMaxMin, "MATERIE MIGLIORI PEGGIORI (media voti)");
+        }
+
+        private void btnDgvValutazioniOrdinateMateria_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnDgvStudentiClasseMedie_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

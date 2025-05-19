@@ -20,3 +20,13 @@ C:\Users\f.tesio.3619\Desktop\CampoMinato_44-solution\CampoMinato_44\obj\Debug\C
 C:\Users\f.tesio.3619\Desktop\CampoMinato_44-solution\CampoMinato_44\obj\Debug\CampoMinato_44.csproj.CoreCompileInputs.cache
 C:\Users\f.tesio.3619\Desktop\CampoMinato_44-solution\CampoMinato_44\obj\Debug\CampoMinato_44.exe
 C:\Users\f.tesio.3619\Desktop\CampoMinato_44-solution\CampoMinato_44\obj\Debug\CampoMinato_44.pdb
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Marzo\CampoMinato_44-solution\CampoMinato_44\obj\Debug\CampoMinato_44.csproj.AssemblyReference.cache
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Marzo\CampoMinato_44-solution\CampoMinato_44\obj\Debug\CampoMinato_44.CampoMinato.resources
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Marzo\CampoMinato_44-solution\CampoMinato_44\obj\Debug\CampoMinato_44.Properties.Resources.resources
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Marzo\CampoMinato_44-solution\CampoMinato_44\obj\Debug\CampoMinato_44.csproj.GenerateResource.cache
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Marzo\CampoMinato_44-solution\CampoMinato_44\obj\Debug\CampoMinato_44.csproj.CoreCompileInputs.cache
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Marzo\CampoMinato_44-solution\CampoMinato_44\obj\Debug\CampoMinato_44.exe
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Marzo\CampoMinato_44-solution\CampoMinato_44\obj\Debug\CampoMinato_44.pdb
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Marzo\CampoMinato_44-solution\CampoMinato_44\bin\Debug\CampoMinato_44.exe.config
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Marzo\CampoMinato_44-solution\CampoMinato_44\bin\Debug\CampoMinato_44.exe
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Marzo\CampoMinato_44-solution\CampoMinato_44\bin\Debug\CampoMinato_44.pdb

@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\f.tesio.3619\\Downloads\\GestioneStudentiOttimizzata_Solution\\",
+  "WorkspaceRootPath": "C:\\Users\\pietr\\Documents\\Scuola\\INFO\\Lab_Cambieri\\Marzo\\GestioneStudentiOttimizzata_Solution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{129600C9-8208-4A8E-8872-4E4E1B41C3C7}|GestioneStudenti\\GestioneStudenti.csproj|c:\\users\\f.tesio.3619\\downloads\\gestionestudentiottimizzata_solution\\gestionestudenti\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{129600C9-8208-4A8E-8872-4E4E1B41C3C7}|GestioneStudenti\\GestioneStudenti.csproj|C:\\Users\\pietr\\Documents\\Scuola\\INFO\\Lab_Cambieri\\Marzo\\GestioneStudentiOttimizzata_Solution\\gestionestudenti\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{129600C9-8208-4A8E-8872-4E4E1B41C3C7}|GestioneStudenti\\GestioneStudenti.csproj|solutionrelative:gestionestudenti\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{129600C9-8208-4A8E-8872-4E4E1B41C3C7}|GestioneStudenti\\GestioneStudenti.csproj|C:\\Users\\f.tesio.3619\\Downloads\\GestioneStudentiOttimizzata_Solution\\gestionestudenti\\clsstudenti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{129600C9-8208-4A8E-8872-4E4E1B41C3C7}|GestioneStudenti\\GestioneStudenti.csproj|solutionrelative:gestionestudenti\\clsstudenti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{129600C9-8208-4A8E-8872-4E4E1B41C3C7}|GestioneStudenti\\GestioneStudenti.csproj|C:\\Users\\f.tesio.3619\\Downloads\\GestioneStudentiOttimizzata_Solution\\gestionestudenti\\clsvalutazioni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{129600C9-8208-4A8E-8872-4E4E1B41C3C7}|GestioneStudenti\\GestioneStudenti.csproj|C:\\Users\\pietr\\Documents\\Scuola\\INFO\\Lab_Cambieri\\Marzo\\GestioneStudentiOttimizzata_Solution\\gestionestudenti\\clsvalutazioni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{129600C9-8208-4A8E-8872-4E4E1B41C3C7}|GestioneStudenti\\GestioneStudenti.csproj|solutionrelative:gestionestudenti\\clsvalutazioni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{129600C9-8208-4A8E-8872-4E4E1B41C3C7}|GestioneStudenti\\GestioneStudenti.csproj|C:\\Users\\f.tesio.3619\\Downloads\\GestioneStudentiOttimizzata_Solution\\gestionestudenti\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{129600C9-8208-4A8E-8872-4E4E1B41C3C7}|GestioneStudenti\\GestioneStudenti.csproj|c:\\users\\pietr\\documents\\scuola\\info\\lab_cambieri\\marzo\\gestionestudentiottimizzata_solution\\gestionestudenti\\clsstudenti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129600C9-8208-4A8E-8872-4E4E1B41C3C7}|GestioneStudenti\\GestioneStudenti.csproj|solutionrelative:gestionestudenti\\clsstudenti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129600C9-8208-4A8E-8872-4E4E1B41C3C7}|GestioneStudenti\\GestioneStudenti.csproj|C:\\Users\\pietr\\Documents\\Scuola\\INFO\\Lab_Cambieri\\Marzo\\GestioneStudentiOttimizzata_Solution\\gestionestudenti\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{129600C9-8208-4A8E-8872-4E4E1B41C3C7}|GestioneStudenti\\GestioneStudenti.csproj|solutionrelative:gestionestudenti\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -26,30 +26,42 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ClsStudenti.cs",
-              "DocumentMoniker": "C:\\Users\\f.tesio.3619\\Downloads\\GestioneStudentiOttimizzata_Solution\\GestioneStudenti\\ClsStudenti.cs",
+              "DocumentMoniker": "C:\\Users\\pietr\\Documents\\Scuola\\INFO\\Lab_Cambieri\\Marzo\\GestioneStudentiOttimizzata_Solution\\GestioneStudenti\\ClsStudenti.cs",
               "RelativeDocumentMoniker": "GestioneStudenti\\ClsStudenti.cs",
-              "ToolTip": "C:\\Users\\f.tesio.3619\\Downloads\\GestioneStudentiOttimizzata_Solution\\GestioneStudenti\\ClsStudenti.cs",
+              "ToolTip": "C:\\Users\\pietr\\Documents\\Scuola\\INFO\\Lab_Cambieri\\Marzo\\GestioneStudentiOttimizzata_Solution\\GestioneStudenti\\ClsStudenti.cs",
               "RelativeToolTip": "GestioneStudenti\\ClsStudenti.cs",
-              "ViewState": "AgIAAL0AAAAAAAAAAAAswMoAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwCMAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T14:40:46.23Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ClsValutazioni.cs",
-              "DocumentMoniker": "C:\\Users\\f.tesio.3619\\Downloads\\GestioneStudentiOttimizzata_Solution\\GestioneStudenti\\ClsValutazioni.cs",
+              "DocumentMoniker": "C:\\Users\\pietr\\Documents\\Scuola\\INFO\\Lab_Cambieri\\Marzo\\GestioneStudentiOttimizzata_Solution\\GestioneStudenti\\ClsValutazioni.cs",
               "RelativeDocumentMoniker": "GestioneStudenti\\ClsValutazioni.cs",
-              "ToolTip": "C:\\Users\\f.tesio.3619\\Downloads\\GestioneStudentiOttimizzata_Solution\\GestioneStudenti\\ClsValutazioni.cs",
+              "ToolTip": "C:\\Users\\pietr\\Documents\\Scuola\\INFO\\Lab_Cambieri\\Marzo\\GestioneStudentiOttimizzata_Solution\\GestioneStudenti\\ClsValutazioni.cs",
               "RelativeToolTip": "GestioneStudenti\\ClsValutazioni.cs",
-              "ViewState": "AgIAALsAAAAAAAAAAAAUwNIAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAALUAAAAAAAAAAAAUwNIAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-01T18:33:43.074Z",
               "EditorCaption": ""
@@ -58,11 +70,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "FormMain.cs",
-              "DocumentMoniker": "C:\\Users\\f.tesio.3619\\Downloads\\GestioneStudentiOttimizzata_Solution\\GestioneStudenti\\FormMain.cs",
+              "DocumentMoniker": "C:\\Users\\pietr\\Documents\\Scuola\\INFO\\Lab_Cambieri\\Marzo\\GestioneStudentiOttimizzata_Solution\\GestioneStudenti\\FormMain.cs",
               "RelativeDocumentMoniker": "GestioneStudenti\\FormMain.cs",
-              "ToolTip": "C:\\Users\\f.tesio.3619\\Downloads\\GestioneStudentiOttimizzata_Solution\\GestioneStudenti\\FormMain.cs",
-              "RelativeToolTip": "GestioneStudenti\\FormMain.cs",
-              "ViewState": "AgIAAA0BAAAAAAAAAAA2wB8BAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\pietr\\Documents\\Scuola\\INFO\\Lab_Cambieri\\Marzo\\GestioneStudentiOttimizzata_Solution\\GestioneStudenti\\FormMain.cs*",
+              "RelativeToolTip": "GestioneStudenti\\FormMain.cs*",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAAD4AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-30T14:20:58.715Z",
               "EditorCaption": ""
@@ -71,10 +83,10 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "FormMain.cs [Progettazione]",
-              "DocumentMoniker": "C:\\Users\\f.tesio.3619\\Downloads\\GestioneStudentiOttimizzata_Solution\\GestioneStudenti\\FormMain.cs",
+              "DocumentMoniker": "C:\\Users\\pietr\\Documents\\Scuola\\INFO\\Lab_Cambieri\\Marzo\\GestioneStudentiOttimizzata_Solution\\GestioneStudenti\\FormMain.cs",
               "RelativeDocumentMoniker": "GestioneStudenti\\FormMain.cs",
-              "ToolTip": "C:\\Users\\f.tesio.3619\\Downloads\\GestioneStudentiOttimizzata_Solution\\GestioneStudenti\\FormMain.cs [Progettazione]",
-              "RelativeToolTip": "GestioneStudenti\\FormMain.cs [Progettazione]",
+              "ToolTip": "C:\\Users\\pietr\\Documents\\Scuola\\INFO\\Lab_Cambieri\\Marzo\\GestioneStudentiOttimizzata_Solution\\GestioneStudenti\\FormMain.cs [Progettazione]*",
+              "RelativeToolTip": "GestioneStudenti\\FormMain.cs [Progettazione]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-30T14:20:59.126Z",
               "EditorCaption": " [Progettazione]"

@@ -19,3 +19,13 @@ C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual 
 C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Lab_Cambieri\Marzo\Es_Master-Mind_Solution\Es_Master-Mind\obj\Debug\Es_Master-Mind.csproj.CoreCompileInputs.cache
 C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Lab_Cambieri\Marzo\Es_Master-Mind_Solution\Es_Master-Mind\obj\Debug\Es_Master-Mind.exe
 C:\Users\tesio\Desktop\ITIS Vallauri\FEDERICO INFORMATICA\Info 2024-2025\Visual studio\Lab_Cambieri\Marzo\Es_Master-Mind_Solution\Es_Master-Mind\obj\Debug\Es_Master-Mind.pdb
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Marzo\Es_Master-Mind_Solution\Es_Master-Mind\bin\Debug\Es_Master-Mind.exe.config
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Marzo\Es_Master-Mind_Solution\Es_Master-Mind\bin\Debug\Es_Master-Mind.exe
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Marzo\Es_Master-Mind_Solution\Es_Master-Mind\bin\Debug\Es_Master-Mind.pdb
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Marzo\Es_Master-Mind_Solution\Es_Master-Mind\obj\Debug\Es_Master-Mind.csproj.AssemblyReference.cache
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Marzo\Es_Master-Mind_Solution\Es_Master-Mind\obj\Debug\Es_Master_Mind.Form_MasterMind.resources
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Marzo\Es_Master-Mind_Solution\Es_Master-Mind\obj\Debug\Es_Master_Mind.Properties.Resources.resources
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Marzo\Es_Master-Mind_Solution\Es_Master-Mind\obj\Debug\Es_Master-Mind.csproj.GenerateResource.cache
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Marzo\Es_Master-Mind_Solution\Es_Master-Mind\obj\Debug\Es_Master-Mind.csproj.CoreCompileInputs.cache
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Marzo\Es_Master-Mind_Solution\Es_Master-Mind\obj\Debug\Es_Master-Mind.exe
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Marzo\Es_Master-Mind_Solution\Es_Master-Mind\obj\Debug\Es_Master-Mind.pdb

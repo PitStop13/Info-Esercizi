@@ -9,3 +9,13 @@ C:\Users\f.tesio.3619\Desktop\WindForm01_Solution\WindForm01\obj\Debug\WindForm0
 C:\Users\f.tesio.3619\Desktop\WindForm01_Solution\WindForm01\obj\Debug\WindForm01.exe
 C:\Users\f.tesio.3619\Desktop\WindForm01_Solution\WindForm01\obj\Debug\WindForm01.pdb
 C:\Users\f.tesio.3619\Desktop\WindForm01_Solution\WindForm01\obj\Debug\WindForm01.FormMain.resources
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Febbraio\WindForm01_Solution\WindForm01\bin\Debug\WindForm01.exe.config
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Febbraio\WindForm01_Solution\WindForm01\bin\Debug\WindForm01.exe
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Febbraio\WindForm01_Solution\WindForm01\bin\Debug\WindForm01.pdb
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Febbraio\WindForm01_Solution\WindForm01\obj\Debug\WindForm01.csproj.AssemblyReference.cache
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Febbraio\WindForm01_Solution\WindForm01\obj\Debug\WindForm01.FormMain.resources
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Febbraio\WindForm01_Solution\WindForm01\obj\Debug\WindForm01.Properties.Resources.resources
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Febbraio\WindForm01_Solution\WindForm01\obj\Debug\WindForm01.csproj.GenerateResource.cache
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Febbraio\WindForm01_Solution\WindForm01\obj\Debug\WindForm01.csproj.CoreCompileInputs.cache
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Febbraio\WindForm01_Solution\WindForm01\obj\Debug\WindForm01.exe
+C:\Users\pietr\Documents\Scuola\INFO\Lab_Cambieri\Febbraio\WindForm01_Solution\WindForm01\obj\Debug\WindForm01.pdb
