@@ -1,0 +1,12 @@
+C:\Users\pietr\Desktop\Olivero-Pietro-Verifica\Olivero-Pietro-Verifica\bin\Debug\filmoteca.csv
+C:\Users\pietr\Desktop\Olivero-Pietro-Verifica\Olivero-Pietro-Verifica\bin\Debug\Olivero-Pietro-Verifica.exe.config
+C:\Users\pietr\Desktop\Olivero-Pietro-Verifica\Olivero-Pietro-Verifica\bin\Debug\Olivero-Pietro-Verifica.exe
+C:\Users\pietr\Desktop\Olivero-Pietro-Verifica\Olivero-Pietro-Verifica\bin\Debug\Olivero-Pietro-Verifica.pdb
+C:\Users\pietr\Desktop\Olivero-Pietro-Verifica\Olivero-Pietro-Verifica\obj\Debug\Olivero-Pietro-Verifica.csproj.AssemblyReference.cache
+C:\Users\pietr\Desktop\Olivero-Pietro-Verifica\Olivero-Pietro-Verifica\obj\Debug\Olivero_Pietro_Verifica.Verifica.resources
+C:\Users\pietr\Desktop\Olivero-Pietro-Verifica\Olivero-Pietro-Verifica\obj\Debug\Olivero_Pietro_Verifica.Properties.Resources.resources
+C:\Users\pietr\Desktop\Olivero-Pietro-Verifica\Olivero-Pietro-Verifica\obj\Debug\Olivero-Pietro-Verifica.csproj.GenerateResource.cache
+C:\Users\pietr\Desktop\Olivero-Pietro-Verifica\Olivero-Pietro-Verifica\obj\Debug\Olivero-Pietro-Verifica.csproj.CoreCompileInputs.cache
+C:\Users\pietr\Desktop\Olivero-Pietro-Verifica\Olivero-Pietro-Verifica\obj\Debug\Olivero-Pietro-Verifica.exe
+C:\Users\pietr\Desktop\Olivero-Pietro-Verifica\Olivero-Pietro-Verifica\obj\Debug\Olivero-Pietro-Verifica.pdb
+C:\Users\pietr\Desktop\Olivero-Pietro-Verifica\Olivero-Pietro-Verifica\obj\Debug\Olivero-Pietro-Verifica.exe.config

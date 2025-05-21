@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -33,10 +33,6 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ClsFile.cs",
@@ -44,10 +40,14 @@
               "RelativeDocumentMoniker": "47-PrimoEseFile\\ClsFile.cs",
               "ToolTip": "C:\\Users\\pietr\\Documents\\Scuola\\INFO\\Lab_Cambieri\\Aprile\\47-PrimoEseFile_Solution\\47-PrimoEseFile\\ClsFile.cs",
               "RelativeToolTip": "47-PrimoEseFile\\ClsFile.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAJ4AAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAJ0AAAAAAAAAAABBwJ4AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-04T08:11:47.969Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
@@ -59,8 +59,7 @@
               "RelativeToolTip": "47-PrimoEseFile\\Form1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T06:49:11.551Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-09T06:49:11.551Z"
             },
             {
               "$type": "Document",
@@ -71,8 +70,7 @@
               "ToolTip": "C:\\Users\\pietr\\Documents\\Scuola\\INFO\\Lab_Cambieri\\Aprile\\47-PrimoEseFile_Solution\\47-PrimoEseFile\\Form1.cs [Progettazione]",
               "RelativeToolTip": "47-PrimoEseFile\\Form1.cs [Progettazione]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T06:36:36.165Z",
-              "EditorCaption": " [Progettazione]"
+              "WhenOpened": "2025-04-09T06:36:36.165Z"
             }
           ]
         }
