@@ -1,0 +1,7 @@
+C:\Users\pietr\Documents\Scuola\INFO\Teoria_Beliardo\Maggio\Programmazione a Oggetti\Calsse persona con eccezioni\Calsse persona con eccezioni\bin\Debug\Calsse persona con eccezioni.exe.config
+C:\Users\pietr\Documents\Scuola\INFO\Teoria_Beliardo\Maggio\Programmazione a Oggetti\Calsse persona con eccezioni\Calsse persona con eccezioni\bin\Debug\Calsse persona con eccezioni.exe
+C:\Users\pietr\Documents\Scuola\INFO\Teoria_Beliardo\Maggio\Programmazione a Oggetti\Calsse persona con eccezioni\Calsse persona con eccezioni\bin\Debug\Calsse persona con eccezioni.pdb
+C:\Users\pietr\Documents\Scuola\INFO\Teoria_Beliardo\Maggio\Programmazione a Oggetti\Calsse persona con eccezioni\Calsse persona con eccezioni\obj\Debug\Calsse persona con eccezioni.csproj.AssemblyReference.cache
+C:\Users\pietr\Documents\Scuola\INFO\Teoria_Beliardo\Maggio\Programmazione a Oggetti\Calsse persona con eccezioni\Calsse persona con eccezioni\obj\Debug\Calsse persona con eccezioni.csproj.CoreCompileInputs.cache
+C:\Users\pietr\Documents\Scuola\INFO\Teoria_Beliardo\Maggio\Programmazione a Oggetti\Calsse persona con eccezioni\Calsse persona con eccezioni\obj\Debug\Calsse persona con eccezioni.exe
+C:\Users\pietr\Documents\Scuola\INFO\Teoria_Beliardo\Maggio\Programmazione a Oggetti\Calsse persona con eccezioni\Calsse persona con eccezioni\obj\Debug\Calsse persona con eccezioni.pdb

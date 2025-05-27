@@ -1,0 +1,7 @@
+C:\Users\pietr\Documents\Scuola\INFO\Teoria_Beliardo\Maggio\Programmazione a Oggetti\X verifica\Es_modulo_7\Es_modulo_7\bin\Debug\Es_modulo_7.exe.config
+C:\Users\pietr\Documents\Scuola\INFO\Teoria_Beliardo\Maggio\Programmazione a Oggetti\X verifica\Es_modulo_7\Es_modulo_7\bin\Debug\Es_modulo_7.exe
+C:\Users\pietr\Documents\Scuola\INFO\Teoria_Beliardo\Maggio\Programmazione a Oggetti\X verifica\Es_modulo_7\Es_modulo_7\bin\Debug\Es_modulo_7.pdb
+C:\Users\pietr\Documents\Scuola\INFO\Teoria_Beliardo\Maggio\Programmazione a Oggetti\X verifica\Es_modulo_7\Es_modulo_7\obj\Debug\Es_modulo_7.csproj.AssemblyReference.cache
+C:\Users\pietr\Documents\Scuola\INFO\Teoria_Beliardo\Maggio\Programmazione a Oggetti\X verifica\Es_modulo_7\Es_modulo_7\obj\Debug\Es_modulo_7.csproj.CoreCompileInputs.cache
+C:\Users\pietr\Documents\Scuola\INFO\Teoria_Beliardo\Maggio\Programmazione a Oggetti\X verifica\Es_modulo_7\Es_modulo_7\obj\Debug\Es_modulo_7.exe
+C:\Users\pietr\Documents\Scuola\INFO\Teoria_Beliardo\Maggio\Programmazione a Oggetti\X verifica\Es_modulo_7\Es_modulo_7\obj\Debug\Es_modulo_7.pdb

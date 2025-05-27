@@ -1,0 +1,7 @@
+C:\Users\pietr\Documents\Scuola\INFO\Teoria_Beliardo\Maggio\Programmazione a Oggetti\Overload\Overload\bin\Debug\Overload.exe.config
+C:\Users\pietr\Documents\Scuola\INFO\Teoria_Beliardo\Maggio\Programmazione a Oggetti\Overload\Overload\bin\Debug\Overload.exe
+C:\Users\pietr\Documents\Scuola\INFO\Teoria_Beliardo\Maggio\Programmazione a Oggetti\Overload\Overload\bin\Debug\Overload.pdb
+C:\Users\pietr\Documents\Scuola\INFO\Teoria_Beliardo\Maggio\Programmazione a Oggetti\Overload\Overload\obj\Debug\Overload.csproj.AssemblyReference.cache
+C:\Users\pietr\Documents\Scuola\INFO\Teoria_Beliardo\Maggio\Programmazione a Oggetti\Overload\Overload\obj\Debug\Overload.csproj.CoreCompileInputs.cache
+C:\Users\pietr\Documents\Scuola\INFO\Teoria_Beliardo\Maggio\Programmazione a Oggetti\Overload\Overload\obj\Debug\Overload.exe
+C:\Users\pietr\Documents\Scuola\INFO\Teoria_Beliardo\Maggio\Programmazione a Oggetti\Overload\Overload\obj\Debug\Overload.pdb

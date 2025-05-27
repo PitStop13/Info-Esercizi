@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pietr\\Documents\\Scuola\\INFO\\Teoria_Beliardo\\Maggio\\Programmazione a Oggetti\\Calsse persona con eccezioni\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F37CC0C8-341F-49CA-823E-1F4ED8F46444}|Calsse persona con eccezioni\\Calsse persona con eccezioni.csproj|c:\\users\\pietr\\documents\\scuola\\info\\teoria_beliardo\\maggio\\programmazione a oggetti\\calsse persona con eccezioni\\calsse persona con eccezioni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F37CC0C8-341F-49CA-823E-1F4ED8F46444}|Calsse persona con eccezioni\\Calsse persona con eccezioni.csproj|solutionrelative:calsse persona con eccezioni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pietr\\Documents\\Scuola\\INFO\\Teoria_Beliardo\\Maggio\\Programmazione a Oggetti\\Calsse persona con eccezioni\\Calsse persona con eccezioni\\Program.cs",
+              "RelativeDocumentMoniker": "Calsse persona con eccezioni\\Program.cs",
+              "ToolTip": "C:\\Users\\pietr\\Documents\\Scuola\\INFO\\Teoria_Beliardo\\Maggio\\Programmazione a Oggetti\\Calsse persona con eccezioni\\Calsse persona con eccezioni\\Program.cs",
+              "RelativeToolTip": "Calsse persona con eccezioni\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T14:56:49.606Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
