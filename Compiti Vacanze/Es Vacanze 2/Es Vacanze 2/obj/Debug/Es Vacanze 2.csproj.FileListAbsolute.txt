@@ -1,0 +1,7 @@
+C:\Users\pietr\Documents\Scuola\INFO\Compiti Vacanze\Es Vacanze 2\Es Vacanze 2\bin\Debug\Es Vacanze 2.exe.config
+C:\Users\pietr\Documents\Scuola\INFO\Compiti Vacanze\Es Vacanze 2\Es Vacanze 2\bin\Debug\Es Vacanze 2.exe
+C:\Users\pietr\Documents\Scuola\INFO\Compiti Vacanze\Es Vacanze 2\Es Vacanze 2\bin\Debug\Es Vacanze 2.pdb
+C:\Users\pietr\Documents\Scuola\INFO\Compiti Vacanze\Es Vacanze 2\Es Vacanze 2\obj\Debug\Es Vacanze 2.csproj.AssemblyReference.cache
+C:\Users\pietr\Documents\Scuola\INFO\Compiti Vacanze\Es Vacanze 2\Es Vacanze 2\obj\Debug\Es Vacanze 2.csproj.CoreCompileInputs.cache
+C:\Users\pietr\Documents\Scuola\INFO\Compiti Vacanze\Es Vacanze 2\Es Vacanze 2\obj\Debug\Es Vacanze 2.exe
+C:\Users\pietr\Documents\Scuola\INFO\Compiti Vacanze\Es Vacanze 2\Es Vacanze 2\obj\Debug\Es Vacanze 2.pdb
