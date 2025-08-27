@@ -5,3 +5,4 @@ C:\Users\pietr\Documents\Scuola\INFO\Compiti Vacanze\Es Vacanze 5\Es Vacanze 5\o
 C:\Users\pietr\Documents\Scuola\INFO\Compiti Vacanze\Es Vacanze 5\Es Vacanze 5\obj\Debug\Es Vacanze 5.csproj.CoreCompileInputs.cache
 C:\Users\pietr\Documents\Scuola\INFO\Compiti Vacanze\Es Vacanze 5\Es Vacanze 5\obj\Debug\Es Vacanze 5.exe
 C:\Users\pietr\Documents\Scuola\INFO\Compiti Vacanze\Es Vacanze 5\Es Vacanze 5\obj\Debug\Es Vacanze 5.pdb
+C:\Users\pietr\Documents\Scuola\INFO\Compiti Vacanze\Es Vacanze 5\Es Vacanze 5\obj\Debug\Es Vacanze 5.exe.config

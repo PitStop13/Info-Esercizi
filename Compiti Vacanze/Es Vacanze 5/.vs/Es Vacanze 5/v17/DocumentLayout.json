@@ -14,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,10 +26,6 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
@@ -38,9 +34,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pietr\\Documents\\Scuola\\INFO\\Compiti Vacanze\\Es Vacanze 5\\Es Vacanze 5\\Program.cs",
               "RelativeDocumentMoniker": "Es Vacanze 5\\Program.cs",
-              "ToolTip": "C:\\Users\\pietr\\Documents\\Scuola\\INFO\\Compiti Vacanze\\Es Vacanze 5\\Es Vacanze 5\\Program.cs",
-              "RelativeToolTip": "Es Vacanze 5\\Program.cs",
-              "ViewState": "AgIAAJwAAAAAAAAAAAAAALUAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\pietr\\Documents\\Scuola\\INFO\\Compiti Vacanze\\Es Vacanze 5\\Es Vacanze 5\\Program.cs*",
+              "RelativeToolTip": "Es Vacanze 5\\Program.cs*",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAgwLUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-07T14:08:15.554Z",
               "EditorCaption": ""
