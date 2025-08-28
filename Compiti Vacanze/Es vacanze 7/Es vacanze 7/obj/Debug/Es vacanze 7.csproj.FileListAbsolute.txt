@@ -1,0 +1,8 @@
+C:\Users\pietr\Documents\Scuola\INFO\Compiti Vacanze\Es vacanze 7\Es vacanze 7\bin\Debug\Es vacanze 7.exe.config
+C:\Users\pietr\Documents\Scuola\INFO\Compiti Vacanze\Es vacanze 7\Es vacanze 7\bin\Debug\Es vacanze 7.exe
+C:\Users\pietr\Documents\Scuola\INFO\Compiti Vacanze\Es vacanze 7\Es vacanze 7\bin\Debug\Es vacanze 7.pdb
+C:\Users\pietr\Documents\Scuola\INFO\Compiti Vacanze\Es vacanze 7\Es vacanze 7\obj\Debug\Es vacanze 7.csproj.AssemblyReference.cache
+C:\Users\pietr\Documents\Scuola\INFO\Compiti Vacanze\Es vacanze 7\Es vacanze 7\obj\Debug\Es vacanze 7.csproj.CoreCompileInputs.cache
+C:\Users\pietr\Documents\Scuola\INFO\Compiti Vacanze\Es vacanze 7\Es vacanze 7\obj\Debug\Es vacanze 7.exe
+C:\Users\pietr\Documents\Scuola\INFO\Compiti Vacanze\Es vacanze 7\Es vacanze 7\obj\Debug\Es vacanze 7.pdb
+C:\Users\pietr\Documents\Scuola\INFO\Compiti Vacanze\Es vacanze 7\Es vacanze 7\obj\Debug\Es vacanze 7.exe.config

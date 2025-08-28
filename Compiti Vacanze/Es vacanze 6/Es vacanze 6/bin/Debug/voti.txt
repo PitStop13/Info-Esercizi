@@ -1,0 +1,8 @@
+Matematica;2;2;2
+Storia;3;3;3
+Italiano;4;4;4
+Geografia;5;5;5
+INformatica;6;6;6
+Telecomunicazioni;7;7;7
+Sistemi;8;8;8
+Inglese;9;9;9
