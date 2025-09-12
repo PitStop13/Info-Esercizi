@@ -1,0 +1,7 @@
+C:\Users\pietr\Documents\Scuola\INFO\Teoria_Beliardo\Maggio\Programmazione a Oggetti\Modulo 6\Es_Modulo_6\Es_Modulo_6\bin\Debug\Es_Modulo_6.exe.config
+C:\Users\pietr\Documents\Scuola\INFO\Teoria_Beliardo\Maggio\Programmazione a Oggetti\Modulo 6\Es_Modulo_6\Es_Modulo_6\bin\Debug\Es_Modulo_6.exe
+C:\Users\pietr\Documents\Scuola\INFO\Teoria_Beliardo\Maggio\Programmazione a Oggetti\Modulo 6\Es_Modulo_6\Es_Modulo_6\bin\Debug\Es_Modulo_6.pdb
+C:\Users\pietr\Documents\Scuola\INFO\Teoria_Beliardo\Maggio\Programmazione a Oggetti\Modulo 6\Es_Modulo_6\Es_Modulo_6\obj\Debug\Es_Modulo_6.csproj.AssemblyReference.cache
+C:\Users\pietr\Documents\Scuola\INFO\Teoria_Beliardo\Maggio\Programmazione a Oggetti\Modulo 6\Es_Modulo_6\Es_Modulo_6\obj\Debug\Es_Modulo_6.csproj.CoreCompileInputs.cache
+C:\Users\pietr\Documents\Scuola\INFO\Teoria_Beliardo\Maggio\Programmazione a Oggetti\Modulo 6\Es_Modulo_6\Es_Modulo_6\obj\Debug\Es_Modulo_6.exe
+C:\Users\pietr\Documents\Scuola\INFO\Teoria_Beliardo\Maggio\Programmazione a Oggetti\Modulo 6\Es_Modulo_6\Es_Modulo_6\obj\Debug\Es_Modulo_6.pdb
