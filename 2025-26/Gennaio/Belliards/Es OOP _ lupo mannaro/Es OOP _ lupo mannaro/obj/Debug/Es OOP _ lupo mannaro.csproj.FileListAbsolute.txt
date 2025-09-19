@@ -1,0 +1,10 @@
+C:\Users\p.olivero.3584\Documents\Es OOP _ lupo mannaro\Es OOP _ lupo mannaro\bin\Debug\Es OOP _ lupo mannaro.exe.config
+C:\Users\p.olivero.3584\Documents\Es OOP _ lupo mannaro\Es OOP _ lupo mannaro\bin\Debug\Es OOP _ lupo mannaro.exe
+C:\Users\p.olivero.3584\Documents\Es OOP _ lupo mannaro\Es OOP _ lupo mannaro\bin\Debug\Es OOP _ lupo mannaro.pdb
+C:\Users\p.olivero.3584\Documents\Es OOP _ lupo mannaro\Es OOP _ lupo mannaro\obj\Debug\Es OOP _ lupo mannaro.csproj.AssemblyReference.cache
+C:\Users\p.olivero.3584\Documents\Es OOP _ lupo mannaro\Es OOP _ lupo mannaro\obj\Debug\Es_OOP___lupo_mannaro.Form1.resources
+C:\Users\p.olivero.3584\Documents\Es OOP _ lupo mannaro\Es OOP _ lupo mannaro\obj\Debug\Es_OOP___lupo_mannaro.Properties.Resources.resources
+C:\Users\p.olivero.3584\Documents\Es OOP _ lupo mannaro\Es OOP _ lupo mannaro\obj\Debug\Es OOP _ lupo mannaro.csproj.GenerateResource.cache
+C:\Users\p.olivero.3584\Documents\Es OOP _ lupo mannaro\Es OOP _ lupo mannaro\obj\Debug\Es OOP _ lupo mannaro.csproj.CoreCompileInputs.cache
+C:\Users\p.olivero.3584\Documents\Es OOP _ lupo mannaro\Es OOP _ lupo mannaro\obj\Debug\Es OOP _ lupo mannaro.exe
+C:\Users\p.olivero.3584\Documents\Es OOP _ lupo mannaro\Es OOP _ lupo mannaro\obj\Debug\Es OOP _ lupo mannaro.pdb

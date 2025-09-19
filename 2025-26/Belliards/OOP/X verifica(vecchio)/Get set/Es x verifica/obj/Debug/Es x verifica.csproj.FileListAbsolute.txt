@@ -1,8 +1,0 @@
-C:\Users\pietr\Documents\Scuola\INFO\Teoria_Beliardo\Maggio\Programmazione a Oggetti\Es x verifica\Es x verifica\obj\Debug\Es x verifica.csproj.AssemblyReference.cache
-C:\Users\pietr\Documents\Scuola\INFO\Teoria_Beliardo\Maggio\Programmazione a Oggetti\Es x verifica\Es x verifica\obj\Debug\Es x verifica.csproj.CoreCompileInputs.cache
-C:\Users\pietr\Documents\Scuola\INFO\Teoria_Beliardo\Maggio\Programmazione a Oggetti\Es x verifica\Es x verifica\bin\Debug\Es x verifica.exe.config
-C:\Users\pietr\Documents\Scuola\INFO\Teoria_Beliardo\Maggio\Programmazione a Oggetti\Es x verifica\Es x verifica\bin\Debug\Es x verifica.exe
-C:\Users\pietr\Documents\Scuola\INFO\Teoria_Beliardo\Maggio\Programmazione a Oggetti\Es x verifica\Es x verifica\bin\Debug\Es x verifica.pdb
-C:\Users\pietr\Documents\Scuola\INFO\Teoria_Beliardo\Maggio\Programmazione a Oggetti\Es x verifica\Es x verifica\obj\Debug\Es x verifica.exe
-C:\Users\pietr\Documents\Scuola\INFO\Teoria_Beliardo\Maggio\Programmazione a Oggetti\Es x verifica\Es x verifica\obj\Debug\Es x verifica.pdb
-C:\Users\pietr\Documents\Scuola\INFO\Teoria_Beliardo\Maggio\Programmazione a Oggetti\Es x verifica\Es x verifica\obj\Debug\Es x verifica.exe.config

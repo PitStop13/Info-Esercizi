@@ -1,7 +1,0 @@
-C:\Users\p.olivero.3584\Documents\Info-Esercizi\Teoria_Beliardo\Maggio\X verifica\Olivero_Pietro\Olivero_Pietro\bin\Debug\Olivero_Pietro.exe.config
-C:\Users\p.olivero.3584\Documents\Info-Esercizi\Teoria_Beliardo\Maggio\X verifica\Olivero_Pietro\Olivero_Pietro\bin\Debug\Olivero_Pietro.exe
-C:\Users\p.olivero.3584\Documents\Info-Esercizi\Teoria_Beliardo\Maggio\X verifica\Olivero_Pietro\Olivero_Pietro\bin\Debug\Olivero_Pietro.pdb
-C:\Users\p.olivero.3584\Documents\Info-Esercizi\Teoria_Beliardo\Maggio\X verifica\Olivero_Pietro\Olivero_Pietro\obj\Debug\Olivero_Pietro.csproj.AssemblyReference.cache
-C:\Users\p.olivero.3584\Documents\Info-Esercizi\Teoria_Beliardo\Maggio\X verifica\Olivero_Pietro\Olivero_Pietro\obj\Debug\Olivero_Pietro.csproj.CoreCompileInputs.cache
-C:\Users\p.olivero.3584\Documents\Info-Esercizi\Teoria_Beliardo\Maggio\X verifica\Olivero_Pietro\Olivero_Pietro\obj\Debug\Olivero_Pietro.exe
-C:\Users\p.olivero.3584\Documents\Info-Esercizi\Teoria_Beliardo\Maggio\X verifica\Olivero_Pietro\Olivero_Pietro\obj\Debug\Olivero_Pietro.pdb

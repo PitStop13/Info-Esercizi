@@ -1,8 +1,0 @@
-C:\Users\s.dzeljo.3528\Desktop\es modulo 2\es modulo 2\obj\Debug\es modulo 2.csproj.AssemblyReference.cache
-C:\Users\s.dzeljo.3528\Desktop\es modulo 2\es modulo 2\obj\Debug\es modulo 2.csproj.SuggestedBindingRedirects.cache
-C:\Users\s.dzeljo.3528\Desktop\es modulo 2\es modulo 2\obj\Debug\es modulo 2.csproj.CoreCompileInputs.cache
-C:\Users\s.dzeljo.3528\Desktop\es modulo 2\es modulo 2\bin\Debug\es modulo 2.exe.config
-C:\Users\s.dzeljo.3528\Desktop\es modulo 2\es modulo 2\bin\Debug\es modulo 2.exe
-C:\Users\s.dzeljo.3528\Desktop\es modulo 2\es modulo 2\bin\Debug\es modulo 2.pdb
-C:\Users\s.dzeljo.3528\Desktop\es modulo 2\es modulo 2\obj\Debug\es modulo 2.exe
-C:\Users\s.dzeljo.3528\Desktop\es modulo 2\es modulo 2\obj\Debug\es modulo 2.pdb
