@@ -1,7 +1,0 @@
-E:\Scuola\INFO\2025-26\Belliards\Es_1_OOP\Es_1_OOP\bin\Debug\Es_1_OOP.exe.config
-E:\Scuola\INFO\2025-26\Belliards\Es_1_OOP\Es_1_OOP\bin\Debug\Es_1_OOP.exe
-E:\Scuola\INFO\2025-26\Belliards\Es_1_OOP\Es_1_OOP\bin\Debug\Es_1_OOP.pdb
-E:\Scuola\INFO\2025-26\Belliards\Es_1_OOP\Es_1_OOP\obj\Debug\Es_1_OOP.csproj.AssemblyReference.cache
-E:\Scuola\INFO\2025-26\Belliards\Es_1_OOP\Es_1_OOP\obj\Debug\Es_1_OOP.csproj.CoreCompileInputs.cache
-E:\Scuola\INFO\2025-26\Belliards\Es_1_OOP\Es_1_OOP\obj\Debug\Es_1_OOP.exe
-E:\Scuola\INFO\2025-26\Belliards\Es_1_OOP\Es_1_OOP\obj\Debug\Es_1_OOP.pdb
