@@ -42,6 +42,22 @@ namespace Es_1_OOP
 
             Console.WriteLine("\n=== TEST OPERATORI is E as ===");
 
+            /*foreach (Arnia arnia in arnie)
+            {
+                // is: verifica il tipo
+                if (arnia is ArniaIntelligente)
+                {
+                    // as: cast sicuro
+                    ArniaIntelligente arniaInt = arnia as ArniaIntelligente;
+
+                    double consumo = 5;
+                    arniaInt.DecrementaBatteria(ref consumo);
+
+                    double nuovaBatteria;
+                    arniaInt.ResetBatteria(out nuovaBatteria);
+                }
+            }*/
+
             foreach (Arnia arnia in arnie)
             {
                 // is: verifica il tipo
@@ -55,6 +71,7 @@ namespace Es_1_OOP
 
                     double nuovaBatteria;
                     arniaInt.ResetBatteria(out nuovaBatteria);
+
                 }
             }
 

@@ -5,3 +5,11 @@ E:\Scuola\INFO\2025-26\Gennaio\Belliardo\Es_1_OOP\Es_1_OOP_Solution\Es_1_OOP\obj
 E:\Scuola\INFO\2025-26\Gennaio\Belliardo\Es_1_OOP\Es_1_OOP_Solution\Es_1_OOP\obj\Debug\Es_1_OOP.csproj.CoreCompileInputs.cache
 E:\Scuola\INFO\2025-26\Gennaio\Belliardo\Es_1_OOP\Es_1_OOP_Solution\Es_1_OOP\obj\Debug\Es_1_OOP.exe
 E:\Scuola\INFO\2025-26\Gennaio\Belliardo\Es_1_OOP\Es_1_OOP_Solution\Es_1_OOP\obj\Debug\Es_1_OOP.pdb
+F:\Scuola\INFO\2025-26\Gennaio\Belliardo\Es_1_OOP\Es_1_OOP_Solution\Es_1_OOP\bin\Debug\Es_1_OOP.exe.config
+F:\Scuola\INFO\2025-26\Gennaio\Belliardo\Es_1_OOP\Es_1_OOP_Solution\Es_1_OOP\bin\Debug\Es_1_OOP.exe
+F:\Scuola\INFO\2025-26\Gennaio\Belliardo\Es_1_OOP\Es_1_OOP_Solution\Es_1_OOP\bin\Debug\Es_1_OOP.pdb
+F:\Scuola\INFO\2025-26\Gennaio\Belliardo\Es_1_OOP\Es_1_OOP_Solution\Es_1_OOP\obj\Debug\Es_1_OOP.csproj.AssemblyReference.cache
+F:\Scuola\INFO\2025-26\Gennaio\Belliardo\Es_1_OOP\Es_1_OOP_Solution\Es_1_OOP\obj\Debug\Es_1_OOP.exe.config
+F:\Scuola\INFO\2025-26\Gennaio\Belliardo\Es_1_OOP\Es_1_OOP_Solution\Es_1_OOP\obj\Debug\Es_1_OOP.csproj.CoreCompileInputs.cache
+F:\Scuola\INFO\2025-26\Gennaio\Belliardo\Es_1_OOP\Es_1_OOP_Solution\Es_1_OOP\obj\Debug\Es_1_OOP.exe
+F:\Scuola\INFO\2025-26\Gennaio\Belliardo\Es_1_OOP\Es_1_OOP_Solution\Es_1_OOP\obj\Debug\Es_1_OOP.pdb
