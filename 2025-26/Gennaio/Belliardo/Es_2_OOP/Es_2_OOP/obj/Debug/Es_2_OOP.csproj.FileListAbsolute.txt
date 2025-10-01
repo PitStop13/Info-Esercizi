@@ -1,0 +1,7 @@
+D:\INFO\2025-26\Gennaio\Belliardo\Es_2_OOP\Es_2_OOP_Solution\Es_2_OOP\bin\Debug\Es_2_OOP.exe.config
+D:\INFO\2025-26\Gennaio\Belliardo\Es_2_OOP\Es_2_OOP_Solution\Es_2_OOP\bin\Debug\Es_2_OOP.exe
+D:\INFO\2025-26\Gennaio\Belliardo\Es_2_OOP\Es_2_OOP_Solution\Es_2_OOP\bin\Debug\Es_2_OOP.pdb
+D:\INFO\2025-26\Gennaio\Belliardo\Es_2_OOP\Es_2_OOP_Solution\Es_2_OOP\obj\Debug\Es_2_OOP.csproj.AssemblyReference.cache
+D:\INFO\2025-26\Gennaio\Belliardo\Es_2_OOP\Es_2_OOP_Solution\Es_2_OOP\obj\Debug\Es_2_OOP.csproj.CoreCompileInputs.cache
+D:\INFO\2025-26\Gennaio\Belliardo\Es_2_OOP\Es_2_OOP_Solution\Es_2_OOP\obj\Debug\Es_2_OOP.exe
+D:\INFO\2025-26\Gennaio\Belliardo\Es_2_OOP\Es_2_OOP_Solution\Es_2_OOP\obj\Debug\Es_2_OOP.pdb
