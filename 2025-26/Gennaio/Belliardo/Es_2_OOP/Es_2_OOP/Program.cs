@@ -20,7 +20,9 @@ namespace Es_2_OOP
             var veicoli = new List<Veicolo>
             {
                 new Auto("AB123CD", 2018, 5),
-                new Furgone("FG456HI", 2020, 1000, 400)
+                new Furgone("FG456HI", 2020, 1000, 400),
+                new Auto("ASDFGHJ", 2019, 2),
+                new Furgone("ZXCVBNM", 2025, 1200, 600)
             };
 
             int ore = 3;
