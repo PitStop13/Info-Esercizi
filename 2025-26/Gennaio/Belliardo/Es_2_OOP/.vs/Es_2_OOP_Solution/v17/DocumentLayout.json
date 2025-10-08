@@ -5,6 +5,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{620DDF04-C3BC-46D6-8865-ECF11CE9AEE4}|Es_2_OOP\\Es_2_OOP.csproj|d:\\info\\2025-26\\gennaio\\belliardo\\es_2_oop\\es_2_oop\\furgone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{620DDF04-C3BC-46D6-8865-ECF11CE9AEE4}|Es_2_OOP\\Es_2_OOP.csproj|solutionrelative:es_2_oop\\furgone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620DDF04-C3BC-46D6-8865-ECF11CE9AEE4}|Es_2_OOP\\Es_2_OOP.csproj|d:\\info\\2025-26\\gennaio\\belliardo\\es_2_oop\\es_2_oop\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620DDF04-C3BC-46D6-8865-ECF11CE9AEE4}|Es_2_OOP\\Es_2_OOP.csproj|solutionrelative:es_2_oop\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620DDF04-C3BC-46D6-8865-ECF11CE9AEE4}|Es_2_OOP\\Es_2_OOP.csproj|d:\\info\\2025-26\\gennaio\\belliardo\\es_2_oop\\es_2_oop\\veicolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620DDF04-C3BC-46D6-8865-ECF11CE9AEE4}|Es_2_OOP\\Es_2_OOP.csproj|solutionrelative:es_2_oop\\veicolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620DDF04-C3BC-46D6-8865-ECF11CE9AEE4}|Es_2_OOP\\Es_2_OOP.csproj|d:\\info\\2025-26\\gennaio\\belliardo\\es_2_oop\\es_2_oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620DDF04-C3BC-46D6-8865-ECF11CE9AEE4}|Es_2_OOP\\Es_2_OOP.csproj|solutionrelative:es_2_oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +26,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\INFO\\2025-26\\Gennaio\\Belliardo\\Es_2_OOP\\Es_2_OOP\\Program.cs",
+              "RelativeDocumentMoniker": "Es_2_OOP\\Program.cs",
+              "ToolTip": "D:\\INFO\\2025-26\\Gennaio\\Belliardo\\Es_2_OOP\\Es_2_OOP\\Program.cs",
+              "RelativeToolTip": "Es_2_OOP\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T17:19:19.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Veicolo.cs",
+              "DocumentMoniker": "D:\\INFO\\2025-26\\Gennaio\\Belliardo\\Es_2_OOP\\Es_2_OOP\\Veicolo.cs",
+              "RelativeDocumentMoniker": "Es_2_OOP\\Veicolo.cs",
+              "ToolTip": "D:\\INFO\\2025-26\\Gennaio\\Belliardo\\Es_2_OOP\\Es_2_OOP\\Veicolo.cs",
+              "RelativeToolTip": "Es_2_OOP\\Veicolo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T17:19:22.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "D:\\INFO\\2025-26\\Gennaio\\Belliardo\\Es_2_OOP\\Es_2_OOP\\Auto.cs",
+              "RelativeDocumentMoniker": "Es_2_OOP\\Auto.cs",
+              "ToolTip": "D:\\INFO\\2025-26\\Gennaio\\Belliardo\\Es_2_OOP\\Es_2_OOP\\Auto.cs",
+              "RelativeToolTip": "Es_2_OOP\\Auto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T17:19:07.665Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +75,7 @@
               "RelativeDocumentMoniker": "Es_2_OOP\\Furgone.cs",
               "ToolTip": "D:\\INFO\\2025-26\\Gennaio\\Belliardo\\Es_2_OOP\\Es_2_OOP\\Furgone.cs",
               "RelativeToolTip": "Es_2_OOP\\Furgone.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwA4AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-01T16:32:01.461Z",
               "EditorCaption": ""

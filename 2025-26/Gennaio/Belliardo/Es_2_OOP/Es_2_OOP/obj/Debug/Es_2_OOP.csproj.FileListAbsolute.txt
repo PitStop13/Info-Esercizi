@@ -12,3 +12,4 @@ D:\INFO\2025-26\Gennaio\Belliardo\Es_2_OOP\Es_2_OOP\obj\Debug\Es_2_OOP.csproj.As
 D:\INFO\2025-26\Gennaio\Belliardo\Es_2_OOP\Es_2_OOP\obj\Debug\Es_2_OOP.csproj.CoreCompileInputs.cache
 D:\INFO\2025-26\Gennaio\Belliardo\Es_2_OOP\Es_2_OOP\obj\Debug\Es_2_OOP.exe
 D:\INFO\2025-26\Gennaio\Belliardo\Es_2_OOP\Es_2_OOP\obj\Debug\Es_2_OOP.pdb
+D:\INFO\2025-26\Gennaio\Belliardo\Es_2_OOP\Es_2_OOP\obj\Debug\Es_2_OOP.exe.config
