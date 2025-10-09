@@ -12,7 +12,7 @@ namespace Es_2_OOP
         private int anno;
         public double Peso { get; protected set; }
 
-        public string Targa => targa;
+        public string Targa { get { return targa; } }
         public int Anno => anno;
 
         protected Veicolo(string targa, int anno)

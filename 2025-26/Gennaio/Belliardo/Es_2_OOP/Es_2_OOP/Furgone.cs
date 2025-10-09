@@ -15,8 +15,7 @@ namespace Es_2_OOP
             this.caricoMax = caricoMax;
         }
 
-        public Furgone(string targa, int anno, double caricoMax, double peso)
-            : base(targa, anno, peso)
+        public Furgone(string targa, int anno, double caricoMax, double peso): base(targa, anno, peso)
         {
             this.caricoMax = caricoMax;
         }

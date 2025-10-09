@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\INFO\\2025-26\\Gennaio\\Belliardo\\OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8CBF1F-333F-419C-A92C-9D5196BAB9FC}|OOP\\OOP.csproj|e:\\info\\2025-26\\gennaio\\belliardo\\oop\\oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8CBF1F-333F-419C-A92C-9D5196BAB9FC}|OOP\\OOP.csproj|solutionrelative:oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8CBF1F-333F-419C-A92C-9D5196BAB9FC}|OOP\\OOP.csproj|e:\\info\\2025-26\\gennaio\\belliardo\\oop\\oop\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8CBF1F-333F-419C-A92C-9D5196BAB9FC}|OOP\\OOP.csproj|solutionrelative:oop\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8CBF1F-333F-419C-A92C-9D5196BAB9FC}|OOP\\OOP.csproj|e:\\info\\2025-26\\gennaio\\belliardo\\oop\\oop\\insegnante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8CBF1F-333F-419C-A92C-9D5196BAB9FC}|OOP\\OOP.csproj|solutionrelative:oop\\insegnante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8CBF1F-333F-419C-A92C-9D5196BAB9FC}|OOP\\OOP.csproj|e:\\info\\2025-26\\gennaio\\belliardo\\oop\\oop\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8CBF1F-333F-419C-A92C-9D5196BAB9FC}|OOP\\OOP.csproj|solutionrelative:oop\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Insegnante.cs",
+              "DocumentMoniker": "E:\\INFO\\2025-26\\Gennaio\\Belliardo\\OOP\\OOP\\Insegnante.cs",
+              "RelativeDocumentMoniker": "OOP\\Insegnante.cs",
+              "ToolTip": "E:\\INFO\\2025-26\\Gennaio\\Belliardo\\OOP\\OOP\\Insegnante.cs*",
+              "RelativeToolTip": "OOP\\Insegnante.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T14:32:44.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "E:\\INFO\\2025-26\\Gennaio\\Belliardo\\OOP\\OOP\\Persona.cs",
+              "RelativeDocumentMoniker": "OOP\\Persona.cs",
+              "ToolTip": "E:\\INFO\\2025-26\\Gennaio\\Belliardo\\OOP\\OOP\\Persona.cs",
+              "RelativeToolTip": "OOP\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T14:32:34.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Studente.cs",
+              "DocumentMoniker": "E:\\INFO\\2025-26\\Gennaio\\Belliardo\\OOP\\OOP\\Studente.cs",
+              "RelativeDocumentMoniker": "OOP\\Studente.cs",
+              "ToolTip": "E:\\INFO\\2025-26\\Gennaio\\Belliardo\\OOP\\OOP\\Studente.cs",
+              "RelativeToolTip": "OOP\\Studente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T14:32:25.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\INFO\\2025-26\\Gennaio\\Belliardo\\OOP\\OOP\\Program.cs",
+              "RelativeDocumentMoniker": "OOP\\Program.cs",
+              "ToolTip": "E:\\INFO\\2025-26\\Gennaio\\Belliardo\\OOP\\OOP\\Program.cs*",
+              "RelativeToolTip": "OOP\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T13:33:10.868Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
