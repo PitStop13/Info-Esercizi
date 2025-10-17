@@ -1,41 +1,47 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Olivero_Pietro
 {
-    internal class Elettronico:Oggetto
+    internal class Elettronico : Oggetto
     {
-        protected string marca;
-        protected int capacità;
+        private string marca;
+        private int capacità;
 
+        public int GaranziaAnni { get; private set; }
         public string Marca => marca;
         public int Capacità => capacità;
 
-        public Elettronico(string nome, string marca, double prezzo,int quantità) : base(nome, prezzo,quantità)
-        {
-            this.marca = marca;
-            this.capacità = 0;
-        }
-        public Elettronico(string nome, string marca,int capacità , double prezzo, int quantità) : base(nome, prezzo, quantità)
+        // Costruttore con garanzia
+        public Elettronico(string nome, string marca, int capacità, double prezzo, int quantità, int garanziaAnni)
+            : base(nome, prezzo, quantità)
         {
             this.marca = marca;
             this.capacità = capacità;
+            this.GaranziaAnni = garanziaAnni;
         }
-        public void calcolaPrezzo()
-        {
-            //iva 22%
-            double prezzoIniz = Prezzo;
-            double prezzoIvato = (prezzoIniz + (prezzoIniz / 100) * 22);
-            Console.WriteLine($"Prezzo ivato:{prezzoIvato} \n Prezzo totale per n prodotti: {prezzoIvato*quantità}");
 
+        // Overload costruttore (senza garanzia)
+        public Elettronico(string nome, string marca, int capacità, double prezzo, int quantità)
+            : base(nome, prezzo, quantità)
+        {
+            this.marca = marca;
+            this.capacità = capacità;
+            this.GaranziaAnni = 0;
+        }
+
+        public override double CalcolaPrezzoUnitario()
+        {
+            double costoGaranzia = GaranziaAnni > 0 ? Prezzo * 0.10 : 0;
+            double prezzoConGaranzia = Prezzo + costoGaranzia;
+
+            // IVA 22%
+            return Math.Round(prezzoConGaranzia * 1.22, 2);
         }
 
         public override string ToString()
         {
-            return "Elettronico:" + base.ToString() + $", Marca: {marca} , capacità di memoria: {capacità}";
+            string garanzia = GaranziaAnni > 0 ? " (garanzia estesa)" : "";
+            return $"Elettronico: {base.ToString()}, Marca: {marca}, Capacità: {capacità} GB{garanzia}";
         }
     }
 }

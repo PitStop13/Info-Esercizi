@@ -1,25 +1,17 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Olivero_Pietro
 {
     internal class Oggetto
     {
-
         protected string nome;
-
         private double prezzo;
-        public int quantità {  get; set; }
+        private int quantità;
 
-
-        
-
-        public string Tipo => nome;
+        public string Nome => nome;
         public double Prezzo => prezzo;
-         
+        public int Quantità => quantità;
+
         public Oggetto(string nome, double prezzo, int quantità)
         {
             this.nome = nome;
@@ -27,10 +19,27 @@ namespace Olivero_Pietro
             this.quantità = quantità;
         }
 
-        public override string ToString()
+        // Metodo per modificare la quantità (usato con 'as')
+        public void AggiungiStock(int quantitaDaAggiungere)
         {
-            return $"  {nome}, prezzo: {prezzo}";
+            quantità += quantitaDaAggiungere;
         }
 
+        public virtual double CalcolaPrezzoUnitario()
+        {
+            return Math.Round(Prezzo * 1.22, 2);
+        }
+
+        // Overload: calcola prezzo con sconto personalizzato
+        public virtual double CalcolaPrezzoUnitario(double percentualeSconto)
+        {
+            double prezzoScontato = Prezzo * (1 - percentualeSconto / 100);
+            return Math.Round(prezzoScontato * 1.22, 2);
+        }
+
+        public override string ToString()
+        {
+            return $"{Nome}, prezzo base: {Prezzo.ToString("C2")}, quantità: {Quantità}";
+        }
     }
 }
