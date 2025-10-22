@@ -7,8 +7,8 @@ namespace Olivero_Pietro
     {
         static void ModificaPerValore(Oggetto obj)
         {
-            obj.AggiungiStock(10);
-            Console.WriteLine($"Dentro ModificaPerValore: quantità = {obj.Quantità}");
+            obj = new Abbigliamento("Nuovo Oggetto Valore", "NuovaMarcaValore", 99.99, 5);
+            Console.WriteLine($"Dentro ModificaPerValore: {obj.Quantità}");
         }
 
         static void ModificaPerRiferimento(ref Oggetto obj)
@@ -21,19 +21,18 @@ namespace Olivero_Pietro
             totale = Math.Round(obj.CalcolaPrezzoUnitario() * obj.Quantità, 2);
         }
 
-        static void ApplicaStockAdjustmentUsingAs(Oggetto obj, int quantitaDaAggiungere)
+        static void VerificaAs(Oggetto obj)
         {
-            Abbigliamento abb = obj as Abbigliamento;
-            if (abb != null)
+            if (obj as Abbigliamento != null)
             {
-                Console.WriteLine($"Prima ({abb.Nome}) quantità = {abb.Quantità}");
-                abb.AggiungiStock(quantitaDaAggiungere);
-                Console.WriteLine($"Dopo ApplyStockAdjustmentUsingAs(...) quantità = {abb.Quantità}");
+                Abbigliamento abbigliamento = obj as Abbigliamento;
+                Console.WriteLine($"E' un Abbigliamento di marca: {abbigliamento.Marca}");
             }
             else
             {
                 Console.WriteLine("L'oggetto non è un Abbigliamento, cast fallito.");
             }
+
         }
 
         static void Main(string[] args)
@@ -53,7 +52,7 @@ namespace Olivero_Pietro
             foreach (var o in O)
             {
                 Console.WriteLine($"Prodotto: {o.Nome} ({o.GetType().Name})");
-                Console.WriteLine($"Prezzo base: {o.Prezzo.ToString("F2")} Quantità: {o.Quantità}");
+                Console.WriteLine(o.ToString());
 
                 double prezzoUnit = o.CalcolaPrezzoUnitario();
                 double totaleRiga = Math.Round(prezzoUnit * o.Quantità, 2);
@@ -67,29 +66,29 @@ namespace Olivero_Pietro
             Console.WriteLine($"TOTALE COMPLESSIVO: {totaleComplessivo.ToString("F2")}");
             Console.WriteLine("-------------------------------------------------------");
 
-            Console.WriteLine("DIMOSTRAZIONE 'AS' E MODIFICA STATO");
-            ApplicaStockAdjustmentUsingAs(O[3], 2);
-            
+            Console.WriteLine("DIMOSTRAZIONE 'AS'");
+            VerificaAs(O[3]);
+
             Console.WriteLine("-------------------------------------------------------");
             Console.WriteLine("PASSAGGIO PER VALORE");
             Oggetto testVal = new Abbigliamento("Test Valore", "TestMarca", 20, 10);
             Console.WriteLine($"Prima di ModificaPerValore: quantità = {testVal.Quantità}");
             ModificaPerValore(testVal);
             Console.WriteLine($"Dopo ModificaPerValore: quantità = {testVal.Quantità}");
-            
+
             Console.WriteLine("-------------------------------------------------------");
             Console.WriteLine("PASSAGGIO PER RIFERIMENTO");
             Oggetto testRef = new Abbigliamento("Test Ref", "TestMarca", 30, 5);
             Console.WriteLine($"Prima di ModificaPerRiferimento: {testRef.Nome}");
             ModificaPerRiferimento(ref testRef);
             Console.WriteLine($"Dopo ModificaPerRiferimento: {testRef.Nome}");
-            
+
             Console.WriteLine("-------------------------------------------------------");
             Console.WriteLine("USO DI OUT");
             double totaleCalcolato;
             CalcolaTotaleRiga(out totaleCalcolato, O[0]);
             Console.WriteLine($"Totale riga calcolato con 'out' per {O[0].Nome}: {totaleCalcolato.ToString("F2")}");
-           
+
             Console.WriteLine("-------------------------------------------------------");
             Console.WriteLine("DIMOSTRAZIONE OVERLOAD");
             Oggetto testOverload = new Libro("Test Overload", 50, "Autore Test", 2);

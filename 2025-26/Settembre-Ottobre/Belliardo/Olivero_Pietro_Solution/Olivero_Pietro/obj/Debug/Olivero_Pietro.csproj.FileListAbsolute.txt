@@ -12,3 +12,11 @@ D:\INFO\2025-26\Settembre-Ottobre\Belliardo\Olivero_Pietro_Solution\Olivero_Piet
 D:\INFO\2025-26\Settembre-Ottobre\Belliardo\Olivero_Pietro_Solution\Olivero_Pietro\bin\Debug\Olivero_Pietro.exe.config
 D:\INFO\2025-26\Settembre-Ottobre\Belliardo\Olivero_Pietro_Solution\Olivero_Pietro\bin\Debug\Olivero_Pietro.exe
 D:\INFO\2025-26\Settembre-Ottobre\Belliardo\Olivero_Pietro_Solution\Olivero_Pietro\bin\Debug\Olivero_Pietro.pdb
+F:\INFO\2025-26\Settembre-Ottobre\Belliardo\Olivero_Pietro_Solution\Olivero_Pietro\bin\Debug\Olivero_Pietro.exe.config
+F:\INFO\2025-26\Settembre-Ottobre\Belliardo\Olivero_Pietro_Solution\Olivero_Pietro\bin\Debug\Olivero_Pietro.exe
+F:\INFO\2025-26\Settembre-Ottobre\Belliardo\Olivero_Pietro_Solution\Olivero_Pietro\bin\Debug\Olivero_Pietro.pdb
+F:\INFO\2025-26\Settembre-Ottobre\Belliardo\Olivero_Pietro_Solution\Olivero_Pietro\obj\Debug\Olivero_Pietro.csproj.AssemblyReference.cache
+F:\INFO\2025-26\Settembre-Ottobre\Belliardo\Olivero_Pietro_Solution\Olivero_Pietro\obj\Debug\Olivero_Pietro.exe.config
+F:\INFO\2025-26\Settembre-Ottobre\Belliardo\Olivero_Pietro_Solution\Olivero_Pietro\obj\Debug\Olivero_Pietro.csproj.CoreCompileInputs.cache
+F:\INFO\2025-26\Settembre-Ottobre\Belliardo\Olivero_Pietro_Solution\Olivero_Pietro\obj\Debug\Olivero_Pietro.exe
+F:\INFO\2025-26\Settembre-Ottobre\Belliardo\Olivero_Pietro_Solution\Olivero_Pietro\obj\Debug\Olivero_Pietro.pdb

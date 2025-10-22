@@ -19,12 +19,6 @@ namespace Olivero_Pietro
             this.quantità = quantità;
         }
 
-        // Metodo per modificare la quantità (usato con 'as')
-        public void AggiungiStock(int quantitaDaAggiungere)
-        {
-            quantità += quantitaDaAggiungere;
-        }
-
         public virtual double CalcolaPrezzoUnitario()
         {
             return Math.Round(Prezzo * 1.22, 2);

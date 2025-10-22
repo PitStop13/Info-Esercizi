@@ -8,15 +8,13 @@ namespace Olivero_Pietro
         public string Marca => marca;
 
         // Costruttore base
-        public Abbigliamento(string nome, string marca, double prezzo, int quantità)
-            : base(nome, prezzo, quantità)
+        public Abbigliamento(string nome, string marca, double prezzo, int quantità): base(nome, prezzo, quantità)
         {
             this.marca = marca;
         }
 
         // Overload costruttore (senza marca)
-        public Abbigliamento(string nome, double prezzo, int quantità)
-            : base(nome, prezzo, quantità)
+        public Abbigliamento(string nome, double prezzo, int quantità): base(nome, prezzo, quantità)
         {
             this.marca = "Senza Marca";
         }
