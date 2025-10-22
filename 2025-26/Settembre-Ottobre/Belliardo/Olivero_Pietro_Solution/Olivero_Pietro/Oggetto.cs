@@ -39,7 +39,7 @@ namespace Olivero_Pietro
 
         public override string ToString()
         {
-            return $"{Nome}, prezzo base: {Prezzo.ToString("C2")}, quantità: {Quantità}";
+            return $"{Nome}, prezzo base: {Prezzo.ToString("F2")}, quantità: {Quantità}";
         }
     }
 }

@@ -58,7 +58,7 @@ namespace Olivero_Pietro
                 double prezzoUnit = o.CalcolaPrezzoUnitario();
                 double totaleRiga = Math.Round(prezzoUnit * o.Quantità, 2);
 
-                Console.WriteLine($"Prezzo unitario (con IVA/sconti): {prezzoUnit.ToString("F2")} Totale riga: {totaleRiga.ToString("C2")}");
+                Console.WriteLine($"Prezzo unitario (con IVA/sconti): {prezzoUnit.ToString("F2")} Totale riga: {totaleRiga.ToString("F2")}");
                 Console.WriteLine();
 
                 totaleComplessivo += totaleRiga;

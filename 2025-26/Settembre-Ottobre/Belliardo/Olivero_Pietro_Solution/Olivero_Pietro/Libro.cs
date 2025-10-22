@@ -19,8 +19,7 @@ namespace Olivero_Pietro
         }
 
         // Overload costruttore (senza anno)
-        public Libro(string nome, double prezzo, string autore, int quantità)
-            : base(nome, prezzo, quantità)
+        public Libro(string nome, double prezzo, string autore, int quantità): base(nome, prezzo, quantità)
         {
             this.anno = 0;
             this.autore = autore;
