@@ -34,7 +34,12 @@ namespace GestioneVeicoli
         public virtual double CalcolaCosto()
         {
             double costoTotale = Giorni * 100;
-            return costoTotale;
+            return Math.Round(costoTotale,2);
+        }
+        public virtual double CalcolaCosto(double sconto)
+        {
+            double costoTotale = Giorni * 100;
+            return Math.Round(costoTotale * (1 - sconto / 100), 2);
         }
 
         public override string ToString()

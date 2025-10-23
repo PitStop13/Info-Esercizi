@@ -33,6 +33,7 @@ namespace GestioneVeicoli
 
             }
 
+            Console.WriteLine($"Totale complessivo: {totaleComplessivo.ToString("F2")}");
             //as
             AumentaGioriMoto(veicoli[2],3);
             //valore

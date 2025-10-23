@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "F:\\INFO\\2025-26\\Settembre-Ottobre\\Belliardo\\GestioneVeicoli\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5D4D3AEB-7CD7-46D0-89E0-3EC4DE90EA00}|GestioneVeicoli\\GestioneVeicoli.csproj|f:\\info\\2025-26\\settembre-ottobre\\belliardo\\gestioneveicoli\\gestioneveicoli\\veicolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5D4D3AEB-7CD7-46D0-89E0-3EC4DE90EA00}|GestioneVeicoli\\GestioneVeicoli.csproj|F:\\INFO\\2025-26\\Settembre-Ottobre\\Belliardo\\GestioneVeicoli\\gestioneveicoli\\veicolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D4D3AEB-7CD7-46D0-89E0-3EC4DE90EA00}|GestioneVeicoli\\GestioneVeicoli.csproj|solutionrelative:gestioneveicoli\\veicolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D4D3AEB-7CD7-46D0-89E0-3EC4DE90EA00}|GestioneVeicoli\\GestioneVeicoli.csproj|f:\\info\\2025-26\\settembre-ottobre\\belliardo\\gestioneveicoli\\gestioneveicoli\\furgone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D4D3AEB-7CD7-46D0-89E0-3EC4DE90EA00}|GestioneVeicoli\\GestioneVeicoli.csproj|solutionrelative:gestioneveicoli\\furgone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D4D3AEB-7CD7-46D0-89E0-3EC4DE90EA00}|GestioneVeicoli\\GestioneVeicoli.csproj|f:\\info\\2025-26\\settembre-ottobre\\belliardo\\gestioneveicoli\\gestioneveicoli\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D4D3AEB-7CD7-46D0-89E0-3EC4DE90EA00}|GestioneVeicoli\\GestioneVeicoli.csproj|solutionrelative:gestioneveicoli\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D4D3AEB-7CD7-46D0-89E0-3EC4DE90EA00}|GestioneVeicoli\\GestioneVeicoli.csproj|f:\\info\\2025-26\\settembre-ottobre\\belliardo\\gestioneveicoli\\gestioneveicoli\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D4D3AEB-7CD7-46D0-89E0-3EC4DE90EA00}|GestioneVeicoli\\GestioneVeicoli.csproj|solutionrelative:gestioneveicoli\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5D4D3AEB-7CD7-46D0-89E0-3EC4DE90EA00}|GestioneVeicoli\\GestioneVeicoli.csproj|f:\\info\\2025-26\\settembre-ottobre\\belliardo\\gestioneveicoli\\gestioneveicoli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D4D3AEB-7CD7-46D0-89E0-3EC4DE90EA00}|GestioneVeicoli\\GestioneVeicoli.csproj|solutionrelative:gestioneveicoli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4D3AEB-7CD7-46D0-89E0-3EC4DE90EA00}|GestioneVeicoli\\GestioneVeicoli.csproj|F:\\INFO\\2025-26\\Settembre-Ottobre\\Belliardo\\GestioneVeicoli\\gestioneveicoli\\furgone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4D3AEB-7CD7-46D0-89E0-3EC4DE90EA00}|GestioneVeicoli\\GestioneVeicoli.csproj|solutionrelative:gestioneveicoli\\furgone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4D3AEB-7CD7-46D0-89E0-3EC4DE90EA00}|GestioneVeicoli\\GestioneVeicoli.csproj|F:\\INFO\\2025-26\\Settembre-Ottobre\\Belliardo\\GestioneVeicoli\\gestioneveicoli\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4D3AEB-7CD7-46D0-89E0-3EC4DE90EA00}|GestioneVeicoli\\GestioneVeicoli.csproj|solutionrelative:gestioneveicoli\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4D3AEB-7CD7-46D0-89E0-3EC4DE90EA00}|GestioneVeicoli\\GestioneVeicoli.csproj|F:\\INFO\\2025-26\\Settembre-Ottobre\\Belliardo\\GestioneVeicoli\\gestioneveicoli\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4D3AEB-7CD7-46D0-89E0-3EC4DE90EA00}|GestioneVeicoli\\GestioneVeicoli.csproj|solutionrelative:gestioneveicoli\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,14 +40,14 @@
               "RelativeDocumentMoniker": "GestioneVeicoli\\Veicolo.cs",
               "ToolTip": "F:\\INFO\\2025-26\\Settembre-Ottobre\\Belliardo\\GestioneVeicoli\\GestioneVeicoli\\Veicolo.cs",
               "RelativeToolTip": "GestioneVeicoli\\Veicolo.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAawB4AAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAnwCQAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-23T16:07:58.876Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Furgone.cs",
               "DocumentMoniker": "F:\\INFO\\2025-26\\Settembre-Ottobre\\Belliardo\\GestioneVeicoli\\GestioneVeicoli\\Furgone.cs",
               "RelativeDocumentMoniker": "GestioneVeicoli\\Furgone.cs",
@@ -55,12 +55,11 @@
               "RelativeToolTip": "GestioneVeicoli\\Furgone.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T16:07:47.812Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-23T16:07:47.812Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Auto.cs",
               "DocumentMoniker": "F:\\INFO\\2025-26\\Settembre-Ottobre\\Belliardo\\GestioneVeicoli\\GestioneVeicoli\\Auto.cs",
               "RelativeDocumentMoniker": "GestioneVeicoli\\Auto.cs",
@@ -68,12 +67,11 @@
               "RelativeToolTip": "GestioneVeicoli\\Auto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T16:07:41.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-23T16:07:41.91Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Moto.cs",
               "DocumentMoniker": "F:\\INFO\\2025-26\\Settembre-Ottobre\\Belliardo\\GestioneVeicoli\\GestioneVeicoli\\Moto.cs",
               "RelativeDocumentMoniker": "GestioneVeicoli\\Moto.cs",
@@ -81,18 +79,17 @@
               "RelativeToolTip": "GestioneVeicoli\\Moto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T16:07:30.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-23T16:07:30.587Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\INFO\\2025-26\\Settembre-Ottobre\\Belliardo\\GestioneVeicoli\\GestioneVeicoli\\Program.cs",
               "RelativeDocumentMoniker": "GestioneVeicoli\\Program.cs",
               "ToolTip": "F:\\INFO\\2025-26\\Settembre-Ottobre\\Belliardo\\GestioneVeicoli\\GestioneVeicoli\\Program.cs",
               "RelativeToolTip": "GestioneVeicoli\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwDkAAABLAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAEAAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-23T16:06:37.856Z",
               "EditorCaption": ""
