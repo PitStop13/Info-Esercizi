@@ -1,0 +1,8 @@
+F:\INFO\2025-26\Settembre-Ottobre\Belliardo\PreparazioneVerifica_Mia\PreparazioneVerifica_Mia\bin\Debug\PreparazioneVerifica_Mia.exe.config
+F:\INFO\2025-26\Settembre-Ottobre\Belliardo\PreparazioneVerifica_Mia\PreparazioneVerifica_Mia\bin\Debug\PreparazioneVerifica_Mia.exe
+F:\INFO\2025-26\Settembre-Ottobre\Belliardo\PreparazioneVerifica_Mia\PreparazioneVerifica_Mia\bin\Debug\PreparazioneVerifica_Mia.pdb
+F:\INFO\2025-26\Settembre-Ottobre\Belliardo\PreparazioneVerifica_Mia\PreparazioneVerifica_Mia\obj\Debug\PreparazioneVerifica_Mia.csproj.AssemblyReference.cache
+F:\INFO\2025-26\Settembre-Ottobre\Belliardo\PreparazioneVerifica_Mia\PreparazioneVerifica_Mia\obj\Debug\PreparazioneVerifica_Mia.csproj.CoreCompileInputs.cache
+F:\INFO\2025-26\Settembre-Ottobre\Belliardo\PreparazioneVerifica_Mia\PreparazioneVerifica_Mia\obj\Debug\PreparazioneVerifica_Mia.exe
+F:\INFO\2025-26\Settembre-Ottobre\Belliardo\PreparazioneVerifica_Mia\PreparazioneVerifica_Mia\obj\Debug\PreparazioneVerifica_Mia.pdb
+F:\INFO\2025-26\Settembre-Ottobre\Belliardo\PreparazioneVerifica_Mia\PreparazioneVerifica_Mia\obj\Debug\PreparazioneVerifica_Mia.exe.config

@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\INFO\\2025-26\\Settembre-Ottobre\\Belliardo\\PreparazioneVerifica_Mia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6364FD1-D6E2-4131-9F3F-A8D621EAE6E3}|PreparazioneVerifica_Mia\\PreparazioneVerifica_Mia.csproj|f:\\info\\2025-26\\settembre-ottobre\\belliardo\\preparazioneverifica_mia\\preparazioneverifica_mia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6364FD1-D6E2-4131-9F3F-A8D621EAE6E3}|PreparazioneVerifica_Mia\\PreparazioneVerifica_Mia.csproj|solutionrelative:preparazioneverifica_mia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6364FD1-D6E2-4131-9F3F-A8D621EAE6E3}|PreparazioneVerifica_Mia\\PreparazioneVerifica_Mia.csproj|F:\\INFO\\2025-26\\Settembre-Ottobre\\Belliardo\\PreparazioneVerifica_Mia\\preparazioneverifica_mia\\oggetto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6364FD1-D6E2-4131-9F3F-A8D621EAE6E3}|PreparazioneVerifica_Mia\\PreparazioneVerifica_Mia.csproj|solutionrelative:preparazioneverifica_mia\\oggetto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6364FD1-D6E2-4131-9F3F-A8D621EAE6E3}|PreparazioneVerifica_Mia\\PreparazioneVerifica_Mia.csproj|F:\\INFO\\2025-26\\Settembre-Ottobre\\Belliardo\\PreparazioneVerifica_Mia\\preparazioneverifica_mia\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6364FD1-D6E2-4131-9F3F-A8D621EAE6E3}|PreparazioneVerifica_Mia\\PreparazioneVerifica_Mia.csproj|solutionrelative:preparazioneverifica_mia\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6364FD1-D6E2-4131-9F3F-A8D621EAE6E3}|PreparazioneVerifica_Mia\\PreparazioneVerifica_Mia.csproj|F:\\INFO\\2025-26\\Settembre-Ottobre\\Belliardo\\PreparazioneVerifica_Mia\\preparazioneverifica_mia\\abbigliamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6364FD1-D6E2-4131-9F3F-A8D621EAE6E3}|PreparazioneVerifica_Mia\\PreparazioneVerifica_Mia.csproj|solutionrelative:preparazioneverifica_mia\\abbigliamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6364FD1-D6E2-4131-9F3F-A8D621EAE6E3}|PreparazioneVerifica_Mia\\PreparazioneVerifica_Mia.csproj|F:\\INFO\\2025-26\\Settembre-Ottobre\\Belliardo\\PreparazioneVerifica_Mia\\preparazioneverifica_mia\\elettronico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6364FD1-D6E2-4131-9F3F-A8D621EAE6E3}|PreparazioneVerifica_Mia\\PreparazioneVerifica_Mia.csproj|solutionrelative:preparazioneverifica_mia\\elettronico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Elettronico.cs",
+              "DocumentMoniker": "F:\\INFO\\2025-26\\Settembre-Ottobre\\Belliardo\\PreparazioneVerifica_Mia\\PreparazioneVerifica_Mia\\Elettronico.cs",
+              "RelativeDocumentMoniker": "PreparazioneVerifica_Mia\\Elettronico.cs",
+              "ToolTip": "F:\\INFO\\2025-26\\Settembre-Ottobre\\Belliardo\\PreparazioneVerifica_Mia\\PreparazioneVerifica_Mia\\Elettronico.cs",
+              "RelativeToolTip": "PreparazioneVerifica_Mia\\Elettronico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T14:23:00.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Abbigliamento.cs",
+              "DocumentMoniker": "F:\\INFO\\2025-26\\Settembre-Ottobre\\Belliardo\\PreparazioneVerifica_Mia\\PreparazioneVerifica_Mia\\Abbigliamento.cs",
+              "RelativeDocumentMoniker": "PreparazioneVerifica_Mia\\Abbigliamento.cs",
+              "ToolTip": "F:\\INFO\\2025-26\\Settembre-Ottobre\\Belliardo\\PreparazioneVerifica_Mia\\PreparazioneVerifica_Mia\\Abbigliamento.cs",
+              "RelativeToolTip": "PreparazioneVerifica_Mia\\Abbigliamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T14:22:44.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "F:\\INFO\\2025-26\\Settembre-Ottobre\\Belliardo\\PreparazioneVerifica_Mia\\PreparazioneVerifica_Mia\\Libro.cs",
+              "RelativeDocumentMoniker": "PreparazioneVerifica_Mia\\Libro.cs",
+              "ToolTip": "F:\\INFO\\2025-26\\Settembre-Ottobre\\Belliardo\\PreparazioneVerifica_Mia\\PreparazioneVerifica_Mia\\Libro.cs",
+              "RelativeToolTip": "PreparazioneVerifica_Mia\\Libro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T14:22:35.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Oggetto.cs",
+              "DocumentMoniker": "F:\\INFO\\2025-26\\Settembre-Ottobre\\Belliardo\\PreparazioneVerifica_Mia\\PreparazioneVerifica_Mia\\Oggetto.cs",
+              "RelativeDocumentMoniker": "PreparazioneVerifica_Mia\\Oggetto.cs",
+              "ToolTip": "F:\\INFO\\2025-26\\Settembre-Ottobre\\Belliardo\\PreparazioneVerifica_Mia\\PreparazioneVerifica_Mia\\Oggetto.cs",
+              "RelativeToolTip": "PreparazioneVerifica_Mia\\Oggetto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T14:22:26.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\INFO\\2025-26\\Settembre-Ottobre\\Belliardo\\PreparazioneVerifica_Mia\\PreparazioneVerifica_Mia\\Program.cs",
+              "RelativeDocumentMoniker": "PreparazioneVerifica_Mia\\Program.cs",
+              "ToolTip": "F:\\INFO\\2025-26\\Settembre-Ottobre\\Belliardo\\PreparazioneVerifica_Mia\\PreparazioneVerifica_Mia\\Program.cs",
+              "RelativeToolTip": "PreparazioneVerifica_Mia\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwEcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T14:21:04.365Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

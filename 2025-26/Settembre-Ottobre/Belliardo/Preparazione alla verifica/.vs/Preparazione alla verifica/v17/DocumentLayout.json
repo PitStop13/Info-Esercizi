@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\INFO\\2025-26\\Gennaio\\Belliardo\\Preparazione alla verifica\\",
+  "WorkspaceRootPath": "F:\\INFO\\2025-26\\Settembre-Ottobre\\Belliardo\\Preparazione alla verifica\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B5022E26-BFF2-4970-880D-861271427B43}|Preparazione alla verifica\\Preparazione alla verifica.csproj|e:\\info\\2025-26\\gennaio\\belliardo\\preparazione alla verifica\\preparazione alla verifica\\veicolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B5022E26-BFF2-4970-880D-861271427B43}|Preparazione alla verifica\\Preparazione alla verifica.csproj|f:\\info\\2025-26\\settembre-ottobre\\belliardo\\preparazione alla verifica\\preparazione alla verifica\\veicolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5022E26-BFF2-4970-880D-861271427B43}|Preparazione alla verifica\\Preparazione alla verifica.csproj|solutionrelative:preparazione alla verifica\\veicolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5022E26-BFF2-4970-880D-861271427B43}|Preparazione alla verifica\\Preparazione alla verifica.csproj|e:\\info\\2025-26\\gennaio\\belliardo\\preparazione alla verifica\\preparazione alla verifica\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5022E26-BFF2-4970-880D-861271427B43}|Preparazione alla verifica\\Preparazione alla verifica.csproj|solutionrelative:preparazione alla verifica\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B5022E26-BFF2-4970-880D-861271427B43}|Preparazione alla verifica\\Preparazione alla verifica.csproj|F:\\INFO\\2025-26\\Settembre-Ottobre\\Belliardo\\Preparazione alla verifica\\preparazione alla verifica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5022E26-BFF2-4970-880D-861271427B43}|Preparazione alla verifica\\Preparazione alla verifica.csproj|solutionrelative:preparazione alla verifica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5022E26-BFF2-4970-880D-861271427B43}|Preparazione alla verifica\\Preparazione alla verifica.csproj|e:\\info\\2025-26\\gennaio\\belliardo\\preparazione alla verifica\\preparazione alla verifica\\furgone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B5022E26-BFF2-4970-880D-861271427B43}|Preparazione alla verifica\\Preparazione alla verifica.csproj|F:\\INFO\\2025-26\\Settembre-Ottobre\\Belliardo\\Preparazione alla verifica\\preparazione alla verifica\\furgone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5022E26-BFF2-4970-880D-861271427B43}|Preparazione alla verifica\\Preparazione alla verifica.csproj|solutionrelative:preparazione alla verifica\\furgone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5022E26-BFF2-4970-880D-861271427B43}|Preparazione alla verifica\\Preparazione alla verifica.csproj|e:\\info\\2025-26\\gennaio\\belliardo\\preparazione alla verifica\\preparazione alla verifica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5022E26-BFF2-4970-880D-861271427B43}|Preparazione alla verifica\\Preparazione alla verifica.csproj|solutionrelative:preparazione alla verifica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B5022E26-BFF2-4970-880D-861271427B43}|Preparazione alla verifica\\Preparazione alla verifica.csproj|F:\\INFO\\2025-26\\Settembre-Ottobre\\Belliardo\\Preparazione alla verifica\\preparazione alla verifica\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5022E26-BFF2-4970-880D-861271427B43}|Preparazione alla verifica\\Preparazione alla verifica.csproj|solutionrelative:preparazione alla verifica\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,9 +32,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Furgone.cs",
-              "DocumentMoniker": "E:\\INFO\\2025-26\\Gennaio\\Belliardo\\Preparazione alla verifica\\Preparazione alla verifica\\Furgone.cs",
+              "DocumentMoniker": "F:\\INFO\\2025-26\\Settembre-Ottobre\\Belliardo\\Preparazione alla verifica\\Preparazione alla verifica\\Furgone.cs",
               "RelativeDocumentMoniker": "Preparazione alla verifica\\Furgone.cs",
-              "ToolTip": "E:\\INFO\\2025-26\\Gennaio\\Belliardo\\Preparazione alla verifica\\Preparazione alla verifica\\Furgone.cs",
+              "ToolTip": "F:\\INFO\\2025-26\\Settembre-Ottobre\\Belliardo\\Preparazione alla verifica\\Preparazione alla verifica\\Furgone.cs",
               "RelativeToolTip": "Preparazione alla verifica\\Furgone.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -43,11 +43,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Auto.cs",
-              "DocumentMoniker": "E:\\INFO\\2025-26\\Gennaio\\Belliardo\\Preparazione alla verifica\\Preparazione alla verifica\\Auto.cs",
+              "DocumentMoniker": "F:\\INFO\\2025-26\\Settembre-Ottobre\\Belliardo\\Preparazione alla verifica\\Preparazione alla verifica\\Auto.cs",
               "RelativeDocumentMoniker": "Preparazione alla verifica\\Auto.cs",
-              "ToolTip": "E:\\INFO\\2025-26\\Gennaio\\Belliardo\\Preparazione alla verifica\\Preparazione alla verifica\\Auto.cs",
+              "ToolTip": "F:\\INFO\\2025-26\\Settembre-Ottobre\\Belliardo\\Preparazione alla verifica\\Preparazione alla verifica\\Auto.cs",
               "RelativeToolTip": "Preparazione alla verifica\\Auto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -58,9 +58,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Veicolo.cs",
-              "DocumentMoniker": "E:\\INFO\\2025-26\\Gennaio\\Belliardo\\Preparazione alla verifica\\Preparazione alla verifica\\Veicolo.cs",
+              "DocumentMoniker": "F:\\INFO\\2025-26\\Settembre-Ottobre\\Belliardo\\Preparazione alla verifica\\Preparazione alla verifica\\Veicolo.cs",
               "RelativeDocumentMoniker": "Preparazione alla verifica\\Veicolo.cs",
-              "ToolTip": "E:\\INFO\\2025-26\\Gennaio\\Belliardo\\Preparazione alla verifica\\Preparazione alla verifica\\Veicolo.cs",
+              "ToolTip": "F:\\INFO\\2025-26\\Settembre-Ottobre\\Belliardo\\Preparazione alla verifica\\Preparazione alla verifica\\Veicolo.cs",
               "RelativeToolTip": "Preparazione alla verifica\\Veicolo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -69,11 +69,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\INFO\\2025-26\\Gennaio\\Belliardo\\Preparazione alla verifica\\Preparazione alla verifica\\Program.cs",
+              "DocumentMoniker": "F:\\INFO\\2025-26\\Settembre-Ottobre\\Belliardo\\Preparazione alla verifica\\Preparazione alla verifica\\Program.cs",
               "RelativeDocumentMoniker": "Preparazione alla verifica\\Program.cs",
-              "ToolTip": "E:\\INFO\\2025-26\\Gennaio\\Belliardo\\Preparazione alla verifica\\Preparazione alla verifica\\Program.cs",
+              "ToolTip": "F:\\INFO\\2025-26\\Settembre-Ottobre\\Belliardo\\Preparazione alla verifica\\Preparazione alla verifica\\Program.cs",
               "RelativeToolTip": "Preparazione alla verifica\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
