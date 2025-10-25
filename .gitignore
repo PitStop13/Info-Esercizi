@@ -1,0 +1,96 @@
+## ---> Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build results
+[Bb]in/
+[Oo]bj/
+*.dll
+*.exe
+*.app
+*.log
+
+# NuGet packages
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+**/packages/*
+!**/packages/build/
+!**/packages/repositories.config
+
+## Rider
+.idea/
+
+## Mono
+mono_crash.*
+
+# Visual Studio database files
+*.mdf
+*.ldf
+*.ndf
+
+# Visual Studio extension data
+*.vsix
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Azure Web App publish settings. 
+.PublishSettings
+
+# Local history for Visual Studio
+.localhistory/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# JetBrains Rider
+.idea/
+
+# DotCover
+*.dotCover
+
+# NCrunch
+_NCrunch_*
+.*crunch*.local.xml
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# Visual Studio Code
+.vscode/
+
+# Roslyn cache directories
+**/Generated_Code/
+
+# MSTest test Results
+[Tt]est[Rr]esult*/ 
+[Bb]uild[Ll]og.*
+
+# Nunit
+*.VisualState.xml
+
+# BenchmarkDotNet Artifacts
+BenchmarkDotNet.Artifacts/
+
+# VSCode settings
+.vscode/
+
+# .NET Core EF migrations
+[Mm]igrations/
