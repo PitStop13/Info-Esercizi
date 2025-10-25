@@ -1,0 +1,7 @@
+C:\Users\p.olivero.3584\Desktop\Olivero_Pietro_Verifica\Olivero_Pietro_Verifica\obj\Debug\Olivero_Pietro_Verifica.csproj.AssemblyReference.cache
+C:\Users\p.olivero.3584\Desktop\Olivero_Pietro_Verifica\Olivero_Pietro_Verifica\obj\Debug\Olivero_Pietro_Verifica.csproj.CoreCompileInputs.cache
+C:\Users\p.olivero.3584\Desktop\Olivero_Pietro_Verifica\Olivero_Pietro_Verifica\bin\Debug\Olivero_Pietro_Verifica.exe.config
+C:\Users\p.olivero.3584\Desktop\Olivero_Pietro_Verifica\Olivero_Pietro_Verifica\bin\Debug\Olivero_Pietro_Verifica.exe
+C:\Users\p.olivero.3584\Desktop\Olivero_Pietro_Verifica\Olivero_Pietro_Verifica\bin\Debug\Olivero_Pietro_Verifica.pdb
+C:\Users\p.olivero.3584\Desktop\Olivero_Pietro_Verifica\Olivero_Pietro_Verifica\obj\Debug\Olivero_Pietro_Verifica.exe
+C:\Users\p.olivero.3584\Desktop\Olivero_Pietro_Verifica\Olivero_Pietro_Verifica\obj\Debug\Olivero_Pietro_Verifica.pdb
