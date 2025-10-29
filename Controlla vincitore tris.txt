@@ -1,0 +1,46 @@
+private bool ControllaVincitore()
+{
+    // Controlla righe
+    for (int riga = 0; riga < 3; riga++)
+    {
+        if (griglia[riga, 0].Text != "" &&
+            griglia[riga, 0].Text == griglia[riga, 1].Text &&
+            griglia[riga, 1].Text == griglia[riga, 2].Text)
+        {
+            EvidenziaVincita(griglia[riga, 0], griglia[riga, 1], griglia[riga, 2]);
+            return true;
+        }
+    }
+
+    // Controlla colonne
+    for (int col = 0; col < 3; col++)
+    {
+        if (griglia[0, col].Text != "" &&
+            griglia[0, col].Text == griglia[1, col].Text &&
+            griglia[1, col].Text == griglia[2, col].Text)
+        {
+            EvidenziaVincita(griglia[0, col], griglia[1, col], griglia[2, col]);
+            return true;
+        }
+    }
+
+    // Controlla diagonale principale (\)
+    if (griglia[0, 0].Text != "" &&
+        griglia[0, 0].Text == griglia[1, 1].Text &&
+        griglia[1, 1].Text == griglia[2, 2].Text)
+    {
+        EvidenziaVincita(griglia[0, 0], griglia[1, 1], griglia[2, 2]);
+        return true;
+    }
+
+    // Controlla diagonale secondaria (/)
+    if (griglia[0, 2].Text != "" &&
+        griglia[0, 2].Text == griglia[1, 1].Text &&
+        griglia[1, 1].Text == griglia[2, 0].Text)
+    {
+        EvidenziaVincita(griglia[0, 2], griglia[1, 1], griglia[2, 0]);
+        return true;
+    }
+
+    return false;
+}

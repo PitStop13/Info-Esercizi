@@ -1,0 +1,27 @@
+private void CreaTastierino()
+{
+    if (tastierino.Count > 0)
+    {
+        return;
+    }
+    string[] tasti = { "1", "2", "3", "4", "5", "6", "7", "8", "9", "+", "0", "#" };
+    int startX = 200;
+    int startY = 150;
+    int buttonSize = 50;
+    int spacing = 10;
+
+    for (int i = 0; i < tasti.Length; i++)
+    {
+        Button btn = new Button();
+        btn.Text = tasti[i];
+        btn.Size = new Size(buttonSize, buttonSize);
+
+        int row = i / 3;
+        int col = i % 3;
+
+        btn.Location = new Point(startX + col * (buttonSize + spacing), startY + row * (buttonSize + spacing));
+        
+        this.Controls.Add( btn );
+        tastierino.Add( btn );
+    }
+}

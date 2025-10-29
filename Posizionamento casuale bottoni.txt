@@ -1,0 +1,19 @@
+// Lista di bottoni da posizionare
+List<Button> bottoni = new List<Button>();
+Random random = new Random();
+
+for (int i = 0; i < 6; i++)
+{
+    Button btn = new Button();
+    btn.Text = "Bottone " + (i + 1);
+    btn.Size = new Size(80, 30);
+    
+    // Posizionamento casuale (es: metà inferiore da y=400 in giù)
+    btn.Location = new Point(
+        random.Next(10, this.ClientSize.Width - btn.Width - 10),
+        random.Next(400, this.ClientSize.Height - btn.Height - 10)
+    );
+    
+    bottoni.Add(btn);
+    this.Controls.Add(btn);
+}
