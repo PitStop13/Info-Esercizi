@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Drawing;
 using System.Linq;
@@ -240,28 +240,17 @@ namespace SimulazioneCompleta
         }
 
         // FAC
-        private void VisualizzaNumeriMemorizzati()
-        {
-            if (numeriMemorizzati.Count == 0)
-            {
-                MessageBox.Show("Nessun numero memorizzato!", "Info");
-                return;
-            }
+       	private void VisualizzaNumeriMemorizzati()
+	{
+    	if (numeriMemorizzati.Count == 0)
+    	{
+        	MessageBox.Show("Nessun numero memorizzato!", "Info");
+        	return;
+    	}
 
-            Label lbl = new Label();
-            lbl.Text = "Numeri memorizzati:\n" + string.Join("\n", numeriMemorizzati);
-            lbl.Location = new Point(10, 550);
-            lbl.AutoSize = true;
-            lbl.BackColor = Color.LightYellow;
-            lbl.Padding = new Padding(10);
-            lbl.Font = new Font("Arial", 10);
+	string messaggio = "Numeri memorizzati:\n" + string.Join("\n", numeriMemorizzati);
+    	MessageBox.Show(messaggio, "Info");
+	}
 
-            var lblMemRmv = this.Controls.OfType<Label>().Where(l=>l.Text.StartsWith("Numeri memorizzati:")).ToList();
-            foreach (var l in lblMemRmv)
-            {
-                this.Controls.Remove(l);
-            }
-            this.Controls.Add(lbl);
-        }
-    }
+    	}
 }
