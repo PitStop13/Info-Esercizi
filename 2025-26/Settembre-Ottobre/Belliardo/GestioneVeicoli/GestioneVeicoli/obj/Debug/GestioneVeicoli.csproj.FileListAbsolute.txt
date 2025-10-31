@@ -1,8 +1,0 @@
-F:\INFO\2025-26\Settembre-Ottobre\Belliardo\GestioneVeicoli\GestioneVeicoli\bin\Debug\GestioneVeicoli.exe.config
-F:\INFO\2025-26\Settembre-Ottobre\Belliardo\GestioneVeicoli\GestioneVeicoli\bin\Debug\GestioneVeicoli.exe
-F:\INFO\2025-26\Settembre-Ottobre\Belliardo\GestioneVeicoli\GestioneVeicoli\bin\Debug\GestioneVeicoli.pdb
-F:\INFO\2025-26\Settembre-Ottobre\Belliardo\GestioneVeicoli\GestioneVeicoli\obj\Debug\GestioneVeicoli.csproj.AssemblyReference.cache
-F:\INFO\2025-26\Settembre-Ottobre\Belliardo\GestioneVeicoli\GestioneVeicoli\obj\Debug\GestioneVeicoli.csproj.CoreCompileInputs.cache
-F:\INFO\2025-26\Settembre-Ottobre\Belliardo\GestioneVeicoli\GestioneVeicoli\obj\Debug\GestioneVeicoli.exe
-F:\INFO\2025-26\Settembre-Ottobre\Belliardo\GestioneVeicoli\GestioneVeicoli\obj\Debug\GestioneVeicoli.pdb
-F:\INFO\2025-26\Settembre-Ottobre\Belliardo\GestioneVeicoli\GestioneVeicoli\obj\Debug\GestioneVeicoli.exe.config

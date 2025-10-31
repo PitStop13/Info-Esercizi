@@ -1,8 +1,0 @@
-E:\INFO\2025-26\Gennaio\Belliardo\OOP\OOP\bin\Debug\OOP.exe.config
-E:\INFO\2025-26\Gennaio\Belliardo\OOP\OOP\bin\Debug\OOP.exe
-E:\INFO\2025-26\Gennaio\Belliardo\OOP\OOP\bin\Debug\OOP.pdb
-E:\INFO\2025-26\Gennaio\Belliardo\OOP\OOP\obj\Debug\OOP.csproj.AssemblyReference.cache
-E:\INFO\2025-26\Gennaio\Belliardo\OOP\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
-E:\INFO\2025-26\Gennaio\Belliardo\OOP\OOP\obj\Debug\OOP.exe
-E:\INFO\2025-26\Gennaio\Belliardo\OOP\OOP\obj\Debug\OOP.pdb
-E:\INFO\2025-26\Gennaio\Belliardo\OOP\OOP\obj\Debug\OOP.exe.config
