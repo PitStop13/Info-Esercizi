@@ -23,14 +23,18 @@ namespace MockTest
             InitializeComponent();
         }
         // STUDENTI
+        // Evento click del bottone "Leggi Studenti"
         private void btnReadStudenti_Click(object sender, EventArgs e)
         {
+            // Recupera la lista aggiornata degli studenti dal database
             List<Studente> studenti = db.GetStudenti();
 
+            // Pulisce la lista visuale e la ripopola
             lstStudente.Items.Clear();
             foreach (Studente studente in studenti)
                 lstStudente.Items.Add(studente);
 
+            // Abilita i bottoni per le operazioni successive
             btnAddStudente.Enabled = true;
             btnUpdateStudente.Enabled = true;
             btnGetStudentiPerClasse.Enabled = true;
@@ -75,6 +79,7 @@ namespace MockTest
             grpStudente.Visible = true;
         }
 
+        // Gestisce l'esecuzione delle operazioni (Aggiungi, Modifica, Recupera) per gli Studenti
         private void btnEsegui_Click(object sender, EventArgs e)
         {
             List<Studente> studenti = db.GetStudenti();
@@ -83,9 +88,11 @@ namespace MockTest
             {
                 Studente studente = new Studente();
 
+                // Valida i campi di input
                 if (CheckStudentValidation())
                 {
                     studente.Id = int.Parse(txtIdStudente.Text);
+                    // Controlla se l'ID esiste già
                     foreach (Studente student in studenti)
                     {
                         if (student.Id == studente.Id)
@@ -94,11 +101,13 @@ namespace MockTest
                             return;
                         }
                     }
+                    // Assegna i valori dai campi di testo all'oggetto Studente
                     studente.Nome = txtNomeStudente.Text;
                     studente.Cognome = txtCognomeStudente.Text;
                     studente.DataNascita = DateTime.Parse(txtDataNascitaStudente.Text);
                     studente.ClasseId = int.Parse(txtIdClasseStudente.Text);
 
+                    // Verifica che la classe associata esista
                     if (CheckClassIdExistence(studente.ClasseId))
                     {
                         db.AddStudente(studente);
@@ -118,6 +127,7 @@ namespace MockTest
             }
             else if (btnEseguiStudente.Text == "Modifica")
             {
+                // Logica simile per la modifica...
                 Studente studenteAggiornato = new Studente();
 
                 if (CheckStudentValidation())
@@ -147,6 +157,7 @@ namespace MockTest
             }
             else
             {
+                // Logica per il recupero studenti per classe
                 int idClasse;
 
                 if (int.TryParse(txtIdClasseStudente.Text, out idClasse))
@@ -172,18 +183,23 @@ namespace MockTest
                 }
             }
 
+            // Resetta i campi e nasconde il gruppo
             txtIdStudente.Text = txtNomeStudente.Text = txtCognomeStudente.Text = txtDataNascitaStudente.Text = "";
             grpStudente.Visible = false;
 
+            // Ricarica la lista se non era un'operazione di filtro
             if (btnEseguiStudente.Text != "Recupera")
                 btnReadStudenti_Click(btnReadStudenti, e);
         }
 
+        // Controlla che tutti i campi necessari siano compilati e validi
         private bool CheckStudentValidation()
         {
+            // Verifica che i campi non siano vuoti
             if (txtIdStudente.Text != "" && txtNomeStudente.Text != "" && txtCognomeStudente.Text != "" && txtDataNascitaStudente.Text != "" &&
                 txtIdClasseStudente.Text != "")
             {
+                // Verifica che i dati siano del tipo corretto (int, DateTime)
                 if (int.TryParse(txtIdStudente.Text, out int testInt1) && DateTime.TryParse(txtDataNascitaStudente.Text, out DateTime dateTest) &&
                     int.TryParse(txtIdClasseStudente.Text, out int testInt2))
                     return true;

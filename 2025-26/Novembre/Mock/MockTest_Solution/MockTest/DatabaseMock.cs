@@ -16,24 +16,34 @@ namespace MockTest
             studenti.Add(studente);
             SaveStudentFile(studenti);
         }
+        // Metodo per recuperare la lista di studenti dal file di testo
         public List<Studente> GetStudenti()
         {
             List<Studente> studenti = new List<Studente>();
+            // Apre il file "studenti.txt" in lettura
             StreamReader sr = new StreamReader("studenti.txt");
             string[] s;
 
+            // Legge il file riga per riga fino alla fine
             while (!sr.EndOfStream)
             {
                 Studente studente = new Studente();
 
+                // Legge una riga e la divide in base al carattere ';'
+                // Esempio riga: "1;Mario;Rossi;2005-01-01;1"
                 s = sr.ReadLine().Split(';');
+
+                // Converte le stringhe nei tipi corretti (int, DateTime)
                 studente.Id = int.Parse(s[0]);
                 studente.Nome = s[1];
                 studente.Cognome = s[2];
                 studente.DataNascita = DateTime.Parse(s[3]);
                 studente.ClasseId = int.Parse(s[4]);
+
+                // Aggiunge lo studente alla lista
                 studenti.Add(studente);
             }
+            // Chiude il file per liberare le risorse
             sr.Close();
 
             return studenti;
@@ -47,15 +57,20 @@ namespace MockTest
             SaveStudentFile(studenti);
         }
 
+        // Metodo per salvare la lista di studenti su file
         private void SaveStudentFile(List<Studente> studenti)
         {
+            // Apre il file "studenti.txt" in scrittura (sovrascrive il contenuto esistente)
             StreamWriter sw = new StreamWriter("studenti.txt");
 
             foreach (Studente studente in studenti)
             {
+                // Crea la stringa formattata con i dati dello studente separati da ';'
                 string s = $"{studente.Id};{studente.Nome};{studente.Cognome};{studente.DataNascita};{studente.ClasseId}";
+                // Scrive la riga nel file
                 sw.WriteLine(s);
             }
+            // Chiude il file
             sw.Close();
         }
 
@@ -208,7 +223,7 @@ namespace MockTest
         public void AddMateria(Materia materia)
         {
             List<Materia> materie = GetMaterie();
-            
+
             materie.Add(materia);
             SaveSubjectFile(materie);
         }
@@ -333,11 +348,13 @@ namespace MockTest
             return votiStudente;
         }
 
+        // Calcola la media dei voti per una specifica classe e materia
         public double CalcolaMediaVotiPerClasseEMateria(int classeId, int materiaId)
         {
+            // Recupera tutti gli studenti e tutti i voti
             List<Studente> studenti = GetStudenti();
             List<Studente> studentiSelezionati = new List<Studente>();
-            
+
             List<int> ids = new List<int>();
 
             List<Voto> voti = GetVoti();
@@ -346,16 +363,20 @@ namespace MockTest
             double somma = 0;
             int cont = 0;
 
+            // 1. Trova gli ID degli studenti che appartengono alla classe specificata
             foreach (Studente studente in studenti)
             {
                 if (studente.ClasseId == classeId)
                     ids.Add(studente.Id);
             }
 
+            // 2. Itera su tutti i voti per trovare quelli rilevanti
             foreach (Voto voto in voti)
             {
+                // Controlla se il voto è della materia richiesta
                 if (voto.MateriaId == materiaId)
                 {
+                    // Controlla se il voto appartiene a uno degli studenti della classe
                     if (ids.Contains(voto.StudenteId))
                     {
                         somma += voto.Valore;
@@ -364,6 +385,7 @@ namespace MockTest
                 }
             }
 
+            // Calcola la media (gestire divisione per zero se necessario, qui si assume cont > 0 o restituisce NaN/Infinito)
             return (double)somma / cont;
         }
     }
