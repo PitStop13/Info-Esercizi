@@ -1,8 +1,10 @@
 using System;
 using System.Collections.Generic;
 using System.Windows.Forms;
+using System.Linq;
+using BibliotecaSolution;
 
-namespace VerificaInterfaccie
+namespace VerificaInterfacce
 {
     public partial class FormMain : Form
     {
@@ -18,14 +20,11 @@ namespace VerificaInterfaccie
         {
             // Inizializza i ComboBox per i tipi di contenuto
             cmbTipoContenuto.Items.AddRange(new string[] { "Libro", "DVD", "Rivista", "Audiolibro", "CD Musicale" });
-            cmbFiltroTipo.Items.AddRange(new string[] { "Libro", "DVD", "Rivista", "Audiolibro", "CD Musicale" });
-            
             cmbTipoContenuto.SelectedIndex = 0;
-            cmbFiltroTipo.SelectedIndex = 0;
 
             // Inserisci alcuni dati di esempio
             InserisciDatiEsempio();
-            
+
             // Aggiorna le visualizzazioni
             AggiornaCatalogo();
             AggiornaListaPrestiti();
@@ -56,12 +55,12 @@ namespace VerificaInterfaccie
 
             _biblioteca.AggiungiContenuto(new Rivista(
                 "Focus", 2024, "Divulgazione scientifica", 4.50m,
-                "Mondadori", 12, "Mensile"
+                "Mondadori", 12, "Mensile", DateTime.Now.AddDays(-10)
             ));
 
             _biblioteca.AggiungiContenuto(new Rivista(
                 "National Geographic", 2020, "Divulgazione scientifica", 5.00m,
-                "National Geographic Society", 8, "Mensile"
+                "National Geographic Society", 8, "Mensile", new DateTime(2020, 5, 1)
             ));
 
             _biblioteca.AggiungiContenuto(new Audiolibro(
@@ -84,12 +83,18 @@ namespace VerificaInterfaccie
         {
             // Aggiorna le etichette dei campi specifici in base al tipo selezionato
             string tipo = cmbTipoContenuto.SelectedItem.ToString();
+            lblSpec1.Visible = true;
+            lblSpec2.Visible = true;
+            lblSpec3.Visible = true;
+            txtSpec1.Visible = true;
+            txtSpec2.Visible = true;
+            txtSpec3.Visible = true;
 
             switch (tipo)
             {
                 case "Libro":
                     lblSpec1.Text = "Autore:";
-                    lblSpec2.Text = "Numero Pagine:";
+                    lblSpec2.Text = "Pagine:";
                     lblSpec3.Text = "Casa Editrice:";
                     break;
                 case "DVD":
@@ -99,17 +104,17 @@ namespace VerificaInterfaccie
                     break;
                 case "Rivista":
                     lblSpec1.Text = "Editore:";
-                    lblSpec2.Text = "Numero Edizione:";
+                    lblSpec2.Text = "N° Edizione:";
                     lblSpec3.Text = "Periodicità:";
                     break;
                 case "Audiolibro":
                     lblSpec1.Text = "Narratore:";
                     lblSpec2.Text = "Durata (min):";
-                    lblSpec3.Text = "Autore Originale:";
+                    lblSpec3.Text = "Autore:";
                     break;
                 case "CD Musicale":
                     lblSpec1.Text = "Artista:";
-                    lblSpec2.Text = "Numero Tracce:";
+                    lblSpec2.Text = "N° Tracce:";
                     lblSpec3.Text = "Genere:";
                     break;
             }
@@ -144,48 +149,41 @@ namespace VerificaInterfaccie
                 switch (tipo)
                 {
                     case "Libro":
-                        if (!int.TryParse(txtSpec2.Text, out int nPagine)) throw new Exception("Numero pagine non valido");
-                        nuovoContenuto = new Libro(txtTitolo.Text, anno, txtCategoria.Text, valore,
-                                                   txtSpec1.Text, nPagine, txtSpec3.Text);
+                        if (!int.TryParse(txtSpec2.Text, out int pagine)) throw new Exception("Numero pagine non valido");
+                        nuovoContenuto = new Libro(txtTitolo.Text, anno, txtCategoria.Text, valore, txtSpec1.Text, pagine, txtSpec3.Text);
                         break;
 
                     case "DVD":
                         if (!int.TryParse(txtSpec2.Text, out int durataDvd)) throw new Exception("Durata non valida");
-                        nuovoContenuto = new DVD(txtTitolo.Text, anno, txtCategoria.Text, valore,
-                                                 txtSpec1.Text, durataDvd, txtSpec3.Text);
+                        nuovoContenuto = new DVD(txtTitolo.Text, anno, txtCategoria.Text, valore, txtSpec1.Text, durataDvd, txtSpec3.Text);
                         break;
 
                     case "Rivista":
-                        if (!int.TryParse(txtSpec2.Text, out int nEdizione)) throw new Exception("Numero edizione non valido");
-                        nuovoContenuto = new Rivista(txtTitolo.Text, anno, txtCategoria.Text, valore,
-                                                     txtSpec1.Text, nEdizione, txtSpec3.Text);
+                        if (!int.TryParse(txtSpec2.Text, out int numEd)) throw new Exception("Numero edizione non valido");
+                        // Per semplicità, assumiamo data emissione oggi per le nuove riviste inserite manualmente, o gestibile diversamente
+                        nuovoContenuto = new Rivista(txtTitolo.Text, anno, txtCategoria.Text, valore, txtSpec1.Text, numEd, txtSpec3.Text, DateTime.Now);
                         break;
 
                     case "Audiolibro":
                         if (!int.TryParse(txtSpec2.Text, out int durataAudio)) throw new Exception("Durata non valida");
-                        nuovoContenuto = new Audiolibro(txtTitolo.Text, anno, txtCategoria.Text, valore,
-                                                        txtSpec1.Text, durataAudio, txtSpec3.Text);
+                        nuovoContenuto = new Audiolibro(txtTitolo.Text, anno, txtCategoria.Text, valore, txtSpec1.Text, durataAudio, txtSpec3.Text);
                         break;
 
                     case "CD Musicale":
-                        if (!int.TryParse(txtSpec2.Text, out int nTracce)) throw new Exception("Numero tracce non valido");
-                        nuovoContenuto = new CDMusicale(txtTitolo.Text, anno, txtCategoria.Text, valore,
-                                                        txtSpec1.Text, nTracce, txtSpec3.Text);
+                        if (!int.TryParse(txtSpec2.Text, out int tracce)) throw new Exception("Numero tracce non valido");
+                        nuovoContenuto = new CDMusicale(txtTitolo.Text, anno, txtCategoria.Text, valore, txtSpec1.Text, tracce, txtSpec3.Text);
                         break;
                 }
 
                 if (nuovoContenuto != null)
                 {
+                    // Genera codice univoco (semplificato)
+                    nuovoContenuto.CodiceIdentificativo = Guid.NewGuid().ToString().Substring(0, 8).ToUpper();
                     _biblioteca.AggiungiContenuto(nuovoContenuto);
-                    MessageBox.Show($"Contenuto inserito con successo!\nCodice: {nuovoContenuto.CodiceIdentificativo}",
-                                    "Successo", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                    
-                    // Pulisci i campi
-                    PulisciCampiInserimento();
-                    
-                    // Aggiorna la visualizzazione
                     AggiornaCatalogo();
                     AggiornaListaPrestiti();
+                    PulisciCampiInserimento();
+                    MessageBox.Show("Contenuto inserito correttamente!", "Successo", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 }
             }
             catch (Exception ex)
@@ -209,12 +207,9 @@ namespace VerificaInterfaccie
         private void AggiornaCatalogo()
         {
             lstCatalogo.Items.Clear();
-            
-            var catalogo = _biblioteca.OttieniCatalogo();
-            
-            foreach (var contenuto in catalogo)
+            foreach (var item in _biblioteca.OttieniCatalogo())
             {
-                lstCatalogo.Items.Add(contenuto.OttieniDescrizione());
+                lstCatalogo.Items.Add(item.OttieniDescrizione());
             }
         }
 
@@ -225,31 +220,27 @@ namespace VerificaInterfaccie
 
         private void btnFiltraTipo_Click(object sender, EventArgs e)
         {
-            string tipoSelezionato = cmbFiltroTipo.SelectedItem?.ToString();
-            if (string.IsNullOrEmpty(tipoSelezionato)) return;
-
+            string tipo = cmbTipoContenuto.SelectedItem.ToString();
+            var filtrati = _biblioteca.CercaPerTipo(tipo);
             lstCatalogo.Items.Clear();
-            
-            var contenutiFiltrati = _biblioteca.CercaPerTipo(tipoSelezionato);
-            
-            foreach (var contenuto in contenutiFiltrati)
+            foreach (var item in filtrati)
             {
-                lstCatalogo.Items.Add(contenuto.OttieniDescrizione());
+                lstCatalogo.Items.Add(item.OttieniDescrizione());
             }
         }
 
         private void btnFiltraCategoria_Click(object sender, EventArgs e)
         {
-            string categoria = txtFiltroCategoria.Text;
-            if (string.IsNullOrWhiteSpace(categoria)) return;
-
-            lstCatalogo.Items.Clear();
-            
-            var contenutiFiltrati = _biblioteca.CercaPerCategoria(categoria);
-            
-            foreach (var contenuto in contenutiFiltrati)
+            if (string.IsNullOrWhiteSpace(txtCategoria.Text))
             {
-                lstCatalogo.Items.Add(contenuto.OttieniDescrizione());
+                MessageBox.Show("Inserire una categoria per filtrare", "Info", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                return;
+            }
+            var filtrati = _biblioteca.CercaPerCategoria(txtCategoria.Text);
+            lstCatalogo.Items.Clear();
+            foreach (var item in filtrati)
+            {
+                lstCatalogo.Items.Add(item.OttieniDescrizione());
             }
         }
 
@@ -257,72 +248,80 @@ namespace VerificaInterfaccie
         {
             // Aggiorna lista contenuti disponibili
             lstContenutiDisponibili.Items.Clear();
-            var disponibili = _biblioteca.OttieniContenutiDisponibili();
-            foreach (var contenuto in disponibili)
+            foreach (var item in _biblioteca.OttieniContenutiDisponibili())
             {
-                lstContenutiDisponibili.Items.Add(contenuto.OttieniDescrizione());
+                lstContenutiDisponibili.Items.Add(item.OttieniDescrizione());
             }
 
             // Aggiorna lista contenuti in prestito
             lstContenutiInPrestito.Items.Clear();
-            var inPrestito = _biblioteca.OttieniContenutiInPrestito();
-            foreach (var contenuto in inPrestito)
+            foreach (var item in _biblioteca.OttieniCatalogo())
             {
-                lstContenutiInPrestito.Items.Add(contenuto.OttieniDescrizione());
+                if (item is IPrestabile prestabile && prestabile.InPrestito)
+                {
+                    lstContenutiInPrestito.Items.Add(item.OttieniDescrizione());
+                }
             }
         }
 
         private void btnPresta_Click(object sender, EventArgs e)
         {
-            string codice = txtCodicePrestito.Text.Trim();
-            string nomeUtente = txtNomeUtente.Text.Trim();
-
-            if (string.IsNullOrEmpty(codice) || string.IsNullOrEmpty(nomeUtente))
+            if (lstContenutiDisponibili.SelectedIndex == -1)
             {
-                MessageBox.Show("Inserire sia il codice del contenuto che il nome dell'utente",
-                                "Errore", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                MessageBox.Show("Selezionare un contenuto disponibile", "Attenzione", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+            if (string.IsNullOrWhiteSpace(txtNomeUtente.Text))
+            {
+                MessageBox.Show("Inserire il nome dell'utente", "Attenzione", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;
             }
 
-            if (_biblioteca.PrestaContenuto(codice, nomeUtente))
+            string selectedItemString = lstContenutiDisponibili.SelectedItem.ToString();
+            // Estrai codice (assumendo formato "[CODICE] ...")
+            string codice = selectedItemString.Substring(1, selectedItemString.IndexOf(']') - 1);
+
+            var contenuto = _biblioteca.OttieniCatalogo().FirstOrDefault(c => c.CodiceIdentificativo == codice);
+            if (contenuto is IPrestabile prestabile)
             {
-                MessageBox.Show($"Contenuto prestato con successo a {nomeUtente}",
-                                "Successo", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                txtCodicePrestito.Clear();
-                txtNomeUtente.Clear();
-                AggiornaListaPrestiti();
-                AggiornaCatalogo();
-            }
-            else
-            {
-                MessageBox.Show("Impossibile prestare il contenuto. Verificare il codice o che il contenuto sia disponibile.",
-                                "Errore", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                try
+                {
+                    prestabile.Presta(txtNomeUtente.Text, DateTime.Now);
+                    AggiornaListaPrestiti();
+                    AggiornaCatalogo();
+                    txtNomeUtente.Clear();
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show(ex.Message, "Errore", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
             }
         }
 
         private void btnRestituisci_Click(object sender, EventArgs e)
         {
-            string codice = txtCodiceRestituzione.Text.Trim();
-
-            if (string.IsNullOrEmpty(codice))
+            if (lstContenutiInPrestito.SelectedIndex == -1)
             {
-                MessageBox.Show("Inserire il codice del contenuto da restituire",
-                                "Errore", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                MessageBox.Show("Selezionare un contenuto da restituire", "Attenzione", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;
             }
 
-            if (_biblioteca.RestituisciContenuto(codice))
+            string selectedItemString = lstContenutiInPrestito.SelectedItem.ToString();
+            string codice = selectedItemString.Substring(1, selectedItemString.IndexOf(']') - 1);
+
+            var contenuto = _biblioteca.OttieniCatalogo().FirstOrDefault(c => c.CodiceIdentificativo == codice);
+            if (contenuto is IPrestabile prestabile)
             {
-                MessageBox.Show("Contenuto restituito con successo",
-                                "Successo", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                txtCodiceRestituzione.Clear();
-                AggiornaListaPrestiti();
-                AggiornaCatalogo();
-            }
-            else
-            {
-                MessageBox.Show("Impossibile restituire il contenuto. Verificare il codice.",
-                                "Errore", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                try
+                {
+                    prestabile.Restituisci();
+                    AggiornaListaPrestiti();
+                    AggiornaCatalogo();
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show(ex.Message, "Errore", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
             }
         }
 
@@ -331,92 +330,68 @@ namespace VerificaInterfaccie
             // Doppio click su un contenuto disponibile per copiarne il codice
             if (lstContenutiDisponibili.SelectedItem != null)
             {
-                string descrizione = lstContenutiDisponibili.SelectedItem.ToString();
-                // Estrai il codice dalla descrizione (è tra [ e ])
-                int start = descrizione.IndexOf('[') + 1;
-                int end = descrizione.IndexOf(']');
-                if (start > 0 && end > start)
-                {
-                    string codice = descrizione.Substring(start, end - start);
-                    txtCodicePrestito.Text = codice;
-                }
+                // Opzionale: implementazione per facilitare test
             }
         }
 
         private void lstContenutiInPrestito_DoubleClick(object sender, EventArgs e)
         {
             // Doppio click su un contenuto in prestito per copiarne il codice
-            if (lstContenutiInPrestito.SelectedItem != null)
-            {
-                string descrizione = lstContenutiInPrestito.SelectedItem.ToString();
-                // Estrai il codice dalla descrizione (è tra [ e ])
-                int start = descrizione.IndexOf('[') + 1;
-                int end = descrizione.IndexOf(']');
-                if (start > 0 && end > start)
-                {
-                    string codice = descrizione.Substring(start, end - start);
-                    txtCodiceRestituzione.Text = codice;
-                }
-            }
         }
 
         private void btnAggiorna_Click(object sender, EventArgs e)
         {
             // Genera e mostra le statistiche
             System.Text.StringBuilder sb = new System.Text.StringBuilder();
-            
+
             sb.AppendLine("╔═══════════════════════════════════════════════════════════════╗");
             sb.AppendLine("║         STATISTICHE BIBLIOTECA COMUNALE                       ║");
             sb.AppendLine("╚═══════════════════════════════════════════════════════════════╝");
             sb.AppendLine();
-            
+
+            var catalogo = _biblioteca.OttieniCatalogo();
+
             // Statistiche generali
             sb.AppendLine("STATISTICHE GENERALI");
             sb.AppendLine("────────────────────────────────────────────────────────────────");
-            sb.AppendLine($"Numero totale contenuti:           {_biblioteca.OttieniNumeroContenuti()}");
-            sb.AppendLine($"Valore totale catalogo:            €{_biblioteca.OttieniValoreTotale():F2}");
+            sb.AppendLine($"Totale contenuti: {catalogo.Count}");
+            sb.AppendLine($"Valore totale patrimonio: €{catalogo.Sum(c => c.ValoreCommerciale):F2}");
             sb.AppendLine();
-            
+
             // Statistiche per tipo
             sb.AppendLine("DISTRIBUZIONE PER TIPO");
             sb.AppendLine("────────────────────────────────────────────────────────────────");
-            var statisticheTipo = _biblioteca.OttieniStatisticheTipo();
-            foreach (var kvp in statisticheTipo)
+            var perTipo = catalogo.GroupBy(c => c.OttieniTipo());
+            foreach (var gruppo in perTipo)
             {
-                sb.AppendLine($"{kvp.Key,-20} {kvp.Value,10} contenuti");
+                sb.AppendLine($"{gruppo.Key}: {gruppo.Count()}");
             }
             sb.AppendLine();
-            
+
             // Statistiche prestiti
             sb.AppendLine("STATO PRESTITI");
             sb.AppendLine("────────────────────────────────────────────────────────────────");
-            int disponibili = _biblioteca.OttieniContenutiDisponibili().Count;
-            int inPrestito = _biblioteca.OttieniContenutiInPrestito().Count;
-            int prestitiScaduti = _biblioteca.OttieniPrestitiScaduti().Count;
-            
-            sb.AppendLine($"Contenuti disponibili:             {disponibili}");
-            sb.AppendLine($"Contenuti in prestito:             {inPrestito}");
-            sb.AppendLine($"Prestiti scaduti:                  {prestitiScaduti}");
+            int inPrestito = catalogo.OfType<IPrestabile>().Count(p => p.InPrestito);
+            sb.AppendLine($"Contenuti attualmente in prestito: {inPrestito}");
             sb.AppendLine();
-            
+
             // Lista prestiti scaduti
-            if (prestitiScaduti > 0)
+            sb.AppendLine("PRESTITI SCADUTI");
+            sb.AppendLine("────────────────────────────────────────────────────────────────");
+            var scaduti = catalogo.OfType<IPrestabile>().Where(p => p.IsPrestutoScaduto());
+            if (scaduti.Any())
             {
-                sb.AppendLine("PRESTITI SCADUTI - RICHIAMO NECESSARIO");
-                sb.AppendLine("────────────────────────────────────────────────────────────────");
-                foreach (var contenuto in _biblioteca.OttieniPrestitiScaduti())
+                foreach (var s in scaduti)
                 {
-                    if (contenuto is IPrestabile prestabile)
-                    {
-                        int giorniRitardo = (DateTime.Now - prestabile.DataPrestito.Value).Days - prestabile.DurataPrestito;
-                        sb.AppendLine($"• {contenuto.Titolo}");
-                        sb.AppendLine($"  Utente: {prestabile.UtenteInPrestito}");
-                        sb.AppendLine($"  Ritardo: {giorniRitardo} giorni");
-                        sb.AppendLine();
-                    }
+                    var c = s as ContenutoMultimediale;
+                    sb.AppendLine($"- {c.Titolo} (Scaduto da {(DateTime.Now - s.DataPrestito.Value).Days - s.DurataPrestito} giorni)");
                 }
             }
-            
+            else
+            {
+                sb.AppendLine("Nessun prestito scaduto.");
+            }
+
             txtStatistiche.Text = sb.ToString();
         }
     }

@@ -1,4 +1,4 @@
-namespace VerificaInterfaccie
+namespace VerificaInterfacce
 {
     partial class FormMain
     {
