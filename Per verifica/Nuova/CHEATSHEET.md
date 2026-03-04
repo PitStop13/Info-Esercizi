@@ -357,3 +357,99 @@ private void MostraAbout()
     f.ShowDialog(); // modale
 }
 ```
+
+---
+
+## EXTRA — FONTDIALOG (cambia font testo selezionato)
+
+```csharp
+FontDialog fd = new FontDialog();
+fd.Font = rtbEditor.SelectionFont ?? rtbEditor.Font;
+
+if (fd.ShowDialog() == DialogResult.OK)
+    rtbEditor.SelectionFont = fd.Font;
+```
+
+---
+
+## EXTRA — COLORDIALOG (cambia colore testo selezionato)
+
+```csharp
+ColorDialog cd = new ColorDialog();
+cd.Color = rtbEditor.SelectionColor;
+
+if (cd.ShowDialog() == DialogResult.OK)
+    rtbEditor.SelectionColor = cd.Color;
+```
+
+---
+
+## EXTRA — VAI A RIGA N (form dinamica con NumericUpDown)
+
+```csharp
+Form f            = new Form();
+f.Text            = "Vai a riga";
+f.Size            = new Size(280, 130);
+f.FormBorderStyle = FormBorderStyle.FixedDialog;
+f.StartPosition   = FormStartPosition.CenterParent;
+f.MaximizeBox     = false;
+f.MinimizeBox     = false;
+
+Label lbl    = new Label() { Text = "Numero riga:", Location = new Point(10, 15), AutoSize = true };
+NumericUpDown num = new NumericUpDown();
+num.Location = new Point(100, 12);
+num.Minimum  = 1;
+num.Maximum  = rtbEditor.Lines.Length > 0 ? rtbEditor.Lines.Length : 1;
+num.Value    = 1;
+num.Width    = 80;
+
+Button btnOk       = new Button() { Text = "OK", Location = new Point(90, 50) };
+btnOk.DialogResult = DialogResult.OK;
+
+f.Controls.Add(lbl);
+f.Controls.Add(num);
+f.Controls.Add(btnOk);
+f.AcceptButton = btnOk;
+
+if (f.ShowDialog() == DialogResult.OK)
+{
+    int riga      = (int)num.Value - 1; // 0-based
+    int charIndex = rtbEditor.GetFirstCharIndexFromLine(riga);
+    rtbEditor.SelectionStart  = charIndex;
+    rtbEditor.SelectionLength = 0;
+    rtbEditor.ScrollToCaret();
+    rtbEditor.Focus();
+}
+```
+
+---
+
+
+
+---
+
+## EXTRA — CONTA RIGHE/PAROLE E SALVA SU FILE
+
+```csharp
+string testo = rtbEditor.Text.Trim();
+
+int righe  = testo == "" ? 0 : rtbEditor.Lines.Length;
+int parole = testo == "" ? 0 : testo.Split(
+    new char[] { ' ', '\n', '\r', '\t' },
+    StringSplitOptions.RemoveEmptyEntries
+).Length;
+
+string path = Path.Combine(Application.StartupPath, "salvataggio.txt");
+string[] righeFile = {
+    "Pietro Olivero",
+    DateTime.Now.ToString("dd/MM/yyyy"),
+    "Righe: "  + righe,
+    "Parole: " + parole
+};
+
+File.WriteAllLines(path, righeFile);
+MessageBox.Show("Righe: " + righe + "\nParole: " + parole, "Statistiche",
+                MessageBoxButtons.OK, MessageBoxIcon.Information);
+```
+> `rtbEditor.Lines` è un array — `.Length` = numero righe.  
+> `.Split()` su whitespace con `RemoveEmptyEntries` = numero parole reale.

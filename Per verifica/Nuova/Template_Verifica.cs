@@ -356,5 +356,114 @@ namespace NomeProgetto   // <-- cambia con il nome della tua soluzione
             f.Controls.Add(lbl);
             f.ShowDialog();
         }
+
+        // ============================================================
+        //  EXTRA — FONT DIALOG (cambia font al testo selezionato)
+        //  Chiamata: CambiaFont();
+        // ============================================================
+        private void CambiaFont()
+        {
+            FontDialog fd = new FontDialog();
+            fd.Font = rtbEditor.SelectionFont ?? rtbEditor.Font;
+
+            if (fd.ShowDialog() == DialogResult.OK)
+                rtbEditor.SelectionFont = fd.Font;
+        }
+
+        // ============================================================
+        //  EXTRA — COLOR DIALOG (cambia colore al testo selezionato)
+        //  Chiamata: CambiaColore();
+        // ============================================================
+        private void CambiaColore()
+        {
+            ColorDialog cd = new ColorDialog();
+            cd.Color = rtbEditor.SelectionColor;
+
+            if (cd.ShowDialog() == DialogResult.OK)
+                rtbEditor.SelectionColor = cd.Color;
+        }
+
+        // ============================================================
+        //  EXTRA — VAI A RIGA N
+        //  Chiamata: VaiARiga();
+        // ============================================================
+        private void VaiARiga()
+        {
+            Form f = new Form();
+            f.Text            = "Vai a riga";
+            f.Size            = new Size(280, 130);
+            f.FormBorderStyle = FormBorderStyle.FixedDialog;
+            f.StartPosition   = FormStartPosition.CenterParent;
+            f.MaximizeBox     = false;
+            f.MinimizeBox     = false;
+
+            Label lbl    = new Label();
+            lbl.Text     = "Numero riga:";
+            lbl.Location = new Point(10, 15);
+            lbl.AutoSize = true;
+
+            NumericUpDown num = new NumericUpDown();
+            num.Location = new Point(10, 35);
+            num.Minimum  = 1;
+            num.Maximum  = rtbEditor.Lines.Length > 0 ? rtbEditor.Lines.Length : 1;
+            num.Value    = 1;
+            num.Width    = 80;
+
+            Button btnOk       = new Button();
+            btnOk.Text         = "OK";
+            btnOk.Location     = new Point(10, 60);
+            btnOk.DialogResult = DialogResult.OK;
+
+            f.Controls.AddRange(new Control[] { lbl, num, btnOk });
+            f.AcceptButton = btnOk;
+
+            if (f.ShowDialog() == DialogResult.OK)
+            {
+                int riga = (int)num.Value - 1; // Lines è 0-based
+                if (riga < rtbEditor.Lines.Length)
+                {
+                    int charIndex = rtbEditor.GetFirstCharIndexFromLine(riga);
+                    rtbEditor.SelectionStart  = charIndex;
+                    rtbEditor.SelectionLength = 0;
+                    rtbEditor.Focus();
+                    rtbEditor.ScrollToCaret();
+                }
+            }
+        }
+
+        // ============================================================
+        //  EXTRA — CONTA RIGHE/PAROLE e salva su disco
+        //  Chiamata: ContaESalva();
+        // ============================================================
+        private void ContaESalva()
+        {
+            string testo = rtbEditor.Text.Trim();
+
+            int righe  = testo == "" ? 0 : rtbEditor.Lines.Length;
+            int parole = testo == "" ? 0 : testo.Split(
+                new char[] { ' ', '\n', '\r', '\t' },
+                StringSplitOptions.RemoveEmptyEntries
+            ).Length;
+
+            string path = Path.Combine(Application.StartupPath, "salvataggio.txt");
+            string[] righeFile = {
+                "Pietro Olivero",
+                DateTime.Now.ToString("dd/MM/yyyy"),
+                "Righe: "  + righe,
+                "Parole: " + parole
+            };
+
+            try
+            {
+                File.WriteAllLines(path, righeFile);
+                MessageBox.Show("Righe: " + righe + "\nParole: " + parole,
+                                "Statistiche", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Errore: " + ex.Message, "Errore",
+                                MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
     }
 }
