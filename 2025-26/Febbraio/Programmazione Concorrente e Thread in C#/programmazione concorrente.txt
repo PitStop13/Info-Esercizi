@@ -1,0 +1,24 @@
+E' quando dobbiamo programmare qualcosa per fargli fare più lavori contemporaneamente
+
+Ani fa,processori con LA Cpu,un "pezzo" di silicio che contenteva Cu,ALU,Registri e basta.
+SO partiva,avviava computer,arrivava e una certa si ferma in attesa di input.
+Da command line  era più semplice,con win quindi a finestre è divero,era più complesso
+digito comando e la cpu fa SOLO quello che gli dico una cosa per volta (calssica comand line quadno fai le cose).
+
+Da sistema a finestra il so ha pù attività da eseguire in contemporanesa,quindi capita sempre.
+
+Processo = è un programma che si sviluppa e viene lanciato,caricato in memoria e eseguito.
+-ha un suo spazio in memoria
+-contine al suo interno almeno UN THREAD
+-è siolato dagli altri processi
+
+Thread = unità di esecuzine all'interno di un processo.
+-condivide la memoria con gli altri thread
+-più leggero rispetto a un processo
+-gestito da SO
+-può causare problemi di sincronizzazione se non li si gestisce bene in programmazione concorrente 
+
+PULL = Collezione,esempio:database per un sito,e questo gestisce un PULL di connesioni in contemporanea.
+sono specie di richieste prepronte che uqnaodun utente deve accedere gliene do una e via,avanti il prossimo
+
+timeout
