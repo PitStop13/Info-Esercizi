@@ -9,7 +9,7 @@ namespace ThreadKitchen
 {
     public partial class Form1 : Form
     {
-        // Lista cuochi (struttura dati
+        // Lista cuochi (struttura dati)
         private List<Chef> _chefs = new List<Chef>();
 
         private Label[] _lblChef;
@@ -17,6 +17,10 @@ namespace ThreadKitchen
         private Label[] _lblPrecChef;
 
         private readonly Random _rnd = new Random();
+
+        // --- COMMIT 4: Variabili per la Race Condition ---
+        private int _totalSteps = 0;
+        private int _expectedSteps = 0;
 
         public Form1()
         {
@@ -26,7 +30,6 @@ namespace ThreadKitchen
             _pbChef = new ProgressBar[] { pbChef0, pbChef1, pbChef2, pbChef3 };
             _lblPrecChef = new Label[] { lblPrecChef0, lblPrecChef1, lblPrecChef2, lblPrecChef3 };
         }
-
 
         // --- Caricamento form
         private void Form1_Load(object sender, EventArgs e)
@@ -41,63 +44,70 @@ namespace ThreadKitchen
             AppendLog("🍳 Cucina pronta. Premi «Avvia cucina» per iniziare.");
         }
 
-
         // --- Metodo eseguito in un thread che simula la cottura di un piatto
         private void CookDish(int chefId)
         {
             Chef chef = _chefs[chefId];
-
-            // Avviamo il cronometro
             Stopwatch sw = Stopwatch.StartNew();
 
-            // Simuliamo preparzione piatto (ciclo fino al 100%)
             while (chef.Progress < 100)
             {
-                // Simulo il tempo di una fase di lavorazione del piatto
-                Thread.Sleep(_rnd.Next(100, 501)); // Tra 1 decimo e mezzo secondo
+                Thread.Sleep(_rnd.Next(100, 501));
 
-                // Incremento il progresso del piatto in modo casuale
-                // (non tutte le lavorazioni sono ugualmente impegnative/importanti)
                 int incremento = _rnd.Next(1, 9);
-                chef.Progress = Math.Min(100, chef.Progress + incremento); // Per evitare di superare 100
+                chef.Progress = Math.Min(100, chef.Progress + incremento);
 
-                // Aggiorniamo i dati nella form in modo thread-safe
+                // --- INIZIO COMMIT 4: Race Condition ---
+
+                // Valore ATTESO: Atomico e thread-safe
+                Interlocked.Add(ref _expectedSteps, incremento);
+
+                // Valore REALE: Lento e soggetto a race condition
+                int temp = _totalSteps;
+                Thread.Sleep(1); // Simula interruzione del SO
+                _totalSteps = temp + incremento;
+
+                // --- FINE COMMIT 4 ---
+
                 int currentProgress = chef.Progress;
+
+                // Aggiorniamo la UI
                 this.Invoke((Action)(() =>
                 {
                     _pbChef[chefId].Value = currentProgress;
                     _lblPrecChef[chefId].Text = currentProgress + "%";
+
+                    // Aggiorniamo l'etichetta del bug
+                    bool ok = (_totalSteps == _expectedSteps);
+                    lblExpected.Text = $"Atteso: {_expectedSteps} Reale: {_totalSteps}";
+                    lblExpected.ForeColor = ok ? Color.Lime : Color.Red;
                 }));
             }
 
-            // Preparazione piatto completata (stop cronometro e set dati chef)
             sw.Stop();
             chef.ElapsedSeconds = sw.Elapsed.TotalSeconds;
             chef.IsFinished = true;
 
-            // Preparazione terminata, scrivo il log
-            // ATTENZIONE: anche qui va in errore per cross-thread!
-            AppendLog($"{chef.Name} ha finito in {chef.ElapsedSeconds} secondi");
+            AppendLog($"{chef.Name} ha finito in {chef.ElapsedSeconds:F2} secondi");
         }
 
         // --- Pulsante Avvia
         private void btnStart_Click(object sender, EventArgs e)
         {
-            // Disabilito start e abilito reset
             btnStart.Enabled = false;
             btnReset.Enabled = true;
 
+            // Azzero i contatori della race condition
+            _totalSteps = 0;
+            _expectedSteps = 0;
+            lblExpected.Text = "Atteso: 0 Reale: 0";
+            lblExpected.ForeColor = Color.White;
+
             for (int i = 0; i < _chefs.Count; i++)
             {
-                int index = i; // Cattura dell'indice per evitare closure issues
-
-                // Creo il thread che eseguirà la preparazione del cuoco i-esimo
+                int index = i;
                 Thread thread = new Thread(() => CookDish(index));
-
-                // Imposto il thread come "background thread" in modo che venga terminato se chiudiamo la form
                 thread.IsBackground = true;
-
-                // Avvio la preparazione - il thread viaggia in parallelo al thread principale della form
                 thread.Start();
 
                 AppendLog($"▶ Avvia cottura di {_chefs[index].Name}...");
@@ -110,9 +120,15 @@ namespace ThreadKitchen
             _chefs = Chef.GetDefaultChefs();
             AggiornaCuochi();
             rtbLog.Clear();
+
+            // Reset contatori e label
+            _totalSteps = 0;
+            _expectedSteps = 0;
+            lblExpected.Text = "Atteso: 0 Reale: 0";
+            lblExpected.ForeColor = Color.White;
+
             AppendLog("↺ Reset eseguito. La cucina è pronta per un nuovo turno.");
 
-            // Disabilito reset e abilito start
             btnStart.Enabled = true;
             btnReset.Enabled = false;
         }
@@ -137,19 +153,16 @@ namespace ThreadKitchen
             }
         }
 
-        /// <summary>
-        /// Aggiunge una riga con timestamp all'attività
-        /// </summary>
-        /// <param name="messaggio"></param>
         private void AppendLog(string messaggio)
         {
             this.Invoke((Action)(() =>
             {
-                rtbLog.AppendText($"\n[{DateTime.Now.ToString("hh:mm:ss")}] {messaggio}");
+                // Uso HH maiuscolo per le 24 ore
+                rtbLog.AppendText($"\n[{DateTime.Now.ToString("HH:mm:ss")}] {messaggio}");
                 rtbLog.SelectionStart = rtbLog.Text.Length;
                 rtbLog.ScrollToCaret();
             }));
         }
+
     }
 }
-
