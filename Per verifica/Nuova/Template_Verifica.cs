@@ -5,6 +5,7 @@
 // ============================================================
 using System;
 using System.Drawing;
+using System.Drawing.Printing; // <-- AGGIUNTO PER LA STAMPA
 using System.IO;
 using System.Windows.Forms;
 
@@ -15,6 +16,7 @@ namespace NomeProgetto   // <-- cambia con il nome della tua soluzione
         // ── Campi di classe (aggiungi qui i controlli che usi in più metodi) ──
         private RichTextBox rtbEditor;
         private ToolStripStatusLabel lblInfo;
+        private PrintDocument docStampa; // <-- AGGIUNTO PER LA STAMPA
 
         public Form1() { InitializeComponent(); }
 
@@ -32,7 +34,7 @@ namespace NomeProgetto   // <-- cambia con il nome della tua soluzione
             this.StartPosition = FormStartPosition.CenterScreen;
 
             // ── Bottoni dinamici randomizzati nella metà inferiore ──────────
-            // (decommmenta se richiesto)
+            // (decommenta se richiesto)
             //CreaBotoniDinamici();
 
             // ── Menu dinamico ────────────────────────────────────────────────
@@ -54,7 +56,7 @@ namespace NomeProgetto   // <-- cambia con il nome della tua soluzione
         private void CreaBotoniDinamici()
         {
             Random rng = new Random();
-            string[] etichette = { "Parte 3", "Parte 4", "Parte 5", "Parte 6", "Parte 7", "FAC" };
+            string[] etichette = { "Parte 3", "Parte 4", "Parte 5", "Parte 6", "Parte 7", "FAC", "Stampa" };
             const int btnW = 80, btnH = 30;
 
             foreach (string testo in etichette)
@@ -86,6 +88,7 @@ namespace NomeProgetto   // <-- cambia con il nome della tua soluzione
                 case "btn_Parte6": Parte6_SalvaSuDisco(); break;
                 case "btn_Parte7": Parte7_LeggiMostraMsg(); break;
                 case "btn_FAC": Fac_LeggiInFormDinamica(); break;
+                case "btn_Stampa": AvviaStampa(); break; // <-- AGGIUNTO PER LA STAMPA
             }
         }
 
@@ -124,7 +127,6 @@ namespace NomeProgetto   // <-- cambia con il nome della tua soluzione
         // ============================================================
         private void Parte5_RtbESalvaDialog()
         {
-            // Crea il RichTextBox che occupa la metà superiore
             RichTextBox rtb = new RichTextBox();
             rtb.Multiline = true;
             rtb.Location = new Point(0, 0);
@@ -214,11 +216,11 @@ namespace NomeProgetto   // <-- cambia con il nome della tua soluzione
             txt.Text = contenuto;
 
             f.Controls.Add(txt);
-            f.ShowDialog();  // modale: blocca la form padre
+            f.ShowDialog(); 
         }
 
         // ============================================================
-        //  MENU DINAMICO (decommmenta CreaMenu() nel Form_Load)
+        //  MENU DINAMICO (decommenta CreaMenu() nel Form_Load)
         // ============================================================
         private void CreaMenu()
         {
@@ -227,14 +229,17 @@ namespace NomeProgetto   // <-- cambia con il nome della tua soluzione
 
             ToolStripMenuItem apriItem = new ToolStripMenuItem("Apri") { Name = "apriItem" };
             ToolStripMenuItem salvaItem = new ToolStripMenuItem("Salva") { Name = "salvaItem" };
+            ToolStripMenuItem stampaItem = new ToolStripMenuItem("Stampa") { Name = "stampaItem" }; // <-- AGGIUNTO PER LA STAMPA
             ToolStripMenuItem esciItem = new ToolStripMenuItem("Esci") { Name = "esciItem" };
 
             apriItem.Click += MenuClick;
             salvaItem.Click += MenuClick;
+            stampaItem.Click += MenuClick; // <-- AGGIUNTO PER LA STAMPA
             esciItem.Click += MenuClick;
 
             fileMenu.DropDownItems.Add(apriItem);
             fileMenu.DropDownItems.Add(salvaItem);
+            fileMenu.DropDownItems.Add(stampaItem);
             fileMenu.DropDownItems.Add(esciItem);
 
             ms.Items.Add(fileMenu);
@@ -250,6 +255,7 @@ namespace NomeProgetto   // <-- cambia con il nome della tua soluzione
             {
                 case "apriItem": ApriFile(); break;
                 case "salvaItem": SalvaFile(); break;
+                case "stampaItem": AvviaStampa(); break; // <-- AGGIUNTO PER LA STAMPA
                 case "esciItem": Application.Exit(); break;
             }
         }
@@ -280,6 +286,7 @@ namespace NomeProgetto   // <-- cambia con il nome della tua soluzione
 
         private void AggiornaPosizione()
         {
+            if (rtbEditor == null) return;
             int idx = rtbEditor.GetFirstCharIndexOfCurrentLine();
             int col = rtbEditor.SelectionStart - idx + 1;
             int riga = rtbEditor.GetLineFromCharIndex(rtbEditor.SelectionStart) + 1;
@@ -464,6 +471,54 @@ namespace NomeProgetto   // <-- cambia con il nome della tua soluzione
                 MessageBox.Show("Errore: " + ex.Message, "Errore",
                                 MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
+        }
+
+        // ============================================================
+        //  EXTRA — STAMPA (PrintDialog + PrintDocument)
+        //  Chiamata: AvviaStampa();
+        // ============================================================
+        private void AvviaStampa()
+        {
+            if (docStampa == null)
+            {
+                docStampa = new PrintDocument();
+                docStampa.PrintPage += new PrintPageEventHandler(CreaPaginaDaStampare);
+            }
+
+            using (PrintDialog pd = new PrintDialog())
+            {
+                pd.Document = docStampa;
+                if (pd.ShowDialog() == DialogResult.OK)
+                {
+                    try
+                    {
+                        docStampa.Print();
+                    }
+                    catch (Exception ex)
+                    {
+                        MessageBox.Show("Errore durante la stampa: " + ex.Message, "Errore", 
+                                        MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    }
+                }
+            }
+        }
+
+        private void CreaPaginaDaStampare(object sender, PrintPageEventArgs e)
+        {
+            // Stampa il contenuto del rtbEditor, o un testo di default se è vuoto/nullo
+            string testo = (rtbEditor != null && !string.IsNullOrWhiteSpace(rtbEditor.Text)) 
+                           ? rtbEditor.Text 
+                           : "Nessun testo da stampare.";
+
+            Font fontStampa = new Font("Arial", 12);
+            SolidBrush pennello = new SolidBrush(Color.Black);
+
+            float x = e.MarginBounds.Left;
+            float y = e.MarginBounds.Top;
+            RectangleF areaDiStampa = new RectangleF(x, y, e.MarginBounds.Width, e.MarginBounds.Height);
+
+            e.Graphics.DrawString(testo, fontStampa, pennello, areaDiStampa);
+            e.HasMorePages = false; 
         }
     }
 }
