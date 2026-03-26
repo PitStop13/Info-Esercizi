@@ -59,13 +59,15 @@ namespace ThreadKitchen
                 // Incremento il progresso del piatto in modo casuale
                 // (non tutte le lavorazioni sono ugualmente impegnative/importanti)
                 int incremento = _rnd.Next(1, 9);
-                //chef.Progress += incremento;
                 chef.Progress = Math.Min(100, chef.Progress + incremento); // Per evitare di superare 100
 
-                // Aggiorniamo i dati nella form
-                // ATTENZIONE: probabilmente andrà in errore!
-                //_pbChef[chefId].Value = chef.Progress;
-                //_lblPrecChef[chefId].Text = chef.Progress + "%";
+                // Aggiorniamo i dati nella form in modo thread-safe
+                int currentProgress = chef.Progress;
+                this.Invoke((Action)(() =>
+                {
+                    _pbChef[chefId].Value = currentProgress;
+                    _lblPrecChef[chefId].Text = currentProgress + "%";
+                }));
             }
 
             // Preparazione piatto completata (stop cronometro e set dati chef)
@@ -85,18 +87,21 @@ namespace ThreadKitchen
             btnStart.Enabled = false;
             btnReset.Enabled = true;
 
-            AppendLog($"▶ Avvio preparazione di {_chefs[0].Name}...");
+            for (int i = 0; i < _chefs.Count; i++)
+            {
+                int index = i; // Cattura dell'indice per evitare closure issues
 
-            // Creo il thread che eseguirà la preparazione del primo cuoco (cuoco 0 - Mario)
-            Thread threadMario = new Thread(() => CookDish(0));
+                // Creo il thread che eseguirà la preparazione del cuoco i-esimo
+                Thread thread = new Thread(() => CookDish(index));
 
-            // Imposto il thread come "background thread" in modo che venga terminato se chiudiamo la form
-            threadMario.IsBackground = true;
+                // Imposto il thread come "background thread" in modo che venga terminato se chiudiamo la form
+                thread.IsBackground = true;
 
-            // Avvio la preparazione - il thread di Mario viaggia in parallelo al thread principale della form
-            threadMario.Start();
+                // Avvio la preparazione - il thread viaggia in parallelo al thread principale della form
+                thread.Start();
 
-            //AppendLog("▶ Avvia premuto — logica thread non ancora implementata.");
+                AppendLog($"▶ Avvia cottura di {_chefs[index].Name}...");
+            }
         }
 
         // --- Pulsante Reset
@@ -125,7 +130,7 @@ namespace ThreadKitchen
 
         private void AggiornaCuochi()
         {
-            for(int i = 0; i < _chefs.Count; i++)
+            for (int i = 0; i < _chefs.Count; i++)
             {
                 _pbChef[i].Value = _chefs[i].Progress;
                 _lblPrecChef[i].Text = _chefs[i].Progress + "%";
@@ -133,13 +138,18 @@ namespace ThreadKitchen
         }
 
         /// <summary>
-        /// Aggiunge una riga con stamptime all'attività
+        /// Aggiunge una riga con timestamp all'attività
         /// </summary>
         /// <param name="messaggio"></param>
         private void AppendLog(string messaggio)
         {
-            rtbLog.AppendText($"\n[{DateTime.Now.ToString("hh:mm:ss")}]; {messaggio}");
-            rtbLog.ScrollToCaret();
+            this.Invoke((Action)(() =>
+            {
+                rtbLog.AppendText($"\n[{DateTime.Now.ToString("hh:mm:ss")}] {messaggio}");
+                rtbLog.SelectionStart = rtbLog.Text.Length;
+                rtbLog.ScrollToCaret();
+            }));
         }
     }
 }
+
