@@ -30,7 +30,7 @@
         {
             this.lblTitolo = new System.Windows.Forms.Label();
             this.panelBtn = new System.Windows.Forms.Panel();
-            this.lblVincitore = new System.Windows.Forms.Label();
+            this.lblTxtVincitore = new System.Windows.Forms.Label();
             this.lblExpected = new System.Windows.Forms.Label();
             this.btnReset = new System.Windows.Forms.Button();
             this.btnStart = new System.Windows.Forms.Button();
@@ -50,6 +50,8 @@
             this.lblPrecChef0 = new System.Windows.Forms.Label();
             this.pbChef0 = new System.Windows.Forms.ProgressBar();
             this.lblChef0 = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
+            this.lblVincitore = new System.Windows.Forms.Label();
             this.panelBtn.SuspendLayout();
             this.panelData.SuspendLayout();
             this.grpLog.SuspendLayout();
@@ -72,6 +74,8 @@
             // panelBtn
             // 
             this.panelBtn.Controls.Add(this.lblVincitore);
+            this.panelBtn.Controls.Add(this.label1);
+            this.panelBtn.Controls.Add(this.lblTxtVincitore);
             this.panelBtn.Controls.Add(this.lblExpected);
             this.panelBtn.Controls.Add(this.btnReset);
             this.panelBtn.Controls.Add(this.btnStart);
@@ -82,16 +86,16 @@
             this.panelBtn.Size = new System.Drawing.Size(715, 61);
             this.panelBtn.TabIndex = 3;
             // 
-            // lblVincitore
+            // lblTxtVincitore
             // 
-            this.lblVincitore.AutoSize = true;
-            this.lblVincitore.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblVincitore.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.lblVincitore.Location = new System.Drawing.Point(542, 24);
-            this.lblVincitore.Name = "lblVincitore";
-            this.lblVincitore.Size = new System.Drawing.Size(104, 18);
-            this.lblVincitore.TabIndex = 3;
-            this.lblVincitore.Text = "Il vincitore è:";
+            this.lblTxtVincitore.AutoSize = true;
+            this.lblTxtVincitore.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblTxtVincitore.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.lblTxtVincitore.Location = new System.Drawing.Point(499, 24);
+            this.lblTxtVincitore.Name = "lblTxtVincitore";
+            this.lblTxtVincitore.Size = new System.Drawing.Size(104, 18);
+            this.lblTxtVincitore.TabIndex = 3;
+            this.lblTxtVincitore.Text = "Il vincitore è:";
             // 
             // lblExpected
             // 
@@ -301,6 +305,26 @@
             this.lblChef0.TabIndex = 0;
             this.lblChef0.Text = "label1";
             // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.label1.Location = new System.Drawing.Point(608, 24);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(0, 18);
+            this.label1.TabIndex = 4;
+            // 
+            // lblVincitore
+            // 
+            this.lblVincitore.AutoSize = true;
+            this.lblVincitore.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblVincitore.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.lblVincitore.Location = new System.Drawing.Point(599, 24);
+            this.lblVincitore.Name = "lblVincitore";
+            this.lblVincitore.Size = new System.Drawing.Size(0, 18);
+            this.lblVincitore.TabIndex = 5;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -348,6 +372,8 @@
         private System.Windows.Forms.ProgressBar pbChef1;
         private System.Windows.Forms.Label lblChef1;
         private System.Windows.Forms.Label lblExpected;
+        private System.Windows.Forms.Label lblTxtVincitore;
+        private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label lblVincitore;
     }
 }

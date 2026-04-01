@@ -18,9 +18,15 @@ namespace ThreadKitchen
 
         private readonly Random _rnd = new Random();
 
-        // --- COMMIT 4: Variabili per la Race Condition ---
+        // --- Variabili per la Race Condition ---
         private int _totalSteps = 0;
         private int _expectedSteps = 0;
+
+        // --- Oggetto usato per la sincronizzazione dei thread ---
+        private readonly object _lockObject = new object();
+
+        // --- NUOVO: Flag per tracciare se c'è già un vincitore ---
+        private bool _hasWinner = false;
 
         public Form1()
         {
@@ -41,7 +47,25 @@ namespace ThreadKitchen
             ImpostaLabelCuochi();
             AggiornaCuochi();
 
+            lblVincitore.Text = "In attesa dell'inizio...";
+
             AppendLog("🍳 Cucina pronta. Premi «Avvia cucina» per iniziare.");
+        }
+
+        // --- METODO: Gestisce l'incremento in modo centralizzato e sicuro ---
+        private void IncrementaPassi(int incremento)
+        {
+            // Valore REALE: Protetto dal lock per evitare la race condition.
+            // Solo un thread alla volta può entrare in questo blocco di codice.
+            lock (_lockObject)
+            {
+                int temp = _totalSteps;
+                Thread.Sleep(1); // Simula interruzione (ora inoffensiva grazie al lock)
+                _totalSteps = temp + incremento;
+            }
+
+            // Valore ATTESO: Atomico e thread-safe
+            Interlocked.Add(ref _expectedSteps, incremento);
         }
 
         // --- Metodo eseguito in un thread che simula la cottura di un piatto
@@ -57,17 +81,8 @@ namespace ThreadKitchen
                 int incremento = _rnd.Next(1, 9);
                 chef.Progress = Math.Min(100, chef.Progress + incremento);
 
-                // --- INIZIO COMMIT 4: Race Condition ---
-
-                // Valore ATTESO: Atomico e thread-safe
-                Interlocked.Add(ref _expectedSteps, incremento);
-
-                // Valore REALE: Lento e soggetto a race condition
-                int temp = _totalSteps;
-                Thread.Sleep(1); // Simula interruzione del SO
-                _totalSteps = temp + incremento;
-
-                // --- FINE COMMIT 4 ---
+                // --- Richiamo la funzione centralizzata ---
+                IncrementaPassi(incremento);
 
                 int currentProgress = chef.Progress;
 
@@ -77,7 +92,7 @@ namespace ThreadKitchen
                     _pbChef[chefId].Value = currentProgress;
                     _lblPrecChef[chefId].Text = currentProgress + "%";
 
-                    // Aggiorniamo l'etichetta del bug
+                    // Aggiorniamo l'etichetta del controllo errori
                     bool ok = (_totalSteps == _expectedSteps);
                     lblExpected.Text = $"Atteso: {_expectedSteps} Reale: {_totalSteps}";
                     lblExpected.ForeColor = ok ? Color.Lime : Color.Red;
@@ -89,6 +104,24 @@ namespace ThreadKitchen
             chef.IsFinished = true;
 
             AppendLog($"{chef.Name} ha finito in {chef.ElapsedSeconds:F2} secondi");
+
+            // --- NUOVO: Logica per decretare il vincitore in modo thread-safe ---
+            lock (_lockObject)
+            {
+                if (!_hasWinner)
+                {
+                    _hasWinner = true; // Chiudo la porta per gli altri thread
+
+                    // Aggiorno l'interfaccia utente con il nome del vincitore
+                    this.Invoke((Action)(() =>
+                    {
+                        lblVincitore.Text = $"{chef.Name}!";
+                        lblVincitore.ForeColor = Color.DarkOrange; // Colore per evidenziare la vittoria
+                    }));
+
+                    AppendLog($"🏅 IL VINCITORE È {chef.Name.ToUpper()}!");
+                }
+            }
         }
 
         // --- Pulsante Avvia
@@ -97,11 +130,16 @@ namespace ThreadKitchen
             btnStart.Enabled = false;
             btnReset.Enabled = true;
 
-            // Azzero i contatori della race condition
+            // Azzero i contatori
             _totalSteps = 0;
             _expectedSteps = 0;
             lblExpected.Text = "Atteso: 0 Reale: 0";
             lblExpected.ForeColor = Color.White;
+
+            // Reset stato vincitore
+            _hasWinner = false;
+            lblVincitore.Text = "Gara in corso...";
+            lblVincitore.ForeColor = Color.Black; // Ripristino il colore di default (modifica se usi un tema scuro)
 
             for (int i = 0; i < _chefs.Count; i++)
             {
@@ -126,6 +164,11 @@ namespace ThreadKitchen
             _expectedSteps = 0;
             lblExpected.Text = "Atteso: 0 Reale: 0";
             lblExpected.ForeColor = Color.White;
+
+            // Reset stato vincitore
+            _hasWinner = false;
+            lblVincitore.Text = "In attesa dell'inizio...";
+            lblVincitore.ForeColor = Color.Black;
 
             AppendLog("↺ Reset eseguito. La cucina è pronta per un nuovo turno.");
 
@@ -163,6 +206,5 @@ namespace ThreadKitchen
                 rtbLog.ScrollToCaret();
             }));
         }
-
     }
 }
