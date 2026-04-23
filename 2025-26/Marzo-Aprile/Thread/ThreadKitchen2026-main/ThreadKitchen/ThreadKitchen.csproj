@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AE681E39-9D0C-4725-8256-9A5CC11527B4}</ProjectGuid>
+    <ProjectGuid>{13329E96-E76A-4001-8457-0D11FF358D7B}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>ThreadKitchen</RootNamespace>
     <AssemblyName>ThreadKitchen</AssemblyName>
@@ -55,9 +55,6 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="FormMain.resx">
-      <DependentUpon>FormMain.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
